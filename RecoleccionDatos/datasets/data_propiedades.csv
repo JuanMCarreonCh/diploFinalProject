@@ -1,0 +1,1417 @@
+terreno,construccion,recamaras,banos,estacionamientos,ubicacion,precio,anio_construct,tipo
+61.5,61.5,2,1,1,"Doctores, Cuauhtémoc, Ciudad De México 06720, México.","$2,900,000 MXN",2022,regular
+55.2,55.2,1,1,1,"Doctores, Cuauhtémoc, Ciudad De México 06720, México.","$3,200,000 MXN",2018,regular
+60.0,60.0,3,1,0,"Culhuacán CTM Sección VIII, Coyoacán, Ciudad De México 04831, México.","$1,500,000 MXN",1998,departamento
+42.0,42.0,1,1,0,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$2,137,000 MXN",1972,Duela
+121.0,220.0,3,2,1,"Condesa, Cuauhtémoc, Ciudad De México 06140, México.","$14,890,000 MXN",1964,regular
+122.0,172.0,6,2,0,"Reynosa Tamaulipas, Azcapotzalco, Ciudad De México 02200, México.","$3,300,000 MXN",1980,Loseta
+122.0,172.0,6,2,0,"Reynosa Tamaulipas, Azcapotzalco, Ciudad De México 02200, México.","$3,300,000 MXN",1980,Loseta
+"1,500.0","2,000.0",6,7,12,"Jardines Del Pedregal, Alvaro Obregón, Ciudad De México 01900, México.","$135,000,000 MXN",2013,regular
+54.0,54.0,2,1,1,"Nonoalco, Benito Juárez, Ciudad De México 03700, México.","$2,500,000 MXN",2015,departamento
+119.0,119.0,2,2,1,"Paseos De Taxqueña, Coyoacán, Ciudad De México 04250, México.","$3,300,000 MXN",1984,regular
+59.0,59.0,2,2,1,"Guerrero, Cuauhtémoc, Ciudad De México 06300, México.","$2,259,459 MXN",2013,departamento
+157.0,235.0,5,3,0,"Miguel Hidalgo, Tlalpan, Ciudad De México 14260, México.","$6,500,000 MXN",1988,regular
+34.0,117.0,3,1,1,"Alianza Popular Revolucionaria Fovissste, Coyoacán, Ciudad De México 04800, México.","$2,550,000 MXN",1984,Vinílico
+64.0,64.0,2,1,0,"Lindavista Vallejo II Secc., Gustavo A. Madero, Ciudad De México 07755, México.","$1,350,000 MXN",1982,loseta vinilica
+55.0,55.0,2,1,1,"Guerrero, Cuauhtémoc, Ciudad De México 06300, México.","$2,150,000 MXN",2013,regular
+73.4,73.4,2,1,0,"Pedregal De Carrasco, Coyoacán, Ciudad De México 04700, México.","$2,200,000 MXN",,regular
+"1,227.7",701.0,3,3,4,"Jardines Del Pedregal De San Ángel, Coyoacán, Ciudad De México 04500, México.","$35,000,000 MXN",2018,casa-en-condominio
+147.0,147.0,2,2,2,"Paseo De Las Lomas, Alvaro Obregón, Ciudad De México 01330, México.","$7,900,000 MXN",2014,departamento
+105.0,105.0,3,1,0,"Nonoalco Tlatelolco, Cuauhtémoc, Ciudad De México 06900, México.","$2,750,000 MXN",60,departamento
+64.0,64.0,2,1,1,"Santa Rosa, Gustavo A. Madero, Ciudad De México 07620, México.","$1,650,000 MXN",2009,departamento
+123.0,123.0,3,2,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$4,950,000 MXN",1984,departamento
+180.0,180.0,2,3,1,"Polanco Reforma, Miguel Hidalgo, Ciudad De México 11550, México.","$8,880,000 MXN",20,regular
+200.0,200.0,3,3,1,"Polanco Reforma, Miguel Hidalgo, Ciudad De México 11550, México.","$9,500,000 MXN",20,LOSETA
+50.0,50.0,2,1,1,"San Miguel, Iztapalapa, Ciudad De México 09360, México.","$1,800,000 MXN",2018,loseta
+497.0,497.0,4,5,4,"Jardines Del Pedregal, Alvaro Obregón, Ciudad De México 01900, México.","$29,500,000 MXN",2021,penthouse
+180.0,310.0,5,4,2,"Santa Cecilia, Coyoacán, Ciudad De México 04930, México.","$12,950,000 MXN",1980,Loseta
+72.0,72.0,,1,1,"DM Nacional, Gustavo A. Madero, Ciudad De México 07450, México.","$2,126,000 MXN",2008,loseta
+64.6,64.6,2,1,1,"Portales Sur, Benito Juárez, Ciudad De México 03300, México.","$2,800,000 MXN",1974,departamento
+100.0,100.0,3,2,2,"San José Insurgentes, Benito Juárez, Ciudad De México 03900, México.","$5,700,000 MXN",2024,departamento
+109.0,109.0,2,2,0,"Lomas De los Angeles De Tetelpan, Alvaro Obregón, Ciudad De México 01790, México.","$5,714,200 MXN",2024,departamento
+70.0,70.0,2,2,2,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$4,440,000 MXN",2024,departamento
+168.0,163.0,3,2,2,"Del Valle Norte, Benito Juárez, Ciudad De México 03103, México.","$7,300,000 MXN",2016,casa
+118.5,118.5,3,2,0,"Nápoles, Benito Juárez, Ciudad De México 03810, México.","$5,190,000 MXN",40,regular
+80.6,80.6,2,1,0,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$3,190,000 MXN",40,regular
+152.0,152.0,3,3,2,"Polanco Reforma, Miguel Hidalgo, Ciudad De México 11550, México.","$12,776,000 MXN",,departamento
+97.0,97.0,2,3,1,"Condesa, Cuauhtémoc, Ciudad De México 06140, México.","$8,200,000 MXN",2019,departamento
+120.0,208.0,3,1,1,"Colonial Iztapalapa, Iztapalapa, Ciudad De México 09270, México.","$4,950,000 MXN",1983,regular
+122.0,122.0,3,3,2,"San José Insurgentes, Benito Juárez, Ciudad De México 03900, México.","$5,900,000 MXN",1980,departamento
+79.0,79.0,2,2,2,"Vértiz Narvarte, Benito Juárez, Ciudad De México 03600, México.","$3,990,000 MXN",12,laminado
+200.0,170.0,3,2,2,"Prado Coapa 3a Secc., Tlalpan, Ciudad De México 14357, México.","$7,500,000 MXN",40,casa
+57.0,57.0,,,0,"San Rafael, Cuauhtémoc, Ciudad De México 06470, México.","$2,480,000 MXN",2001,departamento
+437.0,274.0,3,3,3,"Villa Quietud, Coyoacán, Ciudad De México 04960, México.","$9,950,000 MXN",1980,casa
+66.4,66.4,2,2,2,"Tierra Nueva, Xochimilco, Ciudad De México 16050, México.","$3,300,000 MXN",18,casa-duplex
+70.0,70.0,3,2,2,"Carola, Alvaro Obregón, Ciudad De México 01180, México.","$3,500,000 MXN",2014,2
+212.0,375.0,3,3,3,"Residencial Acoxpa, Tlalpan, Ciudad De México 14300, México.","$8,400,000 MXN",2000,"Duela, Loseta,  Mármol"
+79.2,79.2,2,1,1,"Agrícola Oriental, Iztacalco, Ciudad De México 08500, México.","$2,150,000 MXN",7,loseta
+82.0,82.0,2,1,1,"Nonoalco Tlatelolco, Cuauhtémoc, Ciudad De México 06900, México.","$1,949,500 MXN",1963,departamento
+44.0,55.0,2,1,0,"Ejercito Constitucionalista, Iztapalapa, Ciudad De México 09220, México.","$850,000 MXN",1996,Loseta cerámica
+132.0,132.0,3,2,2,"Santa Ursula Xitla, Tlalpan, Ciudad De México 14420, México.","$5,600,000 MXN",15,ceramico y duela
+85.0,85.0,3,2,2,"Del Gas Amp, Azcapotzalco, Ciudad De México 02970, México.","$3,800,000 MXN",2021,departamento
+173.0,173.0,3,2,1,"Sifón, Iztapalapa, Ciudad De México 09400, México.","$4,700,000 MXN",2010,regular
+200.0,225.0,2,1,1,"San Bartolo Atepehuacan, Gustavo A. Madero, Ciudad De México 07730, México.","$4,556,000 MXN",40,regular
+173.0,173.0,3,2,1,"Sifón, Iztapalapa, Ciudad De México 09400, México.","$4,790,000 MXN",2010,regular
+74.0,74.0,2,2,1,"Roma Sur, Cuauhtémoc, Ciudad De México 06760, México.","$3,890,000 MXN",10,regular
+74.0,74.0,2,2,1,"Roma Sur, Cuauhtémoc, Ciudad De México 06760, México.","$3,890,000 MXN",10,regular
+64.0,64.0,2,1,1,"Guerrero, Cuauhtémoc, Ciudad De México 06300, México.","$1,550,000 MXN",1993,departamento
+89.0,89.0,2,2,2,"Pedregal De Carrasco, Coyoacán, Ciudad De México 04700, México.","$5,900,000 MXN",2020,regular
+18.0,65.0,2,2,1,"Escandón II Sección, Miguel Hidalgo, Ciudad De México 11800, México.","$3,400,000 MXN",2012,Loseta Cerámica
+212.0,278.0,,4,0,"San Diego Churubusco, Coyoacán, Ciudad De México 04120, México.","$8,700,000 MXN",1973,casa
+47.2,47.2,2,1,1,"Guerrero, Cuauhtémoc, Ciudad De México 06300, México.","$2,433,375 MXN",2024,departamento
+64.0,64.0,3,1,0,"Anahuac, Miguel Hidalgo, Ciudad De México 11320, México.","$2,000,000 MXN",2003,departamento
+54.0,73.0,3,1,1,"Santiago Ahuizotla, Azcapotzalco, Ciudad De México 02750, México.","$2,300,000 MXN",1996,Lozeta
+173.0,173.0,3,2,1,"Sifón, Iztapalapa, Ciudad De México 09400, México.","$4,790,000 MXN",2010,regular
+400.0,520.0,4,4,4,"Jardines De Coyoacán, Coyoacán, Ciudad De México 04890, México.","$19,900,000 MXN",1981,casa
+260.0,260.0,4,4,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$9,300,000 MXN",2016,regular
+184.0,194.0,6,3,1,"Santa Inés, Azcapotzalco, Ciudad De México 02140, México.","$3,850,000 MXN",1972,regular
+81.0,81.0,1,1,2,"San Rafael, Cuauhtémoc, Ciudad De México 06470, México.","$4,100,000 MXN",25,departamento
+86.0,86.0,2,2,1,"Lomas Del Chamizal, Cuajimalpa De Morelos, Ciudad De México 05129, México.","$4,200,000 MXN",9,departamento
+151.0,151.0,3,2,2,"Polanco Chapultepec, Miguel Hidalgo, Ciudad De México 11560, México.","$12,150,000 MXN",2009,departamento
+85.0,85.0,3,1,0,"Acueducto de Guadalupe, Gustavo A. Madero, Ciudad De México 07279, México.","$1,550,000 MXN",1984,departamento
+256.0,256.0,3,3,3,"Bosques De Las Lomas, Miguel Hidalgo, Ciudad De México 11700, México.","$8,950,000 MXN",13,departamento
+120.0,163.0,3,3,0,"San Francisco, La Magdalena Contreras, Ciudad De México 10500, México.","$5,000,000 MXN",1989,casa
+154.0,154.0,3,2,1,"Verónica Anzures, Miguel Hidalgo, Ciudad De México 11300, México.","$6,290,000 MXN",1999,"LAMINADO, PARQUET Y LOSETA"
+67.0,67.0,3,1,1,"Unidad Cuitlahuac, Azcapotzalco, Ciudad De México 02500, México.","$1,790,000 MXN",1982,Loseta
+56.8,56.8,2,1,0,"Guerrero, Cuauhtémoc, Ciudad De México 06300, México.","$1,550,000 MXN",1999,loseta cerámica
+558.2,465.3,3,4,5,"Lomas De Vista Hermosa, Cuajimalpa De Morelos, Ciudad De México 05100, México.","$31,047,000 MXN",2023,departamento
+66.1,66.1,2,1,1,"Niños Héroes De Chapultepec, Benito Juárez, Ciudad De México 03440, México.","$2,500,000 MXN",2000,regular
+208.0,459.0,5,3,3,"Santa María Ticoman, Gustavo A. Madero, Ciudad De México 07330, México.","$11,300,000 MXN",1981,casa
+86.2,60.8,2,2,1,"San Rafael, Cuauhtémoc, Ciudad De México 06470, México.","$3,500,000 MXN",2015,regular
+81.0,81.0,2,2,1,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$4,500,000 MXN",2015,departamento
+139.7,139.7,3,3,0,"El Contadero, Cuajimalpa De Morelos, Ciudad De México 05500, México.","$10,985,080 MXN",4,departamento
+84.2,84.2,3,2,1,"La Preciosa, Azcapotzalco, Ciudad De México 02460, México.","$3,200,000 MXN",2021,departamento
+35.0,64.0,2,2,2,"El Jagüey, Azcapotzalco, Ciudad De México 02519, México.","$2,740,000 MXN",2017,Loseta Ceramica
+50.2,50.2,2,1,1,"Azcapotzalco, Azcapotzalco, Ciudad De México 02070, México.","$2,485,000 MXN",2022,departamento
+60.0,60.0,2,1,1,"Nápoles, Benito Juárez, Ciudad De México 03810, México.","$3,900,000 MXN",2018,departamento
+200.0,195.5,3,2,6,"Nueva Atzacoalco, Gustavo A. Madero, Ciudad De México 07420, México.","$6,700,000 MXN",1989,casa
+180.0,497.0,8,6,4,"Avante, Coyoacán, Ciudad De México 04460, México.","$17,000,000 MXN",2024,casa
+63.0,63.0,2,1,1,"Arenal, Azcapotzalco, Ciudad De México 02980, México.","$2,979,000 MXN",2022,departamento
+52.0,52.0,3,1,0,"Guerrero, Cuauhtémoc, Ciudad De México 06300, México.","$1,500,000 MXN",2001,departamento
+123.2,123.2,2,2,2,"Hipódromo De La Condesa, Cuauhtémoc, Ciudad De México 06170, México.","$9,124,075 MXN",2024,departamento
+123.2,123.2,2,2,2,"Hipódromo De La Condesa, Cuauhtémoc, Ciudad De México 06170, México.","$9,418,400 MXN",2024,departamento
+123.2,123.2,2,2,2,"Hipódromo De La Condesa, Cuauhtémoc, Ciudad De México 06170, México.","$8,829,750 MXN",2024,departamento
+63.9,63.9,2,2,2,"Del Gas Amp, Azcapotzalco, Ciudad De México 02970, México.","$3,250,000 MXN",2020,regular
+44.8,44.8,1,1,0,"Prado Churubusco, Coyoacán, Ciudad De México 04230, México.","$2,200,000 MXN",10,departamento
+85.8,85.8,3,2,1,"Santa Teresa, La Magdalena Contreras, Ciudad De México 10710, México.","$3,100,000 MXN",40,Duela
+69.1,69.1,1,1,1,"Tlalpan Centro, Tlalpan, Ciudad De México 14000, México.","$4,500,000 MXN",2002,regular
+67.0,67.0,2,2,1,"Santa María La Ribera, Cuauhtémoc, Ciudad De México 06400, México.","$3,100,000 MXN",2004,departamento
+158.0,158.0,3,3,2,"Juárez, Cuauhtémoc, Ciudad De México 06600, México.","$16,733,735 MXN / $870,000 USD",2008,Madera sólida y Granito
+161.0,82.0,2,2,2,"Buenavista, Cuauhtémoc, Ciudad De México 06350, México.","$4,650,000 MXN",2022,departamento
+85.0,85.0,2,2,1,"Xoco, Benito Juárez, Ciudad De México 03330, México.","$5,450,000 MXN",2024,departamento
+95.3,95.3,2,2,1,"Hipódromo De La Condesa, Cuauhtémoc, Ciudad De México 06170, México.","$5,832,775 MXN",2024,departamento
+95.3,95.3,2,2,1,"Hipódromo De La Condesa, Cuauhtémoc, Ciudad De México 06170, México.","$6,281,450 MXN",2024,departamento
+93.8,93.8,2,2,1,"Hipódromo De La Condesa, Cuauhtémoc, Ciudad De México 06170, México.","$6,832,012 MXN",2024,departamento
+93.8,93.8,2,2,1,"Hipódromo De La Condesa, Cuauhtémoc, Ciudad De México 06170, México.","$5,950,462 MXN",2024,departamento
+93.8,93.8,2,2,1,"Hipódromo De La Condesa, Cuauhtémoc, Ciudad De México 06170, México.","$6,391,237 MXN",2024,departamento
+95.3,95.3,2,2,1,"Hipódromo De La Condesa, Cuauhtémoc, Ciudad De México 06170, México.","$6,730,125 MXN",2024,departamento
+57.0,57.0,2,1,0,"San Marcos, Azcapotzalco, Ciudad De México 02020, México.","$1,690,000 MXN",2000,Lozeta
+90.0,90.0,2,1,1,"Nochebuena, Benito Juárez, Ciudad De México 03720, México.","$4,780,000 MXN",33,Cerámica y Laminado
+99.0,92.0,,2,2,"El Yaqui, Cuajimalpa De Morelos, Ciudad De México 05320, México.","$6,000,000 MXN",3,regular
+80.0,80.0,3,2,1,"San Bartolo Atepehuacan, Gustavo A. Madero, Ciudad De México 07730, México.","$3,500,000 MXN",2013,regular
+94.0,136.0,3,1,1,"San José Insurgentes, Benito Juárez, Ciudad De México 03900, México.","$7,821,000 MXN",1930,regular
+201.0,201.0,3,3,2,"San José Insurgentes, Benito Juárez, Ciudad De México 03900, México.","$15,800,000 MXN",1,departamento
+88.0,88.0,2,2,1,"Portales Sur, Benito Juárez, Ciudad De México 03300, México.","$3,850,000 MXN",1,departamento
+135.0,338.0,3,4,2,"Lomas De los Angeles De Tetelpan, Alvaro Obregón, Ciudad De México 01790, México.","$5,000,000 MXN",14,casa
+60.0,60.0,1,1,1,"San José Insurgentes, Benito Juárez, Ciudad De México 03900, México.","$4,443,075 MXN",2,departamento
+198.0,174.0,3,2,2,"Jardines De Coyoacán, Coyoacán, Ciudad De México 04890, México.","$7,300,000 MXN",1977,Loseta
+216.0,237.0,3,1,1,"San Miguel Ajusco, Tlalpan, Ciudad De México 14700, México.","$1,800,000 MXN",2012,cerámico
+197.0,197.0,1,2,2,"Anzures, Miguel Hidalgo, Ciudad De México 11590, México.","$14,000,000 MXN",2023,regular
+90.0,90.0,1,2,2,"San José Insurgentes, Benito Juárez, Ciudad De México 03900, México.","$6,299,000 MXN",2,departamento
+67.8,67.8,2,2,1,"Cuauhtémoc, Cuauhtémoc, Ciudad De México 06500, México.","$6,160,000 MXN",,regular
+150.0,292.0,7,2,3,"Veinte De Noviembre Quinto Tramo, Venustiano Carranza, Ciudad De México 15309, México.","$5,290,000 MXN",45,Loseta
+389.0,564.0,4,4,2,"Parque Del Pedregal, Tlalpan, Ciudad De México 14010, México.","$15,500,000 MXN",42,casa
+43.5,43.5,2,1,0,"Centro De La Ciudad De México Area 1, Cuauhtémoc, Ciudad De México 06000, México.","$2,000,000 MXN",2020,departamento
+91.0,91.0,3,2,2,"Acacias, Benito Juárez, Ciudad De México 03240, México.","$7,500,000 MXN",2022,Porcelanato y Madera Tzalam
+138.0,138.3,2,2,0,"Lomas De los Angeles De Tetelpan, Alvaro Obregón, Ciudad De México 01790, México.","$5,630,300 MXN",1,departamento
+95.0,94.1,2,1,1,"San Pedro De Los Pinos, Benito Juárez, Ciudad De México 03800, México.","$5,475,000 MXN",1,departamento
+388.0,388.0,3,3,4,"Santa Fe La Loma, Alvaro Obregón, Ciudad De México 01376, México.","$22,500,000 MXN",2009,departamento
+168.0,168.3,2,2,2,"Granada, Miguel Hidalgo, Ciudad De México 11520, México.","$11,421,000 MXN",1,departamento
+55.0,55.0,2,1,1,"Jamaica, Venustiano Carranza, Ciudad De México 15800, México.","$2,300,000 MXN",2014,departamento
+260.0,200.0,3,2,3,"Portales Norte, Benito Juárez, Ciudad De México 03303, México.","$10,000,000 MXN",50,regular
+68.0,68.0,2,2,1,"Bellavista, Alvaro Obregón, Ciudad De México 01140, México.","$2,050,000 MXN",2007,loza
+250.0,307.0,4,4,5,"El Rosedal, Coyoacán, Ciudad De México 04330, México.","$12,000,000 MXN",1986,Laminado y loseta
+30.0,30.0,1,1,0,"Albert, Benito Juárez, Ciudad De México 03560, México.","$1,390,000 MXN",60,regular
+60.0,60.0,3,1,1,"Santa María La Ribera, Cuauhtémoc, Ciudad De México 06400, México.","$2,640,000 MXN",1993,departamento
+86.6,86.6,3,1,1,"Moctezuma 2a Secc., Venustiano Carranza, Ciudad De México 15530, México.","$2,650,000 MXN",2014,loseta
+216.0,216.0,2,2,3,"San Mateo Tlaltenango, Cuajimalpa De Morelos, Ciudad De México 05600, México.","$16,200,000 MXN",2016,departamento
+69.0,69.0,3,1,0,"Ejido El Rosario, Azcapotzalco, Ciudad De México 02120, México.","$1,400,000 MXN",1980,regular
+200.0,283.4,4,2,6,"Tres Estrellas, Gustavo A. Madero, Ciudad De México 07820, México.","$7,500,000 MXN",1993,casa
+172.0,222.0,4,2,1,"Irrigación, Miguel Hidalgo, Ciudad De México 11500, México.","$15,500,000 MXN",1966,casa
+198.0,200.0,14,2,0,"Olivar Del Conde 2a Secc., Alvaro Obregón, Ciudad De México 01408, México.","$3,800,000 MXN",1997,regular
+393.0,292.0,2,2,3,"Las Aguilas, Alvaro Obregón, Ciudad De México 01710, México.","$17,000,000 MXN",2004,regular
+300.0,660.0,4,2,2,"Constitución De 1917, Iztapalapa, Ciudad De México 09260, México.","$10,000,000 MXN",1979,regular
+480.0,600.0,4,3,6,"Guadalupe Inn, Alvaro Obregón, Ciudad De México 01020, México.","$21,900,000 MXN",1990,"Parquet, mármol Y ceramica"
+89.0,89.0,2,1,1,"Industrial, Gustavo A. Madero, Ciudad De México 07800, México.","$2,400,000 MXN",1994,departamento
+101.0,101.0,3,2,1,"Del Valle Sur, Benito Juárez, Ciudad De México 03001, México.","$4,100,000 MXN",1996,departamento
+51.0,51.0,2,1,0,"Pantitlán, Iztacalco, Ciudad De México 08100, México.","$1,370,000 MXN",2003,departamento
+57.0,57.0,2,2,1,"El Jagüey, Azcapotzalco, Ciudad De México 02519, México.","$2,890,000 MXN",2014,departamento
+385.0,845.0,3,5,6,"Colinas Del Bosque, Tlalpan, Ciudad De México 14608, México.","$23,998,500 MXN",2011,casa
+61.0,61.0,2,1,1,"Portales Sur, Benito Juárez, Ciudad De México 03300, México.","$2,950,000 MXN",12,departamento
+57.8,57.8,2,1,1,"Parque San Andrés, Coyoacán, Ciudad De México 04040, México.","$3,500,000 MXN",2017,céramico
+200.0,194.5,4,3,4,"Cuajimalpa, Cuajimalpa De Morelos, Ciudad De México 05000, México.","$5,800,000 MXN",1995,casa
+42.0,42.0,2,1,0,"Valle Gómez, Cuauhtémoc, Ciudad De México 06240, México.","$1,600,000 MXN",2017,departamento
+75.0,129.0,2,1,0,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$6,450,000 MXN",1966,casa
+198.0,198.0,2,2,2,"Periodista, Miguel Hidalgo, Ciudad De México 11220, México.","$4,950,000 MXN",2022,departamento
+34.5,34.5,1,1,0,"Centro De La Ciudad De México Area 2, Cuauhtémoc, Ciudad De México 06010, México.","$2,050,000 MXN",5,Laminado
+60.0,60.0,2,1,0,"Salvador Díaz Mirón, Gustavo A. Madero, Ciudad De México 07400, México.","$1,300,000 MXN",16,regular
+114.5,80.0,3,1,1,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$3,500,000 MXN",50,Lozeta
+50.0,88.0,2,1,0,"Ejercito De Agua Prieta, Iztapalapa, Ciudad De México 09578, México.","$1,660,000 MXN",2012,casa
+94.0,210.0,5,3,2,"Toriello Guerra, Tlalpan, Ciudad De México 14050, México.","$7,490,000 MXN",2009,regular
+270.0,275.0,3,2,3,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$10,000,000 MXN",1983,regular
+120.0,190.0,2,3,2,"El Contadero, Cuajimalpa De Morelos, Ciudad De México 05500, México.","$5,200,000 MXN",2011,casa-en-condominio
+108.0,108.0,2,3,2,"Miguel Hidalgo, Tlalpan, Ciudad De México 14260, México.","$4,200,000 MXN",20,casa-en-condominio
+104.0,190.0,3,3,1,"San Jerónimo Aculco, La Magdalena Contreras, Ciudad De México 10400, México.","$5,500,000 MXN",23,regular
+242.0,335.0,4,4,2,"San Jerónimo Aculco, La Magdalena Contreras, Ciudad De México 10400, México.","$8,900,000 MXN",28,casa-en-condominio
+183.4,187.7,3,1,2,"San Salvador Cuauhtenco, Milpa Alta, Ciudad De México 12300, México.","$2,250,000 MXN",20,casa
+170.0,240.0,3,2,2,"Santo Tomás Ajusco, Tlalpan, Ciudad De México 14710, México.","$2,400,000 MXN",2,casa
+340.0,332.0,3,3,7,"Villa Verdún, Alvaro Obregón, Ciudad De México 01810, México.","$18,900,000 MXN",2010,casa
+50.0,50.0,2,1,0,"Fuentes Brotantes Fovissste, Tlalpan, Ciudad De México 14410, México.","$2,200,000 MXN",1994,regular
+85.0,85.0,2,2,2,"Lomas De Vista Hermosa, Cuajimalpa De Morelos, Ciudad De México 05100, México.","$5,755,945 MXN",2,departamento
+64.0,64.0,2,1,1,"Gabriel Hernández, Gustavo A. Madero, Ciudad De México 07080, México.","$2,469,000 MXN",2023,departamento
+53.0,53.0,1,1,1,"Gabriel Hernández, Gustavo A. Madero, Ciudad De México 07080, México.","$1,890,000 MXN",2023,departamento
+72.0,72.0,2,2,1,"Gabriel Hernández, Gustavo A. Madero, Ciudad De México 07080, México.","$2,765,000 MXN",2023,departamento
+105.0,105.0,2,2,1,"Avante, Coyoacán, Ciudad De México 04460, México.","$4,950,000 MXN",2004,departamento
+66.0,66.0,2,1,1,"Portales, Benito Juárez, Ciudad De México 03300, México.","$2,800,000 MXN",1984,Granito
+90.0,172.8,3,3,0,"Emiliano Zapata Fraccionamiento Popular, Coyoacán, Ciudad De México 04919, México.","$3,730,000 MXN",1994,regular
+408.0,200.0,7,2,5,"La Conchita, Tláhuac, Ciudad De México 13360, México.","$3,300,000 MXN",2000,casa
+92.5,92.5,2,2,1,"San Miguel Chapultepec, Miguel Hidalgo, Ciudad De México 11850, México.","$6,500,000 MXN",2006,regular
+67.5,67.5,2,2,1,"Obrera, Cuauhtémoc, Ciudad De México 06800, México.","$4,050,000 MXN",3,penthouse
+80.5,70.1,2,2,1,"Granada, Miguel Hidalgo, Ciudad De México 11520, México.","$7,397,000 MXN",2023,departamento
+453.0,950.0,7,6,4,"Bosques De Las Lomas, Miguel Hidalgo, Ciudad De México 11700, México.","$33,000,000 MXN",1984,"mármol, loseta"
+"1,765.0",577.0,3,4,8,"Tetelpan, Alvaro Obregón, Ciudad De México 01700, México.","$29,980,000 MXN",1987,casa
+259.0,256.0,4,3,2,"San José De Los Cedros, Cuajimalpa De Morelos, Ciudad De México 05200, México.","$5,850,000 MXN",20,regular
+211.0,210.0,4,1,1,"Ciudad Jardín, Coyoacán, Ciudad De México 04370, México.","$10,300,000 MXN",35,casa
+351.9,427.0,4,4,10,"Granjas Modernas, Gustavo A. Madero, Ciudad De México 07460, México.","$12,000,000 MXN",1979,Concreto
+121.0,150.0,5,2,2,"Emiliano Zapata Amp, Iztapalapa, Ciudad De México 09638, México.","$2,050,000 MXN",1999,regular
+47.0,47.0,2,1,0,"Chinampac De Juárez Frente VII, Iztapalapa, Ciudad De México 09208, México.","$1,000,000 MXN",1994,Loseta cerámica19
+664.4,460.4,3,4,4,"Atlamaya, Alvaro Obregón, Ciudad De México 01760, México.","$23,000,000 MXN",2017,departamento
+191.0,191.0,3,3,1,"Polanco Reforma, Miguel Hidalgo, Ciudad De México 11550, México.","$12,500,000 MXN",1975,Duela
+65.0,65.0,3,2,0,"Villa Coapa, Tlalpan, Ciudad De México 14390, México.","$2,995,000 MXN",50,casa-duplex
+67.2,67.2,3,1,0,"Ejercito Constitucionalista, Iztapalapa, Ciudad De México 09220, México.","$1,400,000 MXN",35,regular
+549.0,107.0,2,2,2,"Bosques De Las Lomas, Miguel Hidalgo, Ciudad De México 11700, México.","$12,550,000 MXN",50,irregular
+549.0,107.0,2,2,2,"Bosques De Las Lomas, Miguel Hidalgo, Ciudad De México 11700, México.","$12,550,000 MXN",50,irregular
+217.0,340.0,5,3,2,"Lomas De San Angel Inn, Alvaro Obregón, Ciudad De México 01790, México.","$7,950,000 MXN",1961,casa
+228.0,371.0,12,6,3,"Tepalcates, Iztapalapa, Ciudad De México 09210, México.","$5,898,000 MXN",34,regular
+100.0,100.0,3,2,1,"Letran Valle, Benito Juárez, Ciudad De México 03650, México.","$3,198,000 MXN",1994,departamento
+111.8,111.8,3,2,1,"San Jerónimo Lídice, La Magdalena Contreras, Ciudad De México 10200, México.","$3,500,000 MXN",2001,Loseta cerámica
+96.0,96.0,2,2,2,"Santa Cruz Atoyac, Benito Juárez, Ciudad De México 03310, México.","$5,500,000 MXN",14,departamento
+405.0,674.0,5,4,3,"San Pedro Zacatenco, Gustavo A. Madero, Ciudad De México 07360, México.","$16,500,000 MXN",1988,casa
+87.0,87.0,2,2,2,"Portales Norte, Benito Juárez, Ciudad De México 01650, México.","$3,699,000 MXN",2019,departamento
+162.0,162.0,3,5,2,"Santa Fe Cuajimalpa, Cuajimalpa De Morelos, Ciudad De México 05348, México.","$7,050,000 MXN",2006,departamento
+120.0,145.0,3,1,1,"Constitución De 1917, Iztapalapa, Ciudad De México 09260, México.","$3,640,000 MXN",1970,regular
+844.0,198.0,2,2,2,"Bosques De Las Lomas, Miguel Hidalgo, Ciudad De México 11700, México.","$19,690,000 MXN",50,irregular
+209.0,100.0,4,3,2,"Xalpa, Cuajimalpa De Morelos, Ciudad De México 05730, México.","$4,000,000 MXN",1990,regular
+53.0,53.0,2,1,1,"Moctezuma 2a Secc., Venustiano Carranza, Ciudad De México 15530, México.","$1,980,000 MXN",1,departamento
+52.0,52.0,2,1,1,"Santiago Acahualtepec 2a Amp, Iztapalapa, Ciudad De México 09609, México.","$977,000 MXN",1994,regular
+97.0,140.0,3,2,2,"Tizapán, Alvaro Obregón, Ciudad De México 01090, México.","$5,000,000 MXN",2023,regular
+97.0,140.0,3,2,2,"Tizapán, Alvaro Obregón, Ciudad De México 01090, México.","$5,000,000 MXN",2023,regular
+150.0,182.0,4,3,2,"Puente Blanco, Iztapalapa, Ciudad De México 09770, México.","$3,150,000 MXN",1986,casa
+184.0,184.0,3,3,1,"Actipan, Benito Juárez, Ciudad De México 03230, México.","$5,800,000 MXN",45,departamento
+390.0,451.0,3,3,2,"Parque Del Pedregal, Tlalpan, Ciudad De México 14010, México.","$15,000,000 MXN",2004,casa
+57.0,57.0,2,1,1,"Santa Catarina, Azcapotzalco, Ciudad De México 02250, México.","$1,797,521 MXN",2009,regular
+105.0,105.0,2,3,2,"Las Tinajas, Cuajimalpa De Morelos, Ciudad De México 05370, México.","$5,250,000 MXN",2022,departamento
+379.0,235.0,3,5,3,"Las Aguilas, Alvaro Obregón, Ciudad De México 01710, México.","$13,465,500 MXN",2024,departamento
+216.0,216.0,2,3,2,"Nápoles, Benito Juárez, Ciudad De México 03810, México.","$8,598,500 MXN",2021,departamento
+264.0,194.0,3,5,2,"Las Aguilas, Alvaro Obregón, Ciudad De México 01710, México.","$14,187,000 MXN",2024,departamento
+345.0,194.0,3,5,2,"Las Aguilas, Alvaro Obregón, Ciudad De México 01710, México.","$15,348,000 MXN",2024,departamento
+281.0,464.0,3,3,4,"San Jerónimo Aculco, La Magdalena Contreras, Ciudad De México 10400, México.","$14,400,000 MXN",2014,casa
+362.0,270.0,3,6,3,"Las Aguilas, Alvaro Obregón, Ciudad De México 01710, México.","$14,464,000 MXN",2024,departamento
+51.2,86.1,2,2,0,"Unidad Santa Fe IMSS, Alvaro Obregón, Ciudad De México 01170, México.","$2,500,000 MXN",1974,casa-en-condominio
+87.0,87.0,3,2,2,"Popular Santa Teresa, Tlalpan, Ciudad De México 14160, México.","$3,500,000 MXN",2022,departamento
+541.0,448.0,3,3,3,"San Jerónimo Lídice, La Magdalena Contreras, Ciudad De México 10200, México.","$18,500,000 MXN",2000,Marmol y madera
+248.0,344.0,2,1,6,"Iztaccíhuatl, Benito Juárez, Ciudad De México 03520, México.","$12,000,000 MXN",12,Porcelanato
+226.0,226.0,3,3,3,"Polanco II Sección, Miguel Hidalgo, Ciudad De México 11591, México.","$19,000,000 MXN",2014,departamento
+43.0,43.0,2,1,1,"Santo Tomas, Azcapotzalco, Ciudad De México 02020, México.","$2,200,000 MXN",2023,Loseta cerámica
+110.0,110.0,3,2,1,"San Francisco Tlaltenco, Tláhuac, Ciudad De México 13400, México.","$2,850,000 MXN",2013,Loseta
+125.0,125.0,2,2,1,"Tlacoquemécatl Del Valle, Benito Juárez, Ciudad De México 03200, México.","$5,790,000 MXN",20,Cerámica
+110.0,110.0,3,2,2,"Del Valle Sur, Benito Juárez, Ciudad De México 03001, México.","$4,498,000 MXN",1972,departamento
+111.0,111.0,3,2,2,"Acacias, Benito Juárez, Ciudad De México 03240, México.","$4,499,000 MXN",1973,departamento
+310.0,385.0,4,3,4,"Olivar De Los Padres, Alvaro Obregón, Ciudad De México 01780, México.","$11,700,000 MXN",16,casa-en-condominio
+181.0,181.0,3,3,2,"Narvarte Oriente, Benito Juárez, Ciudad De México 03023, México.","$7,081,400 MXN",2023,departamento
+181.0,181.0,3,3,2,"Alamos, Benito Juárez, Ciudad De México 03400, México.","$7,080,500 MXN",2023,departamento
+838.0,476.0,8,6,12,"Niño Jesús, Tlalpan, Ciudad De México 14080, México.","$15,989,000 MXN",1988,casa
+"1,471.0",867.0,9,7,20,"Niño Jesús, Tlalpan, Ciudad De México 14080, México.","$25,988,999 MXN",1988,casa
+200.0,266.0,4,2,2,"El Mirador, Tlalpan, Ciudad De México 14449, México.","$4,850,000 MXN",1999,casa
+84.0,84.0,3,1,1,"Progresista, Iztapalapa, Ciudad De México 09240, México.","$1,335,000 MXN",1989,Laminado
+300.0,440.0,4,3,4,"Lindavista, Gustavo A. Madero, Ciudad De México 07300, México.","$14,000,000 MXN",50,casa
+131.0,201.0,3,3,2,"Barrio San Lucas, Coyoacán, Ciudad De México 04331, México.","$10,900,000 MXN",2014,casa
+103.0,103.0,2,2,3,"San José Insurgentes, Benito Juárez, Ciudad De México 03900, México.","$4,900,000 MXN",2016,departamento
+162.0,411.0,12,6,2,"Palmatitla, Gustavo A. Madero, Ciudad De México 07170, México.","$4,300,000 MXN",2006,regular
+83.0,83.0,2,2,1,"Algarín, Cuauhtémoc, Ciudad De México 06880, México.","$3,100,000 MXN",2018,departamento
+341.0,380.0,4,2,6,"Reforma Iztaccíhuatl Sur, Iztacalco, Ciudad De México 08840, México.","$10,900,000 MXN",1994,casa
+242.0,412.0,5,2,2,"Del Valle Norte, Benito Juárez, Ciudad De México 03103, México.","$22,200,000 MXN",1974,regular
+191.0,191.0,3,2,2,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$9,500,000 MXN",2008,regular
+191.0,191.0,3,2,2,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$9,500,000 MXN",2008,regular
+180.0,250.0,6,4,0,"Granjas Coapa, Tlalpan, Ciudad De México 14330, México.","$7,200,000 MXN",2015,Loseta
+86.0,86.0,2,2,2,"Xoco, Benito Juárez, Ciudad De México 03330, México.","$4,390,000 MXN",2017,departamento
+95.0,95.0,3,3,2,"Xoco, Benito Juárez, Ciudad De México 03330, México.","$4,790,000 MXN",2018,departamento
+247.0,279.0,4,3,1,"San Pedro De Los Pinos, Benito Juárez, Ciudad De México 03800, México.","$8,900,000 MXN",1970,casa
+157.0,157.0,3,3,1,"Del Valle Centro, Benito Juárez, Ciudad De México 03001, México.","$6,800,000 MXN",1984,departamento
+662.0,662.0,8,5,6,"Barrio San Lucas, Coyoacán, Ciudad De México 04331, México.","$24,000,000 MXN",2004,casa
+127.0,127.0,3,2,2,"Insurgentes Cuicuilco, Coyoacán, Ciudad De México 04530, México.","$4,098,500 MXN",1993,departamento
+244.0,364.0,5,3,3,"San Francisco Tetecala, Azcapotzalco, Ciudad De México 02730, México.","$9,000,000 MXN",40,casa
+454.0,685.0,4,5,2,"Florida, Alvaro Obregón, Ciudad De México 01030, México.","$23,000,000 MXN",45,casa
+66.3,66.3,2,2,1,"Roma Sur, Cuauhtémoc, Ciudad De México 06760, México.","$4,250,000 MXN",2011,departamento
+60.3,60.3,2,2,1,"Nueva Rosita, Cuajimalpa De Morelos, Ciudad De México 05238, México.","$4,017,909 MXN",2023,departamento
+100.0,100.0,3,2,0,"Arenal De Guadalupe, Tlalpan, Ciudad De México 14389, México.","$5,500,000 MXN",2017,regular
+49.0,49.0,1,1,0,"Popotla, Miguel Hidalgo, Ciudad De México 11400, México.","$1,980,000 MXN",1,Loseta y Porcelanico
+209.0,350.0,6,4,0,"Santa Lucia, Azcapotzalco, Ciudad De México 02760, México.","$7,500,000 MXN",1980,regular
+183.0,292.0,5,3,3,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$9,500,000 MXN",1972,regular
+128.0,219.0,3,3,2,"Churubusco Tepeyac, Gustavo A. Madero, Ciudad De México 07730, México.","$9,000,000 MXN",1980,regular
+362.0,345.0,4,5,2,"Del Valle Sur, Benito Juárez, Ciudad De México 03001, México.","$21,800,000 MXN",44,Duela y Laminado
+45.0,45.0,2,1,1,"Santiago Zapotitlan, Tláhuac, Ciudad De México 13300, México.","$950,000 MXN",2016,departamento
+83.0,83.0,2,1,0,"Tepeyac Insurgentes, Gustavo A. Madero, Ciudad De México 07020, México.","$1,904,600 MXN",30,Cerámica
+58.0,58.0,1,1,0,"Anáhuac I Secc., Miguel Hidalgo, Ciudad De México 11320, México.","$2,850,000 MXN",4,regular
+61.0,61.0,2,2,1,"Arenal, Azcapotzalco, Ciudad De México 02980, México.","$2,840,000 MXN",5,departamento
+70.0,70.0,2,2,1,"Culhuacán CTM CROC, Coyoacán, Ciudad De México 04480, México.","$3,751,500 MXN",2025,departamento
+168.0,140.0,3,2,2,"San Juan Tepepan, Xochimilco, Ciudad De México 16020, México.","$4,800,000 MXN",1984,casa
+154.0,246.0,3,2,1,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$7,000,000 MXN",51,Porcelanato
+70.8,63.4,1,2,1,"Nativitas, Benito Juárez, Ciudad De México 03500, México.","$3,379,000 MXN",2024,departamento
+72.0,65.0,2,2,1,"Nativitas, Benito Juárez, Ciudad De México 03500, México.","$3,395,000 MXN",2024,departamento
+103.5,65.0,1,2,1,"Nativitas, Benito Juárez, Ciudad De México 03500, México.","$4,454,000 MXN",2024,departamento
+141.0,98.0,2,2,1,"Nativitas, Benito Juárez, Ciudad De México 03500, México.","$5,489,000 MXN",2024,departamento
+72.0,72.0,2,1,1,"San Pedro El Chico, Gustavo A. Madero, Ciudad De México 07480, México.","$2,500,000 MXN",7,departamento
+152.0,152.0,3,2,2,"Roma Sur, Cuauhtémoc, Ciudad De México 06760, México.","$6,300,000 MXN",2003,departamento
+175.0,175.0,3,2,2,"Guadalupe Inn, Alvaro Obregón, Ciudad De México 01020, México.","$10,150,000 MXN",52,Lozeta
+129.0,129.0,3,3,2,"Pedregal De Coyoacán, Coyoacán, Ciudad De México 04330, México.","$4,598,500 MXN",1995,departamento
+83.0,83.0,2,2,2,"Culhuacán CTM CROC, Coyoacán, Ciudad De México 04480, México.","$4,438,000 MXN",,departamento
+149.0,123.0,5,3,1,"Martín Carrera, Gustavo A. Madero, Ciudad De México 07070, México.","$3,333,000 MXN",50,loseta
+200.0,271.0,3,3,2,"San Felipe De Jesús, Gustavo A. Madero, Ciudad De México 07510, México.","$4,000,000 MXN",2000,regular
+701.9,483.0,4,4,6,"Rancho Casa Blanca, Alvaro Obregón, Ciudad De México 01580, México.","$17,900,000 MXN",2002,casa-en-condominio
+197.0,142.0,3,2,3,"Veinte De Noviembre, Venustiano Carranza, Ciudad De México 15300, México.","$5,600,000 MXN",50,regular
+96.0,122.0,5,3,1,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$9,878,500 MXN",40,casa-en-condominio
+134.0,134.0,3,3,3,"Granada Amp, Miguel Hidalgo, Ciudad De México 11529, México.","$7,300,000 MXN",2013,departamento
+186.0,168.0,4,1,1,"Cinco De Mayo, Miguel Hidalgo, Ciudad De México 11470, México.","$5,980,000 MXN",1974,regular
+182.0,256.0,3,3,2,"Lomas De Las Aguilas, Alvaro Obregón, Ciudad De México 01730, México.","$8,560,000 MXN",30,Loseta y Madera
+157.0,191.0,4,1,0,"Guerrero, Cuauhtémoc, Ciudad De México 06300, México.","$3,600,000 MXN",1989,casa
+143.0,143.0,3,2,2,"Ampliación Del Gas, Azcapotzalco, Ciudad De México 02601, México.","$4,985,000 MXN",8,LOSETA CERAMICA
+47.9,47.9,2,1,1,"Santa Ana Poniente, Tláhuac, Ciudad De México 13300, México.","$1,050,000 MXN",16,Loseta
+251.0,517.0,8,4,1,"Miguel Hidalgo, Tlalpan, Ciudad De México 14260, México.","$4,700,000 MXN",1993,casa
+163.7,355.3,3,3,3,"Lomas Quebradas, La Magdalena Contreras, Ciudad De México 10000, México.","$16,500,000 MXN",2020,regular
+210.0,291.3,3,2,2,"Lindavista, Gustavo A. Madero, Ciudad De México 07300, México.","$12,500,000 MXN",49,regular
+57.0,57.0,2,1,1,"Niños Héroes De Chapultepec, Benito Juárez, Ciudad De México 03440, México.","$3,150,000 MXN",2024,departamento
+73.0,73.0,2,2,1,"Niños Héroes De Chapultepec, Benito Juárez, Ciudad De México 03440, México.","$3,600,000 MXN",2024,departamento
+69.0,69.0,2,2,0,"Tetelpan, Alvaro Obregón, Ciudad De México 01700, México.","$3,115,900 MXN",2022,departamento
+69.0,69.0,2,2,0,"Tetelpan, Alvaro Obregón, Ciudad De México 01700, México.","$3,115,900 MXN",2022,departamento
+45.0,45.0,2,1,0,"Presidentes De México, Iztapalapa, Ciudad De México 09740, México.","$750,000 MXN",1990,Cemento
+310.0,349.0,7,3,4,"Lindavista, Gustavo A. Madero, Ciudad De México 07300, México.","$14,000,000 MXN",1984,casa
+151.0,151.0,3,2,4,"Olivar De Los Padres, Alvaro Obregón, Ciudad De México 01780, México.","$5,300,000 MXN",2001,departamento
+101.0,101.0,2,2,2,"Portales Sur, Benito Juárez, Ciudad De México 03300, México.","$3,798,500 MXN",2011,departamento
+494.0,300.0,3,3,3,"Rinconada Coapa, Tlalpan, Ciudad De México 14330, México.","$11,600,000 MXN",35,casa
+108.0,113.0,2,2,0,"Narvarte Oriente, Benito Juárez, Ciudad De México 03023, México.","$3,100,000 MXN",1979,LAMINADO Y LOZETA
+162.0,162.0,3,3,2,"Insurgentes Mixcoac, Benito Juárez, Ciudad De México 03920, México.","$6,000,000 MXN",40,departamento
+159.0,264.0,5,4,1,"Juan González Romero, Gustavo A. Madero, Ciudad De México 07410, México.","$6,000,000 MXN",1999,casa
+198.2,277.4,3,2,2,"Churubusco Country Club, Coyoacán, Ciudad De México 04210, México.","$9,400,000 MXN",1988,casa
+142.1,142.1,3,3,2,"La Otra Banda, Alvaro Obregón, Ciudad De México 01090, México.","$9,500,000 MXN",2020,ingeniería
+314.6,270.0,2,1,0,"Siete De Noviembre, Gustavo A. Madero, Ciudad De México 07840, México.","$10,980,000 MXN",44,casa
+96.0,90.0,2,2,2,"San José Insurgentes, Benito Juárez, Ciudad De México 03900, México.","$6,052,000 MXN",1,departamento
+459.5,756.5,7,4,8,"Valle Del Sur, Iztapalapa, Ciudad De México 09819, México.","$11,800,000 MXN",40,Loseta
+95.5,95.5,3,1,1,"Santa Cruz Atoyac, Benito Juárez, Ciudad De México 03310, México.","$3,800,000 MXN",1984,Mosaico
+120.0,120.0,3,3,2,"Nueva Anzures, Miguel Hidalgo, Ciudad De México 11590, México.","$6,000,000 MXN",2003,DUELA Y LOSETA
+121.0,121.0,2,2,2,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$6,694,000 MXN",2023,departamento
+53.0,53.0,2,1,1,"Cerro De La Estrella, Iztapalapa, Ciudad De México 09860, México.","$1,795,000 MXN",19,Loseta
+472.0,318.0,4,3,2,"Las Aguilas, Alvaro Obregón, Ciudad De México 01710, México.","$16,300,000 MXN",45,loseta
+78.0,78.0,2,1,0,"Juárez, Cuauhtémoc, Ciudad De México 06600, México.","$4,500,000 MXN",1980,regular
+78.0,78.0,2,1,0,"Juárez, Cuauhtémoc, Ciudad De México 06600, México.","$4,500,000 MXN",1980,regular
+440.3,417.0,5,5,3,"Cuajimalpa, Cuajimalpa De Morelos, Ciudad De México 05000, México.","$10,000,000 MXN",18,casa-en-condominio
+64.0,64.0,1,1,0,"Ejidos De San Pedro Mártir, Tlalpan, Ciudad De México 14640, México.","$1,800,000 MXN",2021,regular
+130.0,130.0,3,2,1,"Ejidos De San Pedro Mártir, Tlalpan, Ciudad De México 14640, México.","$3,200,000 MXN",2021,regular
+80.0,80.0,2,2,1,"Anáhuac I Secc., Miguel Hidalgo, Ciudad De México 11320, México.","$4,000,000 MXN",2008,Laminado y Cerámica.
+133.7,133.7,3,2,3,"Granada, Miguel Hidalgo, Ciudad De México 11520, México.","$13,000,000 MXN",2018,departamento
+74.0,74.0,2,1,0,"Unidad Cuitlahuac, Azcapotzalco, Ciudad De México 02500, México.","$2,674,000 MXN",41,departamento
+122.0,122.0,2,2,1,"Juárez, Cuauhtémoc, Ciudad De México 06600, México.","$6,430,000 MXN",2008,parquet de madera
+52.8,52.8,3,1,0,"Buenavista, Iztapalapa, Ciudad De México 09700, México.","$857,000 MXN",2015,Loseta
+270.0,600.0,8,4,3,"Roma Sur, Cuauhtémoc, Ciudad De México 06760, México.","$37,500,000 MXN",73,Mármol y Duela
+252.0,252.0,3,3,2,"Polanco I Sección, Miguel Hidalgo, Ciudad De México 11591, México.","$10,990,000 MXN",25,regular
+251.0,259.0,4,2,5,"Parres El Guarda, Tlalpan, Ciudad De México 14900, México.","$2,600,000 MXN",16,Porcelanato
+82.0,82.0,3,1,1,"Doctores, Cuauhtémoc, Ciudad De México 06720, México.","$2,950,000 MXN",1994,Piso de loseta
+112.4,160.0,3,3,2,"Potrero De San Bernardino, Xochimilco, Ciudad De México 16030, México.","$6,750,000 MXN",35,casa-en-condominio
+153.0,257.0,4,3,3,"Prado Churubusco, Coyoacán, Ciudad De México 04230, México.","$7,000,000 MXN",50,regular
+153.0,257.0,4,3,3,"Prado Churubusco, Coyoacán, Ciudad De México 04230, México.","$7,000,000 MXN",50,regular
+171.2,195.2,4,4,3,"Valle Escondido, Tlalpan, Ciudad De México 14600, México.","$6,990,000 MXN",22,regular
+132.0,132.0,3,2,3,"María Del Carmen, Benito Juárez, Ciudad De México 03540, México.","$5,450,000 MXN",2024,Loseta cerámica color beigede 40x40cm
+76.0,76.0,1,2,1,"Reforma Social, Miguel Hidalgo, Ciudad De México 11650, México.","$4,800,000 MXN",2014,departamento
+150.0,400.0,8,4,1,"Jardín Balbuena, Venustiano Carranza, Ciudad De México 15900, México.","$13,650,000 MXN",1978,casa
+495.0,556.0,3,3,5,"Cumbres de Sta. Fe, Cuajimalpa De Morelos, Ciudad De México 05600, México.","$38,900,000 MXN",2011,casa-en-condominio
+74.0,74.0,2,2,1,"Santa Maria Nonoalco, Benito Juárez, Ciudad De México 03901, México.","$4,495,000 MXN",2024,departamento
+499.0,387.0,5,3,6,"Pedregal De San Nicolás 3a Secc., Tlalpan, Ciudad De México 14100, México.","$8,500,000 MXN",1993,casa
+120.0,120.0,3,2,1,"Hipódromo De La Condesa, Cuauhtémoc, Ciudad De México 06170, México.","$5,700,000 MXN",1993,departamento
+118.0,118.0,3,2,2,"Bosques De Tarango, Alvaro Obregón, Ciudad De México 01580, México.","$3,298,500 MXN",1994,departamento
+70.0,66.8,2,2,2,"Josefa Ortiz De Domínguez, Benito Juárez, Ciudad De México 03430, México.","$3,015,218 MXN",2023,regular
+40.0,34.6,2,2,1,"Granada, Miguel Hidalgo, Ciudad De México 11520, México.","$2,568,747 MXN",2023,regular
+500.0,83.2,3,2,1,"Letran Valle, Benito Juárez, Ciudad De México 03650, México.","$4,000,000 MXN",2008,regular
+56.8,56.8,2,1,0,"Peralvillo, Cuauhtémoc, Ciudad De México 06220, México.","$1,700,000 MXN",2010,departamento
+125.0,240.0,5,4,2,"El Rosedal, Coyoacán, Ciudad De México 04330, México.","$8,750,000 MXN",1995,Loseta y duela.
+90.0,82.4,2,2,1,"Residencial Zacatenco, Gustavo A. Madero, Ciudad De México 07369, México.","$4,269,265 MXN",2023,regular
+101.0,101.0,2,2,2,"Irrigación, Miguel Hidalgo, Ciudad De México 11500, México.","$6,100,000 MXN",2009,departamento
+68.0,65.0,2,2,1,"Escandón I Secc., Miguel Hidalgo, Ciudad De México 11800, México.","$4,334,497 MXN",2024,regular
+70.0,61.2,2,2,2,"El Yaqui, Cuajimalpa De Morelos, Ciudad De México 05320, México.","$3,680,965 MXN",2024,regular
+102.0,102.0,2,2,2,"Santa Fe Cuajimalpa, Cuajimalpa De Morelos, Ciudad De México 05348, México.","$7,997,597 MXN",2021,regular
+420.0,284.0,3,3,2,"San Jerónimo Aculco, La Magdalena Contreras, Ciudad De México 10400, México.","$14,000,000 MXN",1984,casa
+90.0,90.0,3,2,1,"Lomas Estrella, Iztapalapa, Ciudad De México 09890, México.","$2,890,000 MXN",1999,departamento
+71.0,71.0,3,1,1,"Guadalupe Victoria, Gustavo A. Madero, Ciudad De México 07790, México.","$2,100,000 MXN",1983,Loseta
+65.0,65.0,2,2,1,"Independencia, Benito Juárez, Ciudad De México 03630, México.","$3,322,000 MXN",2015,regular
+87.0,87.0,2,2,2,"Anzures, Miguel Hidalgo, Ciudad De México 11590, México.","$10,900,000 MXN",2005,Porcelanato
+97.0,112.0,3,1,2,"Alianza Popular Revolucionaria Fovissste, Coyoacán, Ciudad De México 04800, México.","$4,450,000 MXN",40,LINOLEUM
+228.0,370.0,4,4,3,"Atlamaya, Alvaro Obregón, Ciudad De México 01760, México.","$14,950,000 MXN",15,Madera
+75.0,75.0,2,2,1,"Santa María La Ribera, Cuauhtémoc, Ciudad De México 06400, México.","$3,375,745 MXN",2016,regular
+27.0,57.0,2,1,1,"San Juan Xalpa, Iztapalapa, Ciudad De México 09850, México.","$990,000 MXN",2002,regular
+139.0,139.0,2,4,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$7,100,000 MXN",2014,departamento
+84.0,84.0,3,2,1,"San Clemente, Alvaro Obregón, Ciudad De México 01740, México.","$3,450,000 MXN",40,Madera
+43.0,43.0,1,1,1,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$3,600,000 MXN",2015,departamento
+46.0,46.0,1,1,0,"Cuauhtémoc, Cuauhtémoc, Ciudad De México 06500, México.","$3,350,000 MXN",2016,departamento
+402.0,340.0,5,4,3,"Residencial Zacatenco, Gustavo A. Madero, Ciudad De México 07369, México.","$10,800,000 MXN",50,loseta
+65.0,65.0,2,1,1,"Escandón, Miguel Hidalgo, Ciudad De México 11800, México.","$3,155,000 MXN",2004,departamento
+352.0,388.0,4,3,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$17,350,000 MXN",1969,irregular
+459.0,326.0,7,2,6,"Pueblo Nuevo Alto, La Magdalena Contreras, Ciudad De México 10640, México.","$7,000,000 MXN",1994,DUELA Y CERÁMICA
+144.1,80.5,2,2,2,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$5,950,000 MXN",2017,departamento
+69.0,69.0,2,2,2,"El Jagüey, Azcapotzalco, Ciudad De México 02519, México.","$3,100,000 MXN",2014,departamento
+"1,072.0",419.2,3,2,10,"Doctores, Cuauhtémoc, Ciudad De México 06720, México.","$27,000,000 MXN",1973,Parquet y Loseta
+300.0,386.7,5,4,3,"Avante, Coyoacán, Ciudad De México 04460, México.","$7,975,000 MXN",1993,Parquet y Loseta.
+41.6,41.6,2,1,0,"Guerrero, Cuauhtémoc, Ciudad De México 06300, México.","$1,170,000 MXN",1988,Laminado
+66.4,66.4,1,1,1,"Anáhuac I Secc., Miguel Hidalgo, Ciudad De México 11320, México.","$5,050,000 MXN",2016,Laminado y Loseta
+450.0,420.0,3,4,10,"Anahuac, Miguel Hidalgo, Ciudad De México 11320, México.","$11,300,000 MXN",1970,CERAMICA
+167.0,262.0,3,1,3,"Del Carmen, Coyoacán, Ciudad De México 04100, México.","$16,400,000 MXN",60,casa
+120.0,110.0,3,1,2,"Santa Ursula Xitla, Tlalpan, Ciudad De México 14420, México.","$4,500,000 MXN",1980,casa
+184.0,184.0,3,3,3,"La Otra Banda, Alvaro Obregón, Ciudad De México 01090, México.","$10,500,000 MXN",2020,ingeniería
+299.0,140.0,4,4,3,"San Miguel Xicalco, Tlalpan, Ciudad De México 14490, México.","$5,400,000 MXN",2018,irregular
+405.0,165.0,3,2,6,"La Malinche, La Magdalena Contreras, Ciudad De México 10010, México.","$6,150,000 MXN",20,regular
+274.2,255.5,3,3,3,"Rincón Del Bosque, Miguel Hidalgo, Ciudad De México 11580, México.","$27,982,800 MXN",2023,regular
+67.8,67.8,2,2,1,"María Del Carmen, Benito Juárez, Ciudad De México 03540, México.","$3,423,200 MXN",2023,regular
+77.2,77.2,2,2,1,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$4,800,000 MXN",2023,regular
+665.0,600.0,3,3,215,"Olivar De Los Padres, Alvaro Obregón, Ciudad De México 01780, México.","$21,900,000 MXN",2014,casa-en-condominio
+174.0,230.0,4,2,2,"San Jerónimo Lídice, La Magdalena Contreras, Ciudad De México 10200, México.","$8,500,000 MXN",1979,casa-en-condominio
+66.5,66.5,2,2,1,"Portales, Benito Juárez, Ciudad De México 03300, México.","$3,700,000 MXN",2023,regular
+59.6,59.6,1,1,1,"Portales Oriente, Benito Juárez, Ciudad De México 03570, México.","$3,000,000 MXN",2023,regular
+262.0,240.0,3,2,8,"Independencia, Benito Juárez, Ciudad De México 03630, México.","$9,500,000 MXN",50,Lozeta
+191.0,434.0,4,5,2,"Torres Lindavista, Gustavo A. Madero, Ciudad De México 07708, México.","$14,389,999 MXN",2004,casa
+124.0,124.0,2,2,2,"Torres De Potrero, Alvaro Obregón, Ciudad De México 01840, México.","$6,400,000 MXN",4,regular
+124.0,124.0,2,2,2,"Torres De Potrero, Alvaro Obregón, Ciudad De México 01840, México.","$6,400,000 MXN",4,regular
+218.0,218.0,4,4,3,"Polanco Chapultepec, Miguel Hidalgo, Ciudad De México 11560, México.","$29,000,000 MXN",2024,departamento
+218.0,218.0,4,4,3,"Polanco Chapultepec, Miguel Hidalgo, Ciudad De México 11560, México.","$29,000,000 MXN",2024,departamento
+209.0,450.0,6,6,4,"Olímpica, Coyoacán, Ciudad De México 04710, México.","$12,000,000 MXN",1993,regular
+223.0,223.0,4,4,4,"Polanco Chapultepec, Miguel Hidalgo, Ciudad De México 11560, México.","$29,500,000 MXN",2024,departamento
+80.0,80.0,2,1,1,"Tlalcoligia, Tlalpan, Ciudad De México 14430, México.","$2,950,000 MXN",1972,regular
+120.3,120.3,3,3,1,"San Pedro De Los Pinos, Benito Juárez, Ciudad De México 03800, México.","$6,400,000 MXN",2024,regular
+147.0,147.0,3,3,1,"San Pedro De Los Pinos, Benito Juárez, Ciudad De México 03800, México.","$6,200,000 MXN",2024,regular
+65.4,65.4,2,2,1,"Lindavista, Gustavo A. Madero, Ciudad De México 07300, México.","$4,374,700 MXN",2023,regular
+86.4,86.4,2,2,2,"Granada Amp, Miguel Hidalgo, Ciudad De México 11529, México.","$6,038,900 MXN",2023,regular
+138.7,126.0,2,3,2,"Acacias, Benito Juárez, Ciudad De México 03240, México.","$9,900,000 MXN",2023,regular
+295.0,162.0,3,4,3,"San Jerónimo Lídice, La Magdalena Contreras, Ciudad De México 10200, México.","$9,437,000 MXN",1994,regular
+122.0,281.0,5,3,1,"Lomas De San Lorenzo, Iztapalapa, Ciudad De México 09780, México.","$4,900,000 MXN",30,Loseta
+496.0,360.0,4,3,1,"Lindavista, Gustavo A. Madero, Ciudad De México 07300, México.","$13,800,000 MXN",1955,casa
+56.0,56.0,2,1,1,"Villa Centroamericana Y Del Caribe, Tláhuac, Ciudad De México 13278, México.","$990,000 MXN",1990,Loseta
+72.6,74.8,2,2,2,"Adolfo López Mateos, Cuajimalpa De Morelos, Ciudad De México 05280, México.","$3,338,400 MXN",2023,regular
+69.6,69.6,2,2,1,"Portales Oriente, Benito Juárez, Ciudad De México 03570, México.","$3,462,400 MXN",2023,regular
+63.9,63.9,2,2,1,"Santa María La Ribera, Cuauhtémoc, Ciudad De México 06400, México.","$3,518,400 MXN",2024,regular
+165.0,165.0,3,2,1,"Los Alpes, Alvaro Obregón, Ciudad De México 01010, México.","$4,985,000 MXN",1979,Parquet y cerámico.
+104.0,104.0,2,2,2,"Xoco, Benito Juárez, Ciudad De México 03330, México.","$9,700,000 MXN",2022,departamento
+70.0,70.0,2,2,1,"Ciudad De Los Deportes, Benito Juárez, Ciudad De México 03710, México.","$4,433,825 MXN",2024,regular
+130.0,130.0,2,2,1,"Nonoalco, Benito Juárez, Ciudad De México 03700, México.","$6,405,905 MXN",2024,regular
+107.0,107.0,2,2,1,"Nonoalco, Benito Juárez, Ciudad De México 03700, México.","$5,439,060 MXN",2024,regular
+40.0,36.4,1,1,0,"Juárez, Cuauhtémoc, Ciudad De México 06600, México.","$4,163,800 MXN",2023,regular
+59.8,59.8,2,1,0,"San Andrés, Azcapotzalco, Ciudad De México 02240, México.","$1,875,000 MXN",2000,Loseta
+47.0,47.0,2,1,1,"Ejercito De Agua Prieta, Iztapalapa, Ciudad De México 09578, México.","$697,000 MXN",22,Cemento
+220.0,150.0,3,2,3,"Ejidos De San Pedro Mártir, Tlalpan, Ciudad De México 14640, México.","$3,500,000 MXN",2003,casa
+220.0,220.0,3,3,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$9,500,000 MXN",2016,regular
+920.0,320.0,5,3,5,"San Juan Tepepan, Xochimilco, Ciudad De México 16020, México.","$9,000,000 MXN",1958,Azulejo
+54.0,54.0,2,1,1,"San Miguel Amantla, Azcapotzalco, Ciudad De México 02700, México.","$1,945,000 MXN",2024,regular
+151.0,151.0,3,3,1,"Del Valle Sur, Benito Juárez, Ciudad De México 03001, México.","$6,490,000 MXN",1986,departamento
+654.0,750.0,3,5,6,"Bosques De Las Lomas, Miguel Hidalgo, Ciudad De México 11700, México.","$29,000,000 MXN",2000,casa
+"1,149.5",918.0,3,5,6,"Jardines Del Pedregal, Alvaro Obregón, Ciudad De México 01900, México.","$27,500,000 MXN",43,regular
+85.9,85.9,2,2,2,"Torres De Potrero, Alvaro Obregón, Ciudad De México 01840, México.","$3,500,000 MXN",2012,departamento
+79.0,79.0,3,1,2,"Valle Escondido, Tlalpan, Ciudad De México 14600, México.","$2,500,000 MXN",1984,departamento
+243.0,243.0,3,3,2,"Bosques De Las Lomas, Cuajimalpa De Morelos, Ciudad De México 05120, México.","$10,500,000 MXN",2003,departamento
+137.1,69.9,2,1,1,"Portales, Benito Juárez, Ciudad De México 03300, México.","$3,545,500 MXN",2023,regular
+163.0,152.0,3,3,2,"Polanco V Sección, Miguel Hidalgo, Ciudad De México 11560, México.","$12,776,000 MXN",2023,regular
+144.6,144.6,3,2,1,"Del Valle Sur, Benito Juárez, Ciudad De México 03001, México.","$6,600,000 MXN",1978,departamento
+117.8,61.8,2,2,1,"San Rafael, Cuauhtémoc, Ciudad De México 06470, México.","$3,635,700 MXN",2024,regular
+118.0,118.0,3,3,2,"Viejo Ejido De Santa Ursula Coapa, Coyoacán, Ciudad De México 04980, México.","$6,000,000 MXN",2016,departamento
+618.0,353.0,10,5,8,"Santa Martha Acatitla Norte, Iztapalapa, Ciudad De México 09140, México.","$6,600,000 MXN",54,Ceramica
+480.0,594.0,4,6,6,"Del Carmen, Coyoacán, Ciudad De México 04100, México.","$28,000,000 MXN",2012,casa
+90.0,90.0,3,2,2,"Miguel Hidalgo 4a Secc. Amp, Tlalpan, Ciudad De México 14250, México.","$3,150,000 MXN",2007,departamento
+69.2,64.0,2,2,1,"Tetelpan, Alvaro Obregón, Ciudad De México 01700, México.","$3,646,500 MXN",2023,regular
+90.0,255.0,4,3,3,"San Miguel Chapultepec, Miguel Hidalgo, Ciudad De México 11850, México.","$12,500,000 MXN",2008,Pisos Cerámicos
+54.5,54.5,2,1,1,"Daniel Garza, Miguel Hidalgo, Ciudad De México 11830, México.","$1,599,000 MXN",2004,departamento
+279.9,300.2,3,3,2,"Lomas Del Pedregal Framboyanes, Tlalpan, Ciudad De México 14150, México.","$19,666,000 MXN",2023,regular
+56.0,56.0,2,1,1,"San Miguel Amantla, Azcapotzalco, Ciudad De México 02700, México.","$1,960,000 MXN",2024,regular
+58.0,58.0,2,2,1,"San Miguel Amantla, Azcapotzalco, Ciudad De México 02700, México.","$2,155,000 MXN",2024,regular
+60.0,60.0,2,2,1,"San Miguel Amantla, Azcapotzalco, Ciudad De México 02700, México.","$2,230,000 MXN",2024,departamento
+62.0,62.0,2,2,2,"San Miguel Amantla, Azcapotzalco, Ciudad De México 02700, México.","$2,330,000 MXN",2024,regular
+64.0,64.0,2,2,1,"San Miguel Amantla, Azcapotzalco, Ciudad De México 02700, México.","$2,400,000 MXN",2024,departamento
+68.0,63.0,2,2,1,"San Miguel Amantla, Azcapotzalco, Ciudad De México 02700, México.","$2,510,000 MXN",2024,regular
+73.0,68.0,2,2,1,"San Miguel Amantla, Azcapotzalco, Ciudad De México 02700, México.","$2,650,000 MXN",2024,regular
+85.0,85.0,2,2,2,"Acacias, Benito Juárez, Ciudad De México 03240, México.","$5,383,522 MXN",2023,regular
+91.0,82.0,2,2,2,"Acacias, Benito Juárez, Ciudad De México 03240, México.","$5,508,000 MXN",2023,regular
+80.0,80.0,2,2,2,"Acacias, Benito Juárez, Ciudad De México 03240, México.","$5,994,496 MXN",2023,regular
+70.2,64.9,2,2,1,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$4,440,000 MXN",2023,regular
+60.0,60.0,3,2,0,"DM Nacional, Gustavo A. Madero, Ciudad De México 07450, México.","$2,020,000 MXN",16,Porcelanato
+73.0,73.0,3,2,2,"Constitución De La República, Gustavo A. Madero, Ciudad De México 07469, México.","$2,750,000 MXN",2015,departamento
+96.2,96.2,3,2,2,"Jardines Del Pedregal, Alvaro Obregón, Ciudad De México 01900, México.","$8,014,200 MXN",2022,regular
+48.7,48.7,1,1,1,"Jardines Del Pedregal, Alvaro Obregón, Ciudad De México 01900, México.","$3,649,000 MXN",2022,regular
+72.2,72.2,2,2,2,"Jardines Del Pedregal, Alvaro Obregón, Ciudad De México 01900, México.","$5,853,000 MXN",2022,regular
+300.0,335.0,3,2,2,"Del Valle Sur, Benito Juárez, Ciudad De México 03001, México.","$16,980,000 MXN",1970,regular
+138.0,138.0,3,2,0,"Narvarte Oriente, Benito Juárez, Ciudad De México 03023, México.","$4,500,000 MXN",1970,departamento
+94.5,94.5,3,2,1,"Francisco Villa, Azcapotzalco, Ciudad De México 02420, México.","$3,290,000 MXN",2012,regular
+499.0,333.0,4,4,7,"Jardines Del Ajusco, Tlalpan, Ciudad De México 14200, México.","$11,680,000 MXN",2021,casa
+53.0,53.0,2,1,1,"Guerrero, Cuauhtémoc, Ciudad De México 06300, México.","$1,850,000 MXN",2009,departamento
+141.0,236.0,4,2,3,"Cantil Del Pedregal, Coyoacán, Ciudad De México 04730, México.","$5,980,000 MXN",1987,regular
+80.0,80.0,2,1,1,"Niños Héroes De Chapultepec, Benito Juárez, Ciudad De México 03440, México.","$4,850,000 MXN",2014,departamento
+306.0,363.0,6,5,2,"Lindavista, Gustavo A. Madero, Ciudad De México 07300, México.","$13,400,000 MXN",1991,lozeta
+160.0,265.0,4,3,0,"Santa Maria Nonoalco, Benito Juárez, Ciudad De México 03901, México.","$20,000,000 MXN",1984,casa
+97.0,97.0,2,1,1,"Juárez, Cuauhtémoc, Ciudad De México 06600, México.","$4,245,000 MXN",2024,regular
+151.9,270.4,3,2,2,"San Angel Inn, Alvaro Obregón, Ciudad De México 01060, México.","$17,990,000 MXN",14,casa
+"1,906.0","1,430.0",15,17,15,"San Lorenzo Huipulco, Tlalpan, Ciudad De México 14370, México.","$49,500,000 MXN",1995,regular
+113.0,119.0,2,2,2,"Lomas De los Angeles De Tetelpan, Alvaro Obregón, Ciudad De México 01790, México.","$5,489,500 MXN",2024,regular
+515.0,515.0,5,5,3,"Polanco I Sección, Miguel Hidalgo, Ciudad De México 11591, México.","$22,990,000 MXN",34,Mármol y Madera
+388.0,369.0,8,5,0,"Cuevitas De Curamaguey, Tlalpan, Ciudad De México 14267, México.","$8,667,900 MXN",1988,regular
+221.0,177.0,2,2,0,"Toriello Guerra, Tlalpan, Ciudad De México 14050, México.","$7,000,000 MXN",1893,casa
+62.2,62.2,2,2,1,"Del Gas, Azcapotzalco, Ciudad De México 02950, México.","$2,590,000 MXN",2017,departamento
+96.2,96.2,3,2,2,"Miguel Hidalgo, Tlalpan, Ciudad De México 14250, México.","$3,700,000 MXN",10,Loseta
+214.0,214.0,4,4,2,"Juárez, Cuauhtémoc, Ciudad De México 06600, México.","$10,152,000 MXN",2022,regular
+180.0,180.0,3,2,2,"Pedregal De Carrasco, Coyoacán, Ciudad De México 04700, México.","$5,500,000 MXN",2021,departamento
+190.9,190.9,,,0,"Desarrollo Santa Fe, Alvaro Obregón, Ciudad De México 01376, México.","$9,200,000 MXN",2007,departamento
+242.0,242.0,3,2,2,"Verónica Anzures, Miguel Hidalgo, Ciudad De México 11300, México.","$10,115,000 MXN",2022,regular
+202.0,100.0,2,1,4,"San Miguel Topilejo, Tlalpan, Ciudad De México 14500, México.","$1,450,000 MXN",10,regular
+120.0,120.0,3,2,2,"Ciudad De Los Deportes, Benito Juárez, Ciudad De México 03710, México.","$4,500,000 MXN",19,Madera
+120.0,120.0,3,3,3,"Acueducto De Guadalupe, Gustavo A. Madero, Ciudad De México 07270, México.","$4,600,000 MXN",1984,lozeta
+182.9,274.8,3,4,3,"Campestre Churubusco, Coyoacán, Ciudad De México 04200, México.","$9,850,000 MXN",2007,casa
+307.0,272.0,3,1,3,"La Magdalena Petlacalco, Tlalpan, Ciudad De México 14480, México.","$4,440,000 MXN",2005,regular
+190.0,305.0,3,4,1,"Justo Sierra, Iztapalapa, Ciudad De México 09081, México.","$7,900,000 MXN",1986,casa
+130.0,130.0,3,2,2,"Cuauhtémoc, Cuauhtémoc, Ciudad De México 06500, México.","$6,800,000 MXN",2006,Laminado
+130.0,130.0,3,2,2,"Cuauhtémoc, Cuauhtémoc, Ciudad De México 06500, México.","$6,800,000 MXN",2006,Laminado
+53.0,51.0,2,1,1,"Bondojito, Gustavo A. Madero, Ciudad De México 07850, México.","$2,400,000 MXN",10,departamento
+300.5,500.0,6,1,1,"Anzures, Miguel Hidalgo, Ciudad De México 11590, México.","$23,000,000 MXN",1974,irregular
+301.0,301.0,3,3,4,"Lomas De Bezares, Miguel Hidalgo, Ciudad De México 11910, México.","$10,990,000 MXN",2003,departamento
+53.0,53.0,2,1,1,"Santiago Atzacoalco, Gustavo A. Madero, Ciudad De México 07040, México.","$2,250,000 MXN",5,regular
+52.0,52.0,2,1,0,"Santa María La Ribera, Cuauhtémoc, Ciudad De México 06400, México.","$1,680,000 MXN",22,Loseta
+106.0,106.0,2,2,2,"Santa Fe, Alvaro Obregón, Ciudad De México 01210, México.","$5,150,000 MXN",2004,departamento
+79.0,79.0,2,2,2,"San Andrés Tetepilco, Iztapalapa, Ciudad De México 09440, México.","$2,870,000 MXN",26,Cerámica
+161.0,161.0,3,3,2,"Tizapán, Alvaro Obregón, Ciudad De México 01090, México.","$9,350,000 MXN",9,regular
+85.0,85.0,3,2,2,"Carola, Alvaro Obregón, Ciudad De México 01180, México.","$3,995,000 MXN",5,departamento
+192.0,81.0,3,2,2,"Paulino Navarro, Cuauhtémoc, Ciudad De México 06870, México.","$4,600,000 MXN",4,regular
+123.0,123.0,3,2,1,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$3,500,000 MXN",1965,departamento
+96.0,96.0,2,1,1,"Doctores, Cuauhtémoc, Ciudad De México 06720, México.","$3,200,000 MXN",1984,regular
+155.0,220.0,4,4,3,"Ejidos De San Pedro Mártir, Tlalpan, Ciudad De México 14640, México.","$4,700,000 MXN",10,casa
+97.3,97.3,2,1,1,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$3,600,000 MXN",1973,Colado Granito
+148.0,148.0,3,2,2,"Las Aguilas, Alvaro Obregón, Ciudad De México 01710, México.","$6,520,000 MXN",23,departamento
+77.0,77.0,2,2,1,"Obrera, Cuauhtémoc, Ciudad De México 06800, México.","$3,990,000 MXN",2023,departamento
+72.7,49.0,2,1,1,"Tres Estrellas, Gustavo A. Madero, Ciudad De México 07820, México.","$2,625,000 MXN",2024,regular
+72.7,49.0,2,1,1,"Tres Estrellas, Gustavo A. Madero, Ciudad De México 07820, México.","$2,625,000 MXN",2024,regular
+71.8,71.8,2,2,1,"Obrera, Cuauhtémoc, Ciudad De México 06800, México.","$2,900,000 MXN",2024,departamento
+71.7,71.7,2,2,1,"Obrera, Cuauhtémoc, Ciudad De México 06800, México.","$2,990,000 MXN",2023,departamento
+104.0,52.0,2,1,1,"Agrícola Pantitlan, Iztacalco, Ciudad De México 08100, México.","$1,850,000 MXN",10,regular
+59.0,59.0,,2,0,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$4,650,000 MXN",2023,departamento
+513.0,53.0,,1,0,"San Clemente Sur, Alvaro Obregón, Ciudad De México 01740, México.","$1,800,000 MXN",2010,departamento
+182.0,241.0,3,3,4,"Los Sauces, Coyoacán, Ciudad De México 04940, México.","$7,900,000 MXN",1988,"Porcelanato, Madera Natural y Laminado"
+95.4,95.4,3,2,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$7,550,000 MXN",2024,Porcelanato y Spc
+49.0,49.0,1,1,1,"Anáhuac I Secc., Miguel Hidalgo, Ciudad De México 11320, México.","$2,220,000 MXN",2010,departamento
+81.2,81.2,2,2,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$6,180,000 MXN",2024,Porcelanato
+204.0,184.0,3,2,3,"Olivar De Los Padres, Alvaro Obregón, Ciudad De México 01780, México.","$7,300,000 MXN",1974,irregular
+91.0,201.0,3,3,2,"Olivar De Los Padres, Alvaro Obregón, Ciudad De México 01780, México.","$5,848,500 MXN",1987,casa-en-condominio
+79.0,79.0,2,1,1,"Nápoles, Benito Juárez, Ciudad De México 03810, México.","$4,500,000 MXN",2005,departamento
+211.5,211.5,3,3,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$11,600,000 MXN",2020,regular
+61.0,61.0,2,2,1,"Nativitas, Benito Juárez, Ciudad De México 03500, México.","$2,695,000 MXN",4,"Mármol, laminado y loseta"
+90.0,200.0,3,3,2,"Olivar De Los Padres, Alvaro Obregón, Ciudad De México 01780, México.","$5,850,000 MXN",1987,casa
+59.0,59.0,1,1,0,"Romulo Sánchez Míreles, Tlalpan, Ciudad De México 14070, México.","$1,850,000 MXN",40,departamento
+254.0,292.0,4,3,2,"Granjas San Antonio, Iztapalapa, Ciudad De México 09070, México.","$6,400,000 MXN",1972,regular
+119.6,119.6,2,2,2,"Tizapán, Alvaro Obregón, Ciudad De México 01090, México.","$6,350,000 MXN",11,regular
+198.0,198.0,3,3,2,"Pedregal De Carrasco, Coyoacán, Ciudad De México 04700, México.","$6,800,000 MXN",1988,Porcelanato
+37.5,37.5,2,1,1,"Vallejo Poniente, Gustavo A. Madero, Ciudad De México 07790, México.","$1,600,000 MXN",25,regular
+65.0,65.0,2,1,1,"Reforma Social, Miguel Hidalgo, Ciudad De México 11650, México.","$3,690,000 MXN",20,Cerámica
+80.5,80.5,2,2,1,"Santa Martha Acatitla Norte, Iztapalapa, Ciudad De México 09140, México.","$2,090,000 MXN",2023,Loseta Ceramica
+84.9,84.9,2,2,1,"Santa Martha Acatitla Norte, Iztapalapa, Ciudad De México 09140, México.","$1,980,000 MXN",2023,Cerámica
+80.5,80.5,2,2,1,"Santa Martha Acatitla Norte, Iztapalapa, Ciudad De México 09140, México.","$1,935,000 MXN",2023,Loseta Ceramica.
+84.9,84.9,2,2,1,"Santa Martha Acatitla Norte, Iztapalapa, Ciudad De México 09140, México.","$2,042,000 MXN",2023,Loseta Cerámica
+80.5,80.5,2,2,1,"Santa Martha Acatitla Norte, Iztapalapa, Ciudad De México 09140, México.","$1,935,000 MXN",2023,Loseta Cerámica
+84.9,84.9,2,2,1,"Santa Martha Acatitla Norte, Iztapalapa, Ciudad De México 09140, México.","$2,042,000 MXN",2023,Loseta Ceramica.
+343.0,476.0,6,8,3,"Lomas Estrella, Iztapalapa, Ciudad De México 09890, México.","$14,000,000 MXN",2005,Loseta cerámica
+462.0,450.0,6,5,6,"Residencial Acoxpa, Tlalpan, Ciudad De México 14300, México.","$14,925,000 MXN",1991,regular
+199.0,199.0,2,1,0,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$11,000,000 MXN",2023,penthouse
+147.0,147.0,3,3,1,"Anzures, Miguel Hidalgo, Ciudad De México 11590, México.","$5,890,000 MXN",1984,departamento
+76.7,65.2,1,1,0,"Viaducto Piedad, Iztacalco, Ciudad De México 08200, México.","$2,250,000 MXN",2021,regular
+96.0,86.0,2,2,0,"Santa Teresa, La Magdalena Contreras, Ciudad De México 10710, México.","$3,490,000 MXN",1988,penthouse
+41.0,41.0,2,1,0,"Guerrero, Cuauhtémoc, Ciudad De México 06300, México.","$1,490,000 MXN",1983,LOSETA CERÁMICA
+115.1,228.6,3,2,2,"Campestre, Alvaro Obregón, Ciudad De México 01040, México.","$10,900,000 MXN",1984,"laminado, madera"
+69.0,69.0,1,2,1,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$4,890,000 MXN",2024,Porcelanato
+73.8,185.5,3,2,2,"Del Recreo, Azcapotzalco, Ciudad De México 02011, México.","$6,000,000 MXN",2024,casa-en-condominio
+87.1,190.0,6,3,1,"San Miguel, Iztacalco, Ciudad De México 08650, México.","$3,200,000 MXN",30,casa
+149.0,149.0,3,3,2,"Paseos De Taxqueña, Coyoacán, Ciudad De México 04250, México.","$6,000,000 MXN",1980,Ceramica
+149.0,149.0,3,3,2,"Paseos De Taxqueña, Coyoacán, Ciudad De México 04250, México.","$6,000,000 MXN",1980,Ceramica
+148.0,128.0,2,2,4,"Lomas De San Bernabé, La Magdalena Contreras, Ciudad De México 10350, México.","$2,600,000 MXN",1984,irregular
+161.0,161.0,3,2,1,"Del Valle Centro, Benito Juárez, Ciudad De México 03001, México.","$5,500,000 MXN",48,departamento
+125.0,125.0,3,2,0,"Condesa, Cuauhtémoc, Ciudad De México 06140, México.","$6,395,000 MXN",1962,departamento
+127.0,127.0,3,2,3,"Acacias, Benito Juárez, Ciudad De México 03240, México.","$6,700,000 MXN",2005,regular
+403.0,395.0,4,3,8,"San Sebastián, Tláhuac, Ciudad De México 13093, México.","$4,500,000 MXN",40,regular
+87.0,87.0,2,1,2,"Del Valle Sur, Benito Juárez, Ciudad De México 03001, México.","$3,800,000 MXN",1973,Loseta
+140.0,140.0,3,2,1,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$5,800,000 MXN",35,departamento
+140.0,140.0,3,2,1,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$5,800,000 MXN",35,departamento
+110.0,213.0,3,3,4,"Tetelpan, Alvaro Obregón, Ciudad De México 01700, México.","$7,990,000 MXN",1978,regular
+200.0,386.8,7,3,2,"Jacarandas, Iztapalapa, Ciudad De México 09280, México.","$4,100,000 MXN",30,regular
+679.0,608.0,3,4,4,"Jardines Del Pedregal, Alvaro Obregón, Ciudad De México 01900, México.","$27,000,000 MXN",20,casa
+192.0,400.0,5,4,0,"Obrera, Cuauhtémoc, Ciudad De México 06800, México.","$5,450,000 MXN",1964,casa
+"1,482.0",662.0,5,7,9,"Lomas Virreyes, Miguel Hidalgo, Ciudad De México 11000, México.","$76,000,000 MXN",1974,casa
+38.0,132.0,2,1,1,"Del Valle Norte, Benito Juárez, Ciudad De México 03103, México.","$4,500,000 MXN",1983,departamento
+707.0,932.0,4,4,6,"Villa Verdún, Alvaro Obregón, Ciudad De México 01810, México.","$30,800,000 MXN",1990,regular
+160.0,410.0,4,5,2,"Cafetales, Coyoacán, Ciudad De México 04918, México.","$8,900,000 MXN",1992,Mármol y Duela
+44.7,44.7,2,1,0,"Chinampac De Juárez, Iztapalapa, Ciudad De México 09208, México.","$900,000 MXN",25,regular
+195.0,350.0,6,5,2,"Apatlaco, Iztapalapa, Ciudad De México 09430, México.","$4,650,000 MXN",1974,regular
+152.0,227.0,3,1,1,"Valle De San Lorenzo, Iztapalapa, Ciudad De México 09970, México.","$3,480,000 MXN",36,"CEMENTO, MARMOL, CERAMICO"
+69.0,69.0,1,1,1,"Nonoalco, Benito Juárez, Ciudad De México 03700, México.","$4,400,000 MXN",2,Mosaico
+49.0,49.0,2,1,0,"Lomas De Tarango, Alvaro Obregón, Ciudad De México 01620, México.","$1,548,500 MXN",1994,departamento
+98.0,98.0,2,1,0,"Roma Sur, Cuauhtémoc, Ciudad De México 06760, México.","$3,350,000 MXN",1966,LOSETA CERÁMICA
+202.0,409.0,5,3,2,"Ixtlahuacan, Iztapalapa, Ciudad De México 09690, México.","$5,000,000 MXN",32,regular
+45.8,45.8,2,1,0,"Independencia, Benito Juárez, Ciudad De México 03630, México.","$1,650,000 MXN",2002,regular
+280.0,130.0,,2,0,"Miguel Hidalgo, Tláhuac, Ciudad De México 13200, México.","$3,300,000 MXN",1999,casa
+109.0,109.0,2,2,0,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$3,850,000 MXN",60,departamento
+273.0,326.0,,,0,"Santa Catarina, Coyoacán, Ciudad De México 04010, México.","$19,200,000 MXN",1998,casa
+130.0,110.0,2,2,2,"Hipódromo De La Condesa, Cuauhtémoc, Ciudad De México 06170, México.","$8,600,000 MXN",2014,departamento
+122.0,122.0,2,2,1,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$4,700,000 MXN",14,departamento
+126.0,323.0,5,3,3,"Consejo Agrarista Mexicano, Iztapalapa, Ciudad De México 09760, México.","$3,250,000 MXN",27,regular
+53.0,64.0,2,1,0,"Lindavista Vallejo, Gustavo A. Madero, Ciudad De México 07720, México.","$1,450,000 MXN",1974,Loseta de cerámica
+258.0,377.0,4,6,3,"Romero De Terreros, Coyoacán, Ciudad De México 04310, México.","$14,500,000 MXN",1999,casa
+163.0,270.0,4,3,3,"San Miguel Xicalco, Tlalpan, Ciudad De México 14490, México.","$4,100,000 MXN",2014,casa
+57.0,57.0,2,1,1,"Ampliación Del Gas, Azcapotzalco, Ciudad De México 02601, México.","$2,550,000 MXN",2013,departamento
+286.0,286.0,3,3,3,"Santa Fe La Loma, Alvaro Obregón, Ciudad De México 01376, México.","$14,444,444 MXN",2011,departamento
+850.0,735.0,4,4,10,"Jardines Del Pedregal, Alvaro Obregón, Ciudad De México 01900, México.","$29,000,000 MXN",2000,regular
+144.0,245.0,4,3,3,"Residencial Cafetales, Coyoacán, Ciudad De México 04930, México.","$6,200,000 MXN",1998,regular
+"1,269.0",477.0,3,2,12,"Las Aguilas, Alvaro Obregón, Ciudad De México 01710, México.","$32,000,000 MXN",1960,regular
+"1,620.0",953.0,3,4,6,"Bosques de Santa Fe, Cuajimalpa De Morelos, Ciudad De México 05600, México.","$120,000,000 MXN",2009,Madera
+74.0,131.9,3,3,2,"San Bartolo Ameyalco, Alvaro Obregón, Ciudad De México 01800, México.","$4,200,000 MXN",2020,casa-en-condominio
+289.0,172.0,3,2,4,"Lomas Quebradas, La Magdalena Contreras, Ciudad De México 10000, México.","$6,800,000 MXN",1988,regular
+92.0,92.0,2,2,2,"Tizapán, Alvaro Obregón, Ciudad De México 01090, México.","$3,950,000 MXN",2011,regular
+462.0,462.0,3,2,5,"Tizapán, Alvaro Obregón, Ciudad De México 01090, México.","$18,500,000 MXN",1993,regular
+83.0,171.0,3,2,2,"Lomas Hidalgo, Tlalpan, Ciudad De México 14240, México.","$3,799,000 MXN",2017,regular
+122.0,122.0,2,2,1,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$6,400,000 MXN",45,laminado
+237.7,237.7,3,3,3,"Los Alpes, Alvaro Obregón, Ciudad De México 01010, México.","$17,098,941 MXN",2023,departamento
+163.8,163.8,2,2,2,"Los Alpes, Alvaro Obregón, Ciudad De México 01010, México.","$11,455,299 MXN",2023,departamento
+106.2,106.2,2,2,2,"Los Alpes, Alvaro Obregón, Ciudad De México 01010, México.","$7,267,766 MXN",2023,departamento
+323.0,274.0,3,3,2,"Villa Verdún, Alvaro Obregón, Ciudad De México 01001, México.","$8,500,000 MXN",1993,casa
+207.0,207.0,3,3,3,"Bosques De Las Lomas, Cuajimalpa De Morelos, Ciudad De México 05120, México.","$12,450,000 MXN",2023,departamento
+289.0,172.0,3,2,4,"Lomas Quebradas, La Magdalena Contreras, Ciudad De México 10000, México.","$6,800,000 MXN",1988,regular
+92.0,92.0,2,2,2,"Tizapán, Alvaro Obregón, Ciudad De México 01090, México.","$3,950,000 MXN",2011,regular
+237.7,237.7,3,3,3,"Los Alpes, Alvaro Obregón, Ciudad De México 01010, México.","$17,098,941 MXN",2023,departamento
+163.8,163.8,2,2,2,"Los Alpes, Alvaro Obregón, Ciudad De México 01010, México.","$11,455,299 MXN",2023,departamento
+56.5,56.5,1,1,1,"San Clemente, Alvaro Obregón, Ciudad De México 01740, México.","$2,250,000 MXN",2013,departamento
+70.5,70.5,3,2,1,"Petrolera Amp, Azcapotzalco, Ciudad De México 02470, México.","$2,920,000 MXN",2018,regular
+135.0,135.0,3,1,1,"Hipódromo De La Condesa, Cuauhtémoc, Ciudad De México 06170, México.","$6,900,000 MXN",35,Madera
+370.0,332.0,2,3,2,"Zacayucan Peña Pobre, Tlalpan, Ciudad De México 14266, México.","$19,000,000 MXN",1984,casa-en-condominio
+375.0,350.0,3,3,2,"Tlacoyaque, Alvaro Obregón, Ciudad De México 01859, México.","$10,175,000 MXN",2000,casa-en-condominio
+151.0,234.6,3,3,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$8,700,000 MXN",2010,regular
+48.0,48.0,2,1,1,"Alamos, Benito Juárez, Ciudad De México 03400, México.","$1,999,099 MXN",1984,regular
+48.0,48.0,2,1,1,"Alamos, Benito Juárez, Ciudad De México 03400, México.","$1,999,099 MXN",1984,regular
+640.0,800.0,5,6,2,"San Angel Inn, Alvaro Obregón, Ciudad De México 01060, México.","$47,123,736 MXN / $2,450,000 USD",1984,casa
+200.0,251.0,4,3,1,"Viaducto Piedad, Iztacalco, Ciudad De México 08200, México.","$4,500,000 MXN",60,Cemento
+40.0,40.0,,1,0,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$6,000,000 MXN",2023,regular
+292.0,126.0,2,3,2,"Lomas De Los Cedros, Alvaro Obregón, Ciudad De México 01870, México.","$6,200,000 MXN",2004,regular
+225.0,165.0,3,4,3,"Lomas De Los Cedros, Alvaro Obregón, Ciudad De México 01870, México.","$6,700,000 MXN",2004,regular
+79.5,79.5,2,1,2,"Pedregal Del Maurel, Coyoacán, Ciudad De México 04720, México.","$2,550,000 MXN",1982,porcelanato
+122.0,170.0,3,1,1,"Parque San Andrés, Coyoacán, Ciudad De México 04040, México.","$6,420,000 MXN",60,Loseta y Parquet
+61.9,61.9,2,2,1,"Santo Tomas, Azcapotzalco, Ciudad De México 02020, México.","$1,950,000 MXN",2014,cerámico
+102.9,102.9,3,2,2,"Letran Valle, Benito Juárez, Ciudad De México 03650, México.","$4,995,000 MXN",4,departamento
+42.0,42.0,,1,1,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$4,113,878 MXN",2024,regular
+64.0,64.0,2,1,1,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$5,100,263 MXN",2024,regular
+67.0,98.0,3,2,0,"Campestre Potrero, Iztapalapa, Ciudad De México 09637, México.","$1,500,000 MXN",22,regular
+61.0,61.0,2,1,1,"San Simón Ticumac, Benito Juárez, Ciudad De México 03660, México.","$2,990,000 MXN",2012,regular
+80.0,80.0,3,1,1,"Santa Maria Nonoalco, Benito Juárez, Ciudad De México 03901, México.","$2,500,000 MXN",1984,regular
+61.0,61.0,1,1,1,"Insurgentes Mixcoac, Benito Juárez, Ciudad De México 03920, México.","$4,890,000 MXN",8,Loseta
+122.0,187.0,3,3,2,"Churubusco Tepeyac, Gustavo A. Madero, Ciudad De México 07730, México.","$6,200,000 MXN",1989,casa
+355.0,408.5,4,4,3,"Florida, Alvaro Obregón, Ciudad De México 01030, México.","$25,950,000 MXN",,casa-en-condominio
+36.7,36.7,1,1,0,"Prado Churubusco, Coyoacán, Ciudad De México 04230, México.","$1,100,000 MXN",1984,Loseta
+79.0,79.0,3,1,2,"Arenal Tepepan, Tlalpan, Ciudad De México 14610, México.","$2,500,000 MXN",39,departamento
+63.0,63.0,2,2,1,"Nonoalco, Benito Juárez, Ciudad De México 03700, México.","$3,690,000 MXN",2017,departamento
+91.8,351.8,5,4,4,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$14,700,000 MXN",2018,regular
+241.0,364.0,4,4,6,"Villa De Cortes, Benito Juárez, Ciudad De México 03530, México.","$12,000,000 MXN",37,loseta
+108.0,108.0,,,0,"Cuauhtémoc, Cuauhtémoc, Ciudad De México 06500, México.","$6,650,000 MXN",2014,departamento
+418.0,322.0,3,1,8,"San Pablo Tepetlapa, Coyoacán, Ciudad De México 04620, México.","$10,490,000 MXN",50,regular
+109.0,162.0,4,3,2,"Portales Oriente, Benito Juárez, Ciudad De México 03570, México.","$7,900,000 MXN",2008,Loseta
+91.4,145.0,3,2,0,"Guerrero, Cuauhtémoc, Ciudad De México 06300, México.","$6,300,000 MXN",1979,casa
+109.0,162.0,3,3,2,"Portales Oriente, Benito Juárez, Ciudad De México 03570, México.","$7,700,000 MXN",2008,Loseta
+89.0,255.0,3,4,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$11,200,000 MXN",18,casa-en-condominio
+317.9,355.0,4,4,3,"Florida, Alvaro Obregón, Ciudad De México 01030, México.","$21,750,000 MXN",,casa-en-condominio
+122.0,122.0,2,2,1,"Actipan, Benito Juárez, Ciudad De México 03230, México.","$4,700,000 MXN",14,departamento
+435.0,600.0,4,4,6,"Insurgentes Cuicuilco, Coyoacán, Ciudad De México 04530, México.","$18,900,000 MXN",1989,Loseta y Laminado
+191.0,272.0,3,3,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$10,300,000 MXN",1977,regular
+200.0,275.0,4,3,2,"San Angel, Alvaro Obregón, Ciudad De México 01000, México.","$12,500,000 MXN",1974,regular
+245.0,165.0,2,2,1,"Polanco V Sección, Miguel Hidalgo, Ciudad De México 11560, México.","$9,344,775 MXN",2023,regular
+116.0,116.0,2,2,1,"Polanco V Sección, Miguel Hidalgo, Ciudad De México 11560, México.","$8,900,450 MXN",2023,regular
+320.0,320.0,3,3,0,"Lomas De Bezares, Miguel Hidalgo, Ciudad De México 11910, México.","$19,600,000 MXN",5,departamento
+127.0,210.0,3,1,2,"San Juan De Aragón 6a Secc., Gustavo A. Madero, Ciudad De México 07918, México.","$4,750,000 MXN",1984,regular
+166.0,166.0,2,2,1,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$11,476,340 MXN",2022,Porcelanato
+184.0,143.0,3,2,2,"Tlalpan, Tlalpan, Ciudad De México 14091, México.","$6,450,000 MXN",15,Loseta
+68.0,68.0,2,2,1,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$4,290,000 MXN",6,Porcelanato
+138.0,246.0,3,3,3,"Olivar De Los Padres, Alvaro Obregón, Ciudad De México 01780, México.","$5,490,000 MXN",1989,regular
+210.0,437.0,3,5,0,"Moctezuma, Venustiano Carranza, Ciudad De México 15530, México.","$7,000,000 MXN",1970,regular
+121.0,205.0,4,4,0,"Santa María Tomatlan, Iztapalapa, Ciudad De México 09870, México.","$2,200,000 MXN",1967,casa
+328.0,445.0,4,4,3,"Lomas De Las Aguilas, Alvaro Obregón, Ciudad De México 01730, México.","$9,260,000 MXN",45,Cerámica
+123.0,200.0,4,4,1,"Insurgentes Mixcoac, Benito Juárez, Ciudad De México 03920, México.","$9,700,000 MXN",1953,Loseta
+83.0,83.0,2,2,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$5,790,000 MXN",,Loseta y Cerámica
+85.0,85.0,2,3,2,"Las Aguilas, Alvaro Obregón, Ciudad De México 01710, México.","$4,200,000 MXN",218,departamento
+85.0,85.0,2,3,2,"Los Alpes, Alvaro Obregón, Ciudad De México 01010, México.","$4,198,500 MXN",218,departamento
+118.0,118.0,2,2,1,"Santa María La Ribera, Cuauhtémoc, Ciudad De México 06400, México.","$3,930,000 MXN",2023,penthouse
+152.0,252.0,,1,1,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$13,000,000 MXN",1983,regular
+210.0,524.0,7,4,4,"Del Gas, Azcapotzalco, Ciudad De México 02950, México.","$9,000,000 MXN",1994,casa
+213.0,347.0,,,0,"Santa María Tepepan, Xochimilco, Ciudad De México 16020, México.","$2,950,000 MXN",,irregular
+217.0,217.0,2,2,2,"Los Alpes, Alvaro Obregón, Ciudad De México 01010, México.","$8,499,498 MXN",2017,regular
+150.0,150.0,1,1,2,"Los Alpes, Alvaro Obregón, Ciudad De México 01010, México.","$8,466,000 MXN",2017,regular
+101.0,101.0,2,2,2,"Los Alpes, Alvaro Obregón, Ciudad De México 01010, México.","$5,249,302 MXN",2021,regular
+152.0,152.0,3,3,2,"Los Alpes, Alvaro Obregón, Ciudad De México 01010, México.","$9,828,000 MXN",2021,regular
+94.0,94.0,3,2,2,"Nonoalco, Benito Juárez, Ciudad De México 03700, México.","$4,750,000 MXN",2020,regular
+60.0,60.0,2,1,1,"Escandón II Sección, Miguel Hidalgo, Ciudad De México 11800, México.","$3,700,000 MXN",2004,departamento
+47.5,47.5,2,1,0,"Morelos, Venustiano Carranza, Ciudad De México 15270, México.","$1,250,000 MXN",1988,regular
+68.3,68.3,3,1,0,"Michoacana Amp, Venustiano Carranza, Ciudad De México 15250, México.","$2,100,000 MXN",1981,LOSETA Y LOSETA VINILICA
+222.0,355.0,7,5,3,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$10,350,000 MXN",1949,casa
+94.0,94.0,3,2,1,"Francisco Villa, Azcapotzalco, Ciudad De México 02420, México.","$3,257,000 MXN",1995,Loseta
+99.0,99.0,2,1,1,"Integración Latinoamericana, Coyoacán, Ciudad De México 04350, México.","$3,750,000 MXN",1984,departamento
+121.0,121.0,3,1,1,"San Rafael, Cuauhtémoc, Ciudad De México 06470, México.","$3,650,000 MXN",1974,departamento
+150.0,150.0,3,3,1,"Nápoles, Benito Juárez, Ciudad De México 03810, México.","$5,775,000 MXN",1969,porcelanato
+60.0,60.0,2,1,0,"Valle Gómez, Cuauhtémoc, Ciudad De México 06240, México.","$1,360,000 MXN",2007,departamento
+215.0,261.0,3,3,2,"Del Valle Sur, Benito Juárez, Ciudad De México 03001, México.","$17,870,000 MXN",48,Loseta
+52.0,52.0,1,1,2,"Clavería, Azcapotzalco, Ciudad De México 02080, México.","$2,680,000 MXN",2009,Mosaico.
+152.0,152.0,2,3,2,"Lomas Del Chamizal, Cuajimalpa De Morelos, Ciudad De México 05129, México.","$7,580,000 MXN",2024,departamento
+131.0,131.0,2,2,2,"Lomas De Bezares, Miguel Hidalgo, Ciudad De México 11910, México.","$5,728,590 MXN",2021,regular
+108.0,108.0,2,2,2,"Josefa Ortiz De Domínguez, Benito Juárez, Ciudad De México 03430, México.","$4,750,000 MXN",2015,departamento
+152.0,227.0,5,2,2,"Los Ángeles, Iztapalapa, Ciudad De México 09830, México.","$3,350,000 MXN",1998,casa
+150.0,150.0,2,2,0,"Tizapán, Alvaro Obregón, Ciudad De México 01090, México.","$7,500,000 MXN",2016,departamento
+314.0,517.0,3,6,4,"Campestre Churubusco, Coyoacán, Ciudad De México 04200, México.","$14,272,000 MXN",1970,regular
+400.0,530.0,4,5,3,"Jardines En La Montaña, Tlalpan, Ciudad De México 14210, México.","$21,700,000 MXN",2013,casa
+130.0,128.4,2,1,1,"El Recreo, Azcapotzalco, Ciudad De México 02070, México.","$3,900,000 MXN",1964,regular
+386.0,163.0,2,2,4,"San Miguel, Iztapalapa, Ciudad De México 09360, México.","$5,800,000 MXN",2001,regular
+145.0,194.0,4,2,2,"San Miguel Teotongo, Iztapalapa, Ciudad De México 09630, México.","$3,490,000 MXN",1983,casa
+218.0,335.0,3,2,2,"Los Cedros, Coyoacán, Ciudad De México 04800, México.","$6,500,000 MXN",1980,casa
+91.0,91.0,2,2,1,"Cuatro Arboles, Venustiano Carranza, Ciudad De México 15730, México.","$3,700,000 MXN",2023,regular
+67.5,67.5,2,2,1,"San Andrés Tetepilco, Iztapalapa, Ciudad De México 09440, México.","$3,350,000 MXN",2012,departamento
+452.0,580.0,5,9,4,"Pedregal De San Francisco, Coyoacán, Ciudad De México 04320, México.","$20,000,000 MXN",1980,casa
+250.0,130.0,3,1,3,"Pedregal Santa Ursula Xitla, Tlalpan, Ciudad De México 14438, México.","$5,850,000 MXN",32,casa
+66.0,66.0,2,2,2,"Modelo Pensil, Miguel Hidalgo, Ciudad De México 11450, México.","$3,850,000 MXN",2020,departamento
+42.0,42.0,2,1,0,"Veinticinco De Julio, Gustavo A. Madero, Ciudad De México 07520, México.","$950,000 MXN",22,cemento
+398.0,394.1,4,4,3,"Tetelpan, Alvaro Obregón, Ciudad De México 01700, México.","$15,000,000 MXN",1978,casa-en-condominio
+493.3,408.0,4,4,3,"Nueva Santa María, Azcapotzalco, Ciudad De México 02800, México.","$15,295,500 MXN",1971,Madera y granito
+47.0,47.0,2,1,0,"San Martín Xochináhuac, Azcapotzalco, Ciudad De México 02120, México.","$1,320,000 MXN",2015,departamento
+360.0,333.0,3,3,3,"Bosques De Las Lomas, Miguel Hidalgo, Ciudad De México 11700, México.","$20,304,560 MXN / $1,055,650 USD",1,departamento
+147.0,147.0,3,3,2,"Santa Fe Cuajimalpa, Cuajimalpa De Morelos, Ciudad De México 05348, México.","$5,150,000 MXN",2013,departamento
+131.6,131.5,3,3,0,"Lindavista, Gustavo A. Madero, Ciudad De México 07300, México.","$7,950,000 MXN",1984,regular
+131.0,170.0,3,2,1,"Parque San Andrés, Coyoacán, Ciudad De México 04040, México.","$6,998,500 MXN",1963,casa
+150.0,142.0,3,2,1,"Jardines Del Sur, Xochimilco, Ciudad De México 16050, México.","$3,800,000 MXN",40,casa
+91.0,91.0,2,2,1,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$4,890,000 MXN",2000,departamento
+90.5,79.7,2,2,2,"Acacias, Benito Juárez, Ciudad De México 03240, México.","$6,070,000 MXN",,"mármol, loseta y piso laminado"
+135.0,135.0,3,2,2,"Prado Coapa 2a Secc., Tlalpan, Ciudad De México 14357, México.","$4,500,000 MXN",1995,departamento
+164.0,164.0,3,3,3,"El Yaqui, Cuajimalpa De Morelos, Ciudad De México 05320, México.","$6,850,000 MXN",10,departamento
+225.0,400.0,5,5,1,"Romero De Terreros, Coyoacán, Ciudad De México 04310, México.","$12,800,000 MXN",1998,casa
+159.0,168.0,4,3,2,"Prado Churubusco, Coyoacán, Ciudad De México 04230, México.","$5,500,000 MXN",1965,Cerámica
+300.0,412.0,5,6,6,"Del Carmen, Coyoacán, Ciudad De México 04100, México.","$22,800,000 MXN",2015,casa
+215.3,253.1,4,1,3,"Atlamaya, Alvaro Obregón, Ciudad De México 01760, México.","$8,800,000 MXN",1969,"Porcelanato, duela"
+204.0,192.0,3,1,4,"San Lucas Xochimanca, Xochimilco, Ciudad De México 16300, México.","$3,600,000 MXN",1994,LOSETA
+58.0,58.0,2,2,0,"San Miguel Amantla, Azcapotzalco, Ciudad De México 02700, México.","$2,230,000 MXN",2024,departamento
+88.0,88.0,2,2,1,"Lomas Del Chamizal, Cuajimalpa De Morelos, Ciudad De México 05129, México.","$4,565,000 MXN",1,departamento
+"1,000.0",562.0,4,4,3,"Héroes De Padierna, Tlalpan, Ciudad De México 14200, México.","$11,485,000 MXN",1992,casa
+152.0,152.0,3,2,2,"Polanco Reforma, Miguel Hidalgo, Ciudad De México 11550, México.","$9,185,000 MXN",2007,departamento
+300.0,250.0,3,2,4,"Nuevo Renacimiento De Axalco, Tlalpan, Ciudad De México 14408, México.","$5,385,000 MXN",2002,casa
+242.0,242.0,3,3,1,"Acacias, Benito Juárez, Ciudad De México 03240, México.","$11,500,000 MXN",2017,departamento
+200.0,300.0,2,3,2,"Jardines De Coyoacán, Coyoacán, Ciudad De México 04890, México.","$8,200,000 MXN",40,casa
+51.0,51.0,2,1,0,"Nueva Industrial Vallejo, Gustavo A. Madero, Ciudad De México 07700, México.","$1,550,000 MXN",12,Loseta Cerámica
+158.0,158.0,,2,1,"San Simón Ticumac, Benito Juárez, Ciudad De México 03660, México.","$3,500,000 MXN",1993,departamento
+180.0,208.0,3,2,4,"Villa Tlalpan, Tlalpan, Ciudad De México 14630, México.","$7,200,000 MXN",1978,casa
+66.0,66.0,2,2,2,"Ampliación Del Gas, Azcapotzalco, Ciudad De México 02601, México.","$2,950,000 MXN",5,Porcelanato
+197.0,112.0,2,2,1,"Agrícola Oriental, Iztacalco, Ciudad De México 08500, México.","$3,300,000 MXN",23,Loseta cerámica
+444.0,226.0,3,2,2,"Lomas De San Angel Inn, Alvaro Obregón, Ciudad De México 01790, México.","$15,475,000 MXN",1974,casa
+78.8,78.8,2,2,2,"Granada Amp, Miguel Hidalgo, Ciudad De México 11529, México.","$5,673,600 MXN",10,regular
+100.0,100.0,1,1,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$7,500,000 MXN",2017,regular
+339.0,247.0,,,0,"Lindavista, Gustavo A. Madero, Ciudad De México 07300, México.","$11,500,000 MXN",1974,casa
+47.0,47.0,2,1,0,"Santa Bárbara, Azcapotzalco, Ciudad De México 02230, México.","$1,299,000 MXN",2016,regular
+66.0,66.0,2,2,2,"Industrial San Antonio, Azcapotzalco, Ciudad De México 02760, México.","$2,926,000 MXN",2020,departamento
+80.0,80.0,2,1,1,"Los Reyes, Azcapotzalco, Ciudad De México 02010, México.","$3,200,000 MXN",2022,regular
+48.5,48.5,2,1,1,"Santiago Atzacoalco, Gustavo A. Madero, Ciudad De México 07040, México.","$1,800,000 MXN",2023,departamento
+603.3,133.5,3,3,3,"Santa Cecilia Tepetlapa, Xochimilco, Ciudad De México 16880, México.","$3,995,000 MXN",14,casa
+199.0,120.0,3,2,4,"Presidentes, Alvaro Obregón, Ciudad De México 01290, México.","$4,300,000 MXN",1979,regular
+140.0,244.0,6,5,3,"Reforma Iztaccíhuatl Sur, Iztacalco, Ciudad De México 08840, México.","$6,495,000 MXN",35,regular
+854.0,299.6,3,3,3,"Bosques De Las Lomas, Miguel Hidalgo, Ciudad De México 11700, México.","$23,000,000 MXN",25,casa
+50.0,50.0,2,1,1,"Daniel Garza, Miguel Hidalgo, Ciudad De México 11830, México.","$1,650,000 MXN",10,regular
+76.0,76.0,3,1,0,"San Simón Tolnáhuac, Cuauhtémoc, Ciudad De México 06920, México.","$1,635,000 MXN",,regular
+275.0,220.0,3,3,4,"Alcantarilla, Alvaro Obregón, Ciudad De México 01729, México.","$6,495,000 MXN",1985,casa
+274.0,221.0,3,3,4,"Olivar De Los Padres, Alvaro Obregón, Ciudad De México 01780, México.","$6,496,500 MXN",1985,casa
+157.6,157.6,3,3,1,"Santa Cruz Atoyac, Benito Juárez, Ciudad De México 03310, México.","$4,800,000 MXN",40,departamento
+84.0,84.0,2,2,1,"Portales, Benito Juárez, Ciudad De México 03300, México.","$2,990,000 MXN",2010,departamento
+176.0,225.0,4,3,2,"San Sebastián, Azcapotzalco, Ciudad De México 02040, México.","$4,500,000 MXN",1963,casa
+139.0,139.0,3,2,0,"Nueva Santa María, Azcapotzalco, Ciudad De México 02800, México.","$4,200,000 MXN",1968,Terrazo
+56.0,56.0,2,2,1,"Morelos, Cuauhtémoc, Ciudad De México 06200, México.","$2,350,000 MXN",15,Loseta
+488.0,488.0,3,4,5,"Las Aguilas, Alvaro Obregón, Ciudad De México 01710, México.","$21,900,000 MXN",2015,departamento
+257.0,250.0,3,3,2,"Irrigación, Miguel Hidalgo, Ciudad De México 11500, México.","$17,800,000 MXN",1982,casa
+70.0,110.0,2,2,2,"Niños Héroes De Chapultepec, Benito Juárez, Ciudad De México 03440, México.","$4,190,000 MXN",2020,departamento
+63.0,63.0,2,2,2,"Manzanastitla, Cuajimalpa De Morelos, Ciudad De México 05270, México.","$3,190,000 MXN",2019,regular
+227.0,343.0,7,3,2,"Moctezuma, Venustiano Carranza, Ciudad De México 15530, México.","$6,700,000 MXN",1971,casa
+200.0,236.0,4,3,2,"Clavería, Azcapotzalco, Ciudad De México 02080, México.","$8,400,000 MXN",1999,Loseta
+184.0,222.0,4,3,2,"Los Sauces, Coyoacán, Ciudad De México 04940, México.","$7,500,000 MXN",40,casa
+227.7,227.7,3,2,5,"Las Aguilas, Alvaro Obregón, Ciudad De México 01710, México.","$11,950,000 MXN",2000,regular
+58.0,58.0,2,2,1,"Granjas Modernas, Gustavo A. Madero, Ciudad De México 07460, México.","$2,250,000 MXN",8,departamento
+477.0,439.0,6,4,6,"Barrio La Concepción, Coyoacán, Ciudad De México 04331, México.","$13,500,000 MXN",1979,casa
+148.0,293.0,6,5,0,"Cerro Prieto, Gustavo A. Madero, Ciudad De México 07960, México.","$4,400,000 MXN",50,regular
+110.0,110.0,3,2,0,"Narvarte Oriente, Benito Juárez, Ciudad De México 03023, México.","$6,300,000 MXN",2019,regular
+247.0,317.0,3,3,1,"Del Valle Norte, Benito Juárez, Ciudad De México 03103, México.","$13,200,000 MXN",2011,regular
+59.0,59.0,2,1,1,"Villa Lázaro Cárdenas, Tlalpan, Ciudad De México 14370, México.","$2,690,000 MXN",12,departamento
+381.0,452.0,3,3,4,"Flor De María, Alvaro Obregón, Ciudad De México 01760, México.","$23,900,000 MXN",1989,casa-en-condominio
+59.0,59.0,2,1,1,"Los Alpes, Alvaro Obregón, Ciudad De México 01010, México.","$2,960,000 MXN",2013,departamento
+120.0,230.0,4,4,2,"San Felipe De Jesús, Xochimilco, Ciudad De México 16770, México.","$2,800,000 MXN",1997,regular
+200.0,93.0,3,2,2,"Jardín Balbuena, Venustiano Carranza, Ciudad De México 15900, México.","$6,280,000 MXN",1964,regular
+103.0,103.0,2,2,2,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$4,950,000 MXN",2011,departamento
+160.0,281.0,4,2,2,"Villa Quietud, Coyoacán, Ciudad De México 04960, México.","$6,200,000 MXN",1988,casa
+222.4,180.0,7,3,4,"Providencia, Gustavo A. Madero, Ciudad De México 07550, México.","$3,496,000 MXN",1977,cemento y cerámico en la parte trasera
+70.0,70.0,2,1,1,"Libertad, Azcapotzalco, Ciudad De México 02050, México.","$2,700,000 MXN",1,regular
+55.0,55.0,2,2,1,"Pedregal de Santa Ursula, Coyoacán, Ciudad De México 04600, México.","$2,630,000 MXN",2023,regular
+99.0,99.0,2,3,1,"Pedregal De Santo Domingo, Coyoacán, Ciudad De México 04369, México.","$4,650,000 MXN",2024,regular
+62.0,62.0,2,1,1,"Pedregal de Santa Ursula, Coyoacán, Ciudad De México 04600, México.","$2,630,000 MXN",2024,regular
+120.0,120.0,3,3,2,"Pedregal de Santa Ursula, Coyoacán, Ciudad De México 04600, México.","$6,150,000 MXN",2023,regular
+119.0,193.0,5,3,1,"Renovación, Iztapalapa, Ciudad De México 09209, México.","$3,975,000 MXN",20,Porcelanato
+93.0,280.0,3,3,3,"San José Insurgentes, Benito Juárez, Ciudad De México 03900, México.","$13,393,333 MXN",2016,regular
+361.0,504.0,3,3,3,"Lomas De Chapultepec, Miguel Hidalgo, Ciudad De México 11000, México.","$29,999,000 MXN",36,"mármol, madera y loseta"
+131.0,105.0,4,3,2,"Alamos, Benito Juárez, Ciudad De México 03400, México.","$4,598,500 MXN",2016,departamento
+192.7,254.0,3,3,2,"Los Alpes, Alvaro Obregón, Ciudad De México 01010, México.","$7,200,000 MXN",1984,cerámica y madera
+71.0,71.0,2,1,1,"Trabajadores Del Hierro, Azcapotzalco, Ciudad De México 02650, México.","$3,250,000 MXN",2022,Porcelanato y Mosaico.
+71.0,71.0,2,1,1,"Trabajadores Del Hierro, Azcapotzalco, Ciudad De México 02650, México.","$3,250,000 MXN",2022,Porcelanato y Mosaico.
+69.0,69.0,2,1,2,"Trabajadores Del Hierro, Azcapotzalco, Ciudad De México 02650, México.","$3,500,000 MXN",2022,Porcelanato y Mosaico.
+69.0,69.0,2,1,1,"Trabajadores Del Hierro, Azcapotzalco, Ciudad De México 02650, México.","$3,250,000 MXN",2022,Porcelanato y Mosaico.
+279.0,130.0,4,2,2,"San Sebastián, Tláhuac, Ciudad De México 13093, México.","$3,200,000 MXN",1993,casa
+61.0,61.0,1,1,1,"Insurgentes Mixcoac, Benito Juárez, Ciudad De México 03920, México.","$4,595,000 MXN",7,departamento
+161.0,111.0,3,2,2,"Tetelpan, Alvaro Obregón, Ciudad De México 01700, México.","$5,650,000 MXN",10,departamento
+160.0,195.0,6,3,2,"San Juan De Aragón 6a Secc., Gustavo A. Madero, Ciudad De México 07918, México.","$3,990,000 MXN",1971,casa
+117.2,280.0,5,3,1,"Los Olivos, Tláhuac, Ciudad De México 13210, México.","$2,850,000 MXN",2005,casa
+289.0,300.0,3,2,2,"Las Aguilas Amp 1er Parque, Alvaro Obregón, Ciudad De México 01750, México.","$5,390,000 MXN",40,Loseta
+62.0,62.0,1,1,1,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$5,020,000 MXN",2024,regular
+62.0,62.0,1,1,1,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$4,710,000 MXN",2022,regular
+199.0,191.6,3,1,2,"San Felipe De Jesús, Gustavo A. Madero, Ciudad De México 07510, México.","$3,750,000 MXN",35,casa
+55.0,53.0,2,1,1,"Del Gas Amp, Azcapotzalco, Ciudad De México 02970, México.","$3,654,632 MXN",2025,departamento
+94.4,62.0,2,2,1,"Anáhuac I Secc., Miguel Hidalgo, Ciudad De México 11320, México.","$4,014,770 MXN",1,Ceramico
+150.0,150.0,2,2,1,"Santa Fe Cuajimalpa, Cuajimalpa De Morelos, Ciudad De México 05348, México.","$15,000,000 MXN",2022,departamento
+231.0,201.0,3,3,3,"La Candelaria, Coyoacán, Ciudad De México 04380, México.","$6,535,000 MXN",1993,casa
+"5,000.0",620.0,5,5,10,"Tlalpuente, Tlalpan, Ciudad De México 14460, México.","$25,800,000 MXN",1993,casa
+144.0,144.0,3,3,1,"Del Valle Norte, Benito Juárez, Ciudad De México 03103, México.","$5,150,000 MXN",2011,Laminado
+288.8,420.0,3,3,3,"Torres Lindavista, Gustavo A. Madero, Ciudad De México 07708, México.","$16,800,000 MXN",1988,casa
+100.9,90.7,2,2,1,"Guadalupe Inn, Alvaro Obregón, Ciudad De México 01020, México.","$4,900,000 MXN",2011,regular
+55.0,55.0,2,2,1,"San Simón Tolnáhuac, Cuauhtémoc, Ciudad De México 06920, México.","$2,450,000 MXN",15,loseta
+58.0,58.0,3,1,1,"Acueducto De Guadalupe, Gustavo A. Madero, Ciudad De México 07270, México.","$1,548,000 MXN",1966,departamento
+284.0,284.0,3,3,3,"Santa Fe Cuajimalpa, Cuajimalpa De Morelos, Ciudad De México 05348, México.","$16,900,000 MXN",2010,departamento
+122.0,196.0,5,4,0,"Ixtlahuacan, Iztapalapa, Ciudad De México 09690, México.","$3,500,000 MXN",10,regular
+200.0,150.0,,,0,"Trabajadores Del Hierro, Azcapotzalco, Ciudad De México 02650, México.","$4,200,000 MXN",30,casa
+200.0,150.0,,,0,"Trabajadores Del Hierro, Azcapotzalco, Ciudad De México 02650, México.","$4,200,000 MXN",30,casa
+229.0,229.0,3,3,3,"La Otra Banda, Alvaro Obregón, Ciudad De México 01090, México.","$12,850,000 MXN",2010,departamento
+107.0,290.0,4,3,0,"Ejidos De San Pedro Mártir, Tlalpan, Ciudad De México 14640, México.","$5,000,000 MXN",2000,"Lozeta vinilica,"
+85.0,85.0,3,2,1,"Del Valle Centro, Benito Juárez, Ciudad De México 03001, México.","$3,798,500 MXN",1988,departamento
+229.0,229.0,3,2,2,"Fuentes Del Pedregal, Tlalpan, Ciudad De México 14140, México.","$6,950,000 MXN",1984,departamento
+527.6,430.0,4,4,4,"San Bartolo Ameyalco, Alvaro Obregón, Ciudad De México 01800, México.","$9,150,000 MXN",2010,regular
+77.0,77.0,3,1,1,"Tlalcoligia, Tlalpan, Ciudad De México 14430, México.","$3,250,000 MXN",52,departamento
+112.0,208.0,4,2,2,"Leyes De Reforma, Iztapalapa, Ciudad De México 09310, México.","$3,800,000 MXN",1995,Marmol
+"1,017.0",921.0,7,5,5,"Lomas De Chapultepec, Miguel Hidalgo, Ciudad De México 11000, México.","$59,900,000 MXN",1982,casa
+60.0,60.0,2,1,1,"Daniel Garza, Miguel Hidalgo, Ciudad De México 11830, México.","$1,750,000 MXN",30,departamento
+657.0,850.0,6,5,3,"Santa Fe, Alvaro Obregón, Ciudad De México 01210, México.","$28,700,000 MXN",2020,casa
+70.0,70.0,2,1,0,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$3,380,000 MXN",1997,departamento
+"1,411.0",34.0,1,1,30,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$3,509,376 MXN",2023,regular
+284.0,352.0,3,2,4,"Lomas Estrella, Iztapalapa, Ciudad De México 09890, México.","$7,600,000 MXN",1986,casa
+70.0,70.0,,,0,"Santa Fe, Alvaro Obregón, Ciudad De México 01210, México.","$2,650,000 MXN",2000,departamento
+355.0,355.0,2,3,4,"Lomas De Reforma, Miguel Hidalgo, Ciudad De México 11930, México.","$17,990,000 MXN",2004,regular
+207.0,394.0,6,5,4,"San Lorenzo La Cebada, Xochimilco, Ciudad De México 16035, México.","$6,800,000 MXN",2002,casa
+130.3,110.7,2,2,1,"Anzures, Miguel Hidalgo, Ciudad De México 11590, México.","$5,800,000 MXN",1984,departamento
+44.2,36.8,1,1,0,"Anzures, Miguel Hidalgo, Ciudad De México 11590, México.","$2,100,000 MXN",1984,departamento
+206.0,242.7,11,11,0,"Diez De Mayo, Venustiano Carranza, Ciudad De México 15290, México.","$6,900,000 MXN",1962,regular
+435.0,402.0,5,4,4,"Campestre Churubusco, Coyoacán, Ciudad De México 04200, México.","$12,550,000 MXN",1964,Loseta/Duela
+268.5,243.5,3,2,2,"Anzures, Miguel Hidalgo, Ciudad De México 11590, México.","$12,000,000 MXN",1984,departamento
+"1,347.0",76.0,,,100,"Los Alpes, Alvaro Obregón, Ciudad De México 01010, México.","$5,692,464 MXN",2023,regular
+402.0,45.0,2,2,2,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$4,016,286 MXN",2024,regular
+432.0,39.0,2,2,2,"Roma Sur, Cuauhtémoc, Ciudad De México 06760, México.","$3,292,065 MXN",2024,regular
+843.0,431.0,3,2,5,"Cuautepec De Madero, Gustavo A. Madero, Ciudad De México 07200, México.","$6,900,000 MXN",2002,casa
+144.0,144.0,2,3,2,"Polanco III Sección, Miguel Hidalgo, Ciudad De México 11591, México.","$12,498,000 MXN",2007,departamento
+206.0,153.0,3,2,2,"Polanco Reforma, Miguel Hidalgo, Ciudad De México 11550, México.","$17,500,000 MXN",,regular
+65.0,200.0,2,2,0,"Anahuac, Miguel Hidalgo, Ciudad De México 11320, México.","$10,500,000 MXN",1969,casa
+100.0,241.0,3,3,2,"Zacatenco, Gustavo A. Madero, Ciudad De México 07360, México.","$7,510,000 MXN",2019,casa
+100.0,241.0,3,3,2,"Zacatenco, Gustavo A. Madero, Ciudad De México 07360, México.","$7,510,000 MXN",2020,casa
+208.0,100.0,,,0,"San Simón Tolnáhuac, Cuauhtémoc, Ciudad De México 06920, México.","$4,200,000 MXN",2003,casa
+"1,741.0",86.0,,,100,"Los Alpes, Alvaro Obregón, Ciudad De México 01010, México.","$6,094,506 MXN",2023,regular
+59.8,59.8,2,1,1,"La Preciosa, Azcapotzalco, Ciudad De México 02460, México.","$2,300,000 MXN",2023,departamento
+91.0,91.0,2,1,0,"Del Valle Norte, Benito Juárez, Ciudad De México 03103, México.","$2,400,000 MXN",1960,departamento
+116.0,203.0,2,1,0,"Obrera, Cuauhtémoc, Ciudad De México 06800, México.","$6,490,000 MXN",1984,regular
+69.1,69.1,2,2,2,"Santa Lucia, Alvaro Obregón, Ciudad De México 01500, México.","$2,479,000 MXN",2009,Cerámico
+272.0,109.0,4,3,3,"Tepepan, Xochimilco, Ciudad De México 16020, México.","$7,300,000 MXN",2009,regular
+"1,672.0",86.0,2,2,50,"Portales, Benito Juárez, Ciudad De México 03300, México.","$5,589,601 MXN",2023,departamento
+367.0,365.0,6,4,4,"Campestre Churubusco, Coyoacán, Ciudad De México 04200, México.","$11,200,000 MXN",1974,casa
+418.0,69.0,,,10,"Roma Sur, Cuauhtémoc, Ciudad De México 06760, México.","$4,610,342 MXN",2023,departamento
+70.0,70.0,3,1,1,"Villa Quietud, Coyoacán, Ciudad De México 04960, México.","$2,400,000 MXN",35,departamento
+987.0,43.0,,,30,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$5,262,913 MXN",2023,departamento
+184.3,222.6,3,3,2,"Pueblo Nuevo Bajo, La Magdalena Contreras, Ciudad De México 10640, México.","$4,780,000 MXN",2012,casa-en-condominio
+69.0,69.0,2,1,1,"El Rosario, Azcapotzalco, Ciudad De México 02100, México.","$1,350,000 MXN",1977,departamento
+296.0,430.0,12,6,0,"San Miguel, Iztapalapa, Ciudad De México 09360, México.","$4,350,000 MXN",1996,regular
+107.0,107.0,2,2,1,"Portales Norte, Benito Juárez, Ciudad De México 03303, México.","$4,800,000 MXN",30,Cerámica
+129.0,105.0,3,2,2,"El Yaqui, Cuajimalpa De Morelos, Ciudad De México 05320, México.","$7,975,650 MXN",2024,Porcelanato
+313.2,428.5,6,5,0,"Santa María Tepepan, Xochimilco, Ciudad De México 16020, México.","$6,500,000 MXN",40,casa
+54.0,54.0,2,1,1,"Chimalcoyotl, Tlalpan, Ciudad De México 14630, México.","$2,445,493 MXN",2024,Loseta
+105.0,105.0,2,1,1,"Nochebuena, Benito Juárez, Ciudad De México 03720, México.","$3,990,000 MXN",1988,departamento
+56.0,70.0,4,2,0,"Santa Cruz Xochitepec, Xochimilco, Ciudad De México 16100, México.","$998,000 MXN",40,departamento
+45.0,45.0,2,1,0,"Culhuacán CTM Obrero Secc. 8, Coyoacán, Ciudad De México 04909, México.","$1,900,000 MXN",1994,departamento
+71.0,204.0,4,2,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$7,900,000 MXN",15,regular
+134.0,253.0,4,4,2,"Agrícola Pantitlan, Iztacalco, Ciudad De México 08100, México.","$5,400,000 MXN",2004,casa
+110.0,110.0,3,2,1,"Pedregal Del Lago, Tlalpan, Ciudad De México 14110, México.","$3,390,000 MXN",40,departamento
+75.0,170.0,4,3,2,"Lomas Estrella, Iztapalapa, Ciudad De México 09890, México.","$4,850,000 MXN",30,casa-en-condominio
+503.0,487.0,5,5,5,"Torres Lindavista, Gustavo A. Madero, Ciudad De México 07708, México.","$25,000,000 MXN",2000,casa
+157.0,136.0,3,2,2,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$7,700,000 MXN",2021,irregular
+75.0,75.0,2,1,0,"Moctezuma 2a Secc., Venustiano Carranza, Ciudad De México 15530, México.","$2,400,000 MXN",10,regular
+795.1,594.0,4,4,4,"Jardines Del Pedregal, Alvaro Obregón, Ciudad De México 01900, México.","$18,960,000 MXN",1978,regular
+75.0,75.0,2,1,0,"Culhuacán CTM Obrero Secc. 6, Coyoacán, Ciudad De México 04480, México.","$1,850,000 MXN",1990,Loseta de cerámica
+90.1,93.8,2,2,1,"Condesa, Cuauhtémoc, Ciudad De México 06140, México.","$6,420,000 MXN",2023,regular
+90.1,93.8,2,2,1,"Condesa, Cuauhtémoc, Ciudad De México 06140, México.","$6,440,000 MXN",2023,regular
+90.1,93.8,2,2,1,"Condesa, Cuauhtémoc, Ciudad De México 06140, México.","$6,480,000 MXN",2023,regular
+56.0,200.4,3,3,2,"Tetelpan, Alvaro Obregón, Ciudad De México 01700, México.","$6,250,000 MXN",8,penthouse
+14.4,68.0,2,2,1,"Portales, Benito Juárez, Ciudad De México 03300, México.","$3,300,000 MXN",2017,regular
+120.0,82.0,3,1,2,"Alianza Popular Revolucionaria Fovissste, Coyoacán, Ciudad De México 04800, México.","$5,700,000 MXN",24,regular
+62.8,62.8,3,1,1,"Independencia, Benito Juárez, Ciudad De México 03630, México.","$3,300,000 MXN",19,Porcelanato
+56.0,56.0,2,1,1,"Santa María La Ribera, Cuauhtémoc, Ciudad De México 06400, México.","$2,250,000 MXN",1983,regular
+148.0,350.0,2,5,2,"Bosques De Las Lomas, Miguel Hidalgo, Ciudad De México 11700, México.","$9,550,000 MXN",2005,regular
+43.0,43.0,1,1,0,"Progreso Nacional Amp, Gustavo A. Madero, Ciudad De México 07650, México.","$1,600,000 MXN",1968,departamento
+86.6,89.4,3,2,2,"Nonoalco, Benito Juárez, Ciudad De México 03700, México.","$5,400,000 MXN",2023,regular
+63.2,139.4,2,2,2,"Nonoalco, Benito Juárez, Ciudad De México 03700, México.","$5,500,000 MXN",2023,regular
+68.1,139.7,2,2,2,"Nonoalco, Benito Juárez, Ciudad De México 03700, México.","$5,600,000 MXN",2023,regular
+88.7,107.0,3,2,2,"Nonoalco, Benito Juárez, Ciudad De México 03700, México.","$6,480,000 MXN",2023,regular
+197.7,440.0,6,3,3,"Lindavista, Gustavo A. Madero, Ciudad De México 07300, México.","$11,000,000 MXN",1969,regular
+63.4,63.4,1,1,0,"Nápoles, Benito Juárez, Ciudad De México 03810, México.","$2,800,000 MXN",50,Parquet y Mosaico
+327.4,341.9,4,4,6,"Lomas De Guadalupe, Alvaro Obregón, Ciudad De México 01720, México.","$13,600,000 MXN",26,casa
+77.0,77.0,2,2,1,"San Francisco Culhuacán, Coyoacán, Ciudad De México 04260, México.","$2,700,000 MXN",19,departamento
+168.0,346.0,6,3,3,"Cuajimalpa, Cuajimalpa De Morelos, Ciudad De México 05000, México.","$12,900,000 MXN",1993,regular
+246.0,246.0,3,3,2,"Lindavista, Gustavo A. Madero, Ciudad De México 07300, México.","$6,960,000 MXN",2017,departamento
+270.0,307.0,3,2,6,"La Fama, Tlalpan, Ciudad De México 14269, México.","$7,550,000 MXN",15,casa-en-condominio
+160.0,149.0,3,2,2,"San Juan Tepepan, Xochimilco, Ciudad De México 16020, México.","$4,980,000 MXN",32,casa
+85.0,85.0,2,2,2,"Los Alpes, Alvaro Obregón, Ciudad De México 01010, México.","$5,709,202 MXN",2025,departamento
+124.5,124.5,2,2,2,"Los Alpes, Alvaro Obregón, Ciudad De México 01010, México.","$7,865,856 MXN",2025,departamento
+62.0,62.0,2,1,0,"Valle De San Lorenzo, Iztapalapa, Ciudad De México 09970, México.","$950,000 MXN",2008,regular
+57.0,57.0,2,1,1,"Valle Gómez, Cuauhtémoc, Ciudad De México 06240, México.","$1,980,000 MXN",2019,departamento
+80.0,80.0,2,2,2,"Del Valle Centro, Benito Juárez, Ciudad De México 03001, México.","$6,000,000 MXN",2023,regular
+360.0,520.0,6,6,3,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$19,900,000 MXN",1975,regular
+360.0,520.0,6,6,3,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$19,900,000 MXN",1975,regular
+71.0,71.0,3,1,1,"San Nicolás Tolentino, Iztapalapa, Ciudad De México 09850, México.","$2,000,000 MXN",1984,Loseta
+"1,205.0",580.0,4,4,7,"Lomas Altas, Miguel Hidalgo, Ciudad De México 11950, México.","$30,500,000 MXN",46,regular
+206.0,142.0,4,1,2,"Hogar Y Redención, Alvaro Obregón, Ciudad De México 01450, México.","$5,350,000 MXN",1985,casa
+187.0,247.0,4,3,2,"Campestre Churubusco, Coyoacán, Ciudad De México 04200, México.","$6,650,000 MXN",45,regular
+271.0,276.0,3,4,3,"Jardines Del Ajusco, Tlalpan, Ciudad De México 14200, México.",A consultar,2010,regular
+307.0,237.7,3,3,3,"San Nicolás Totolapan, La Magdalena Contreras, Ciudad De México 10900, México.","$7,500,000 MXN",1984,regular
+281.0,479.6,7,8,2,"San Francisco Culhuacán, Coyoacán, Ciudad De México 04260, México.","$8,200,000 MXN",40,Granito y Cerámica
+71.0,71.0,2,2,2,"Postal, Benito Juárez, Ciudad De México 03410, México.","$4,387,000 MXN",8,Loseta
+48.0,48.0,2,1,1,"Granjas Estrella, Iztapalapa, Ciudad De México 09890, México.","$1,065,000 MXN",2001,Laminado
+64.0,64.0,2,2,1,"San Pedro De Los Pinos, Alvaro Obregón, Ciudad De México 01180, México.","$3,829,753 MXN",2021,Porcelanato
+62.0,62.0,2,1,1,"Lago Norte, Miguel Hidalgo, Ciudad De México 11460, México.","$2,800,000 MXN",2012,regular
+408.0,826.0,4,3,2,"Fuentes Del Pedregal, Tlalpan, Ciudad De México 14140, México.","$22,000,000 MXN",1984,casa
+60.0,60.0,2,2,1,"San José Insurgentes, Benito Juárez, Ciudad De México 03900, México.","$3,298,500 MXN",2014,departamento
+149.0,380.0,3,4,2,"San José Insurgentes, Benito Juárez, Ciudad De México 03900, México.","$15,200,000 MXN",22,regular
+127.0,182.0,4,4,2,"Lomas De Vista Hermosa, Cuajimalpa De Morelos, Ciudad De México 05100, México.","$4,990,000 MXN",1998,casa
+424.0,475.0,4,2,8,"Alamos, Benito Juárez, Ciudad De México 03400, México.","$17,990,000 MXN",70,"Alfombra, Loseta"
+58.8,58.8,2,1,1,"Buenavista, Cuauhtémoc, Ciudad De México 06350, México.","$1,900,000 MXN",2010,Loseta
+385.0,508.0,4,4,5,"Pedregal De San Francisco, Coyoacán, Ciudad De México 04320, México.","$26,900,000 MXN",6,regular
+98.0,240.0,3,3,2,"La Joya, Tlalpan, Ciudad De México 14090, México.","$6,985,000 MXN",2013,casa
+189.0,239.0,2,1,2,"El Caracol, Coyoacán, Ciudad De México 04739, México.","$3,995,000 MXN",1987,casa
+60.0,60.0,2,1,0,"San Pedro Xalpa, Azcapotzalco, Ciudad De México 02710, México.","$1,500,000 MXN",20,departamento
+230.0,276.0,3,2,2,"Axomiatla, Alvaro Obregón, Ciudad De México 01820, México.","$8,800,000 MXN",1994,casa
+22.7,56.6,2,1,1,"Moctezuma 1a Secc., Venustiano Carranza, Ciudad De México 15500, México.","$2,150,000 MXN",2020,regular
+142.4,325.0,3,3,2,"Industrial, Gustavo A. Madero, Ciudad De México 07800, México.","$8,000,000 MXN",1990,regular
+303.4,289.0,3,3,3,"Bosques De Tarango, Alvaro Obregón, Ciudad De México 01580, México.","$10,800,000 MXN",1999,irregular
+51.5,51.5,2,1,1,"San Rafael, Cuauhtémoc, Ciudad De México 06470, México.","$2,500,000 MXN",2006,Loseta
+121.0,241.0,5,2,1,"San Miguel Teotongo Secc. Torres, Iztapalapa, Ciudad De México 09630, México.","$2,500,000 MXN",35,ceramica
+112.2,112.2,2,2,2,"Narvarte Oriente, Benito Juárez, Ciudad De México 03023, México.","$5,800,000 MXN",2018,penthouse
+63.0,63.0,2,1,1,"Nativitas, Benito Juárez, Ciudad De México 03500, México.","$2,495,000 MXN",2014,regular
+320.0,245.0,4,3,3,"Puente De Piedra, Tlalpan, Ciudad De México 14049, México.","$7,200,000 MXN",20,regular
+105.0,105.0,2,2,1,"Roma Sur, Cuauhtémoc, Ciudad De México 06760, México.","$6,100,000 MXN",2018,departamento
+141.6,254.5,3,3,0,"Presidentes 2a Secc. Reacomodo, Alvaro Obregón, Ciudad De México 01299, México.","$4,200,000 MXN",1994,casa
+59.0,59.0,2,1,1,"Atlampa, Cuauhtémoc, Ciudad De México 06450, México.","$1,700,000 MXN",2000,departamento
+90.0,90.0,3,2,1,"Jamaica, Venustiano Carranza, Ciudad De México 15800, México.","$3,400,000 MXN",2015,regular
+53.4,64.0,2,1,0,"Lindavista Vallejo, Gustavo A. Madero, Ciudad De México 07720, México.","$1,280,000 MXN",1982,Cemento
+52.0,150.0,3,2,2,"Gral. Pedro María Anaya, Benito Juárez, Ciudad De México 03340, México.","$6,000,000 MXN",2016,casa-en-condominio
+59.0,59.0,2,1,2,"Granjas Coapa, Tlalpan, Ciudad De México 14330, México.","$2,690,000 MXN",1980,MADERA NATURAL Y CERÁMICA
+140.0,97.0,3,2,2,"Xoco, Benito Juárez, Ciudad De México 03330, México.","$5,990,000 MXN",6,regular
+246.0,316.0,3,3,4,"Rincón De Las Hadas, Tlalpan, Ciudad De México 14390, México.","$10,750,000 MXN",1991,Varios
+126.0,250.0,3,3,2,"Escuadrón 201, Iztapalapa, Ciudad De México 09060, México.","$4,950,000 MXN",1985,Loseta
+242.0,139.0,3,1,3,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$8,490,000 MXN",55,casa
+206.0,206.0,3,2,1,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$8,500,000 MXN",40,Azulejo
+201.0,469.0,6,2,3,"San Felipe De Jesús, Gustavo A. Madero, Ciudad De México 07510, México.","$7,300,000 MXN",41,Loseta y mármol con granito
+184.0,353.0,6,3,3,"Valle Gómez, Venustiano Carranza, Ciudad De México 15210, México.","$4,800,000 MXN",65,Mosaico
+153.0,174.0,4,2,2,"Vallejo, Gustavo A. Madero, Ciudad De México 07870, México.","$5,100,000 MXN",1973,casa
+63.0,63.0,2,1,0,"Culhuacán CTM Obrero Secc. 8, Coyoacán, Ciudad De México 04909, México.","$1,470,000 MXN",34,departamento
+148.8,268.0,5,4,1,"Estrella, Gustavo A. Madero, Ciudad De México 07810, México.","$7,200,000 MXN",1970,casa
+55.0,55.0,2,1,1,"San Pablo Xalpa, Azcapotzalco, Ciudad De México 02110, México.","$1,360,000 MXN",35,departamento
+245.0,276.0,4,1,3,"Guadalupe Insurgentes, Gustavo A. Madero, Ciudad De México 07870, México.","$8,250,000 MXN",1978,regular
+319.0,424.0,3,5,3,"Florida, Alvaro Obregón, Ciudad De México 01030, México.","$20,250,000 MXN",2014,casa
+319.0,424.0,3,5,3,"Florida, Alvaro Obregón, Ciudad De México 01030, México.","$20,250,000 MXN",2014,casa-en-condominio
+251.0,258.4,8,8,0,"Pedregal De San Nicolás 4a Secc., Tlalpan, Ciudad De México 14100, México.","$4,500,000 MXN",2021,regular
+42.5,148.2,3,2,2,"La Araña, Alvaro Obregón, Ciudad De México 01510, México.","$2,990,000 MXN",2014,regular
+998.0,593.7,6,5,6,"Lomas De Chapultepec, Miguel Hidalgo, Ciudad De México 11000, México.","$86,534,567 MXN / $4,499,000 USD",1987,regular
+"1,024.4",980.0,5,3,6,"Bosques De Las Lomas, Miguel Hidalgo, Ciudad De México 11700, México.","$40,000,000 MXN",1997,casa
+147.0,306.0,7,3,2,"Constitución De La República, Gustavo A. Madero, Ciudad De México 07469, México.","$4,460,000 MXN",1989,mozaico
+61.4,61.4,2,2,2,"Portales Oriente, Benito Juárez, Ciudad De México 03570, México.","$3,380,000 MXN",2022,departamento
+80.0,80.0,2,1,2,"Ex Ejido San Pablo Tepetlapa, Coyoacán, Ciudad De México 04900, México.","$1,800,000 MXN",1986,Cemento
+55.3,83.0,2,1,0,"Tepeyac Insurgentes, Gustavo A. Madero, Ciudad De México 07020, México.","$3,000,000 MXN",1974,regular
+91.0,91.0,3,1,1,"Tlacoquemécatl Del Valle, Benito Juárez, Ciudad De México 03200, México.","$3,650,000 MXN",30,departamento
+120.0,142.0,3,2,1,"Jardín Balbuena, Venustiano Carranza, Ciudad De México 15900, México.","$5,950,000 MXN",1961,regular
+127.0,127.0,3,2,1,"San Angel Inn, Alvaro Obregón, Ciudad De México 01060, México.","$5,900,000 MXN",35,Madera
+28.7,67.0,2,1,1,"Federal, Venustiano Carranza, Ciudad De México 15700, México.","$2,750,000 MXN",2021,regular
+86.0,86.0,2,2,1,"Xoco, Benito Juárez, Ciudad De México 03330, México.","$4,390,000 MXN",2018,departamento
+108.0,108.0,2,3,1,"Fuentes Del Pedregal, Tlalpan, Ciudad De México 14140, México.","$3,360,000 MXN",1984,departamento
+423.0,352.0,5,3,6,"Vértiz Narvarte, Benito Juárez, Ciudad De México 03600, México.","$21,000,000 MXN",1984,casa
+160.0,102.0,3,2,2,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$5,500,000 MXN",5,departamento
+212.0,310.0,3,3,3,"Casas Alemán Amp, Gustavo A. Madero, Ciudad De México 07580, México.","$7,200,000 MXN",30,irregular
+90.0,173.0,6,2,0,"Los Picos De Iztacalco Secc. 2a, Iztacalco, Ciudad De México 08760, México.","$2,290,000 MXN",48,loseta
+400.0,417.0,5,5,4,"Cuadrante De San Francisco, Coyoacán, Ciudad De México 04320, México.","$20,900,000 MXN",2002,regular
+171.0,280.0,3,2,0,"Año De Juárez, Iztapalapa, Ciudad De México 09780, México.","$3,700,000 MXN",1990,Loseta
+910.0,663.8,5,5,4,"Residencial Zacatenco, Gustavo A. Madero, Ciudad De México 07369, México.","$25,000,000 MXN",37,casa
+407.0,601.0,4,4,4,"Colinas Del Bosque, Tlalpan, Ciudad De México 14608, México.","$21,200,000 MXN",9,regular
+59.7,59.7,2,1,0,"Lomas De San Lorenzo, Iztapalapa, Ciudad De México 09780, México.","$980,000 MXN",1996,regular
+116.0,120.0,3,2,2,"Anáhuac I Secc., Miguel Hidalgo, Ciudad De México 11320, México.","$5,450,000 MXN",3,regular
+245.0,256.0,4,2,2,"Los Reyes, Tláhuac, Ciudad De México 13080, México.","$2,600,000 MXN",1997,Loseta
+555.8,278.0,3,4,3,"San Mateo Tlaltenango, Cuajimalpa De Morelos, Ciudad De México 05600, México.","$10,900,000 MXN",1994,regular
+117.0,117.0,3,2,2,"Xotepingo, Coyoacán, Ciudad De México 04610, México.","$4,510,000 MXN",2019,departamento
+250.0,495.0,4,3,4,"Paseos De Taxqueña, Coyoacán, Ciudad De México 04250, México.","$12,800,000 MXN",1983,casa
+361.0,427.0,3,4,3,"Lomas De Las Aguilas, Alvaro Obregón, Ciudad De México 01730, México.","$11,900,000 MXN",1,Loseta y Madera
+360.0,320.0,4,5,3,"Lomas De Guadalupe, Alvaro Obregón, Ciudad De México 01720, México.","$9,000,000 MXN",1980,regular
+130.0,65.0,2,2,2,"San Pedro De Los Pinos, Benito Juárez, Ciudad De México 03800, México.","$4,450,000 MXN",2011,regular
+180.0,170.0,3,3,2,"Moctezuma 2a Secc., Venustiano Carranza, Ciudad De México 15530, México.","$5,590,000 MXN",1994,regular
+180.0,176.0,4,2,2,"Moderna, Benito Juárez, Ciudad De México 03510, México.","$6,900,000 MXN",1967,casa
+153.0,153.0,3,3,2,"Romero Rubio, Venustiano Carranza, Ciudad De México 15400, México.","$3,500,000 MXN",1987,regular
+109.0,109.0,2,2,2,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$4,940,000 MXN",6,departamento
+63.5,63.5,2,2,1,"Niños Héroes De Chapultepec, Benito Juárez, Ciudad De México 03440, México.","$2,800,000 MXN",12,Loseta
+66.5,66.5,2,2,1,"Niños Héroes De Chapultepec, Benito Juárez, Ciudad De México 03440, México.","$2,900,000 MXN",12,Loseta
+28.8,185.6,2,2,2,"Acacias, Benito Juárez, Ciudad De México 03240, México.","$4,990,000 MXN",2,departamento
+63.0,125.0,3,2,2,"Jesús Del Monte, Cuajimalpa De Morelos, Ciudad De México 05260, México.","$3,750,000 MXN",1991,regular
+155.0,165.0,3,2,2,"Las Aguilas, Alvaro Obregón, Ciudad De México 01710, México.","$8,499,000 MXN",1988,regular
+164.0,99.0,2,2,2,"Ex-Hacienda Coapa, Coyoacán, Ciudad De México 04980, México.","$6,290,000 MXN",2019,Baldosa efecto madera
+51.0,51.0,2,1,0,"Zona Centro, Venustiano Carranza, Ciudad De México 15100, México.","$680,000 MXN",30,regular
+244.0,244.0,3,3,2,"Lindavista, Gustavo A. Madero, Ciudad De México 07300, México.","$7,700,000 MXN",1989,regular
+210.0,302.0,,,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$16,000,000 MXN",35,casa
+186.0,358.0,4,3,2,"Jardín Balbuena, Venustiano Carranza, Ciudad De México 15900, México.","$8,900,000 MXN",46,regular
+139.0,210.0,4,2,2,"Lomas De Zaragoza, Iztapalapa, Ciudad De México 09620, México.","$3,900,000 MXN",2004,casa
+112.0,112.0,2,2,2,"Jardines Del Pedregal, Alvaro Obregón, Ciudad De México 01900, México.","$8,600,000 MXN",2023,regular
+35.0,205.4,2,2,3,"Tizapán, Alvaro Obregón, Ciudad De México 01090, México.","$5,850,000 MXN",13,departamento
+100.0,100.0,3,2,2,"Nápoles, Benito Juárez, Ciudad De México 03810, México.","$5,650,000 MXN",20,departamento
+165.0,165.0,3,2,2,"Del Valle Sur, Benito Juárez, Ciudad De México 03001, México.","$6,000,000 MXN",38,regular
+132.0,132.0,3,2,1,"Portales Sur, Benito Juárez, Ciudad De México 03300, México.","$3,200,000 MXN",1962,departamento
+77.0,77.0,1,1,0,"Centro De La Ciudad De México Area 4, Cuauhtémoc, Ciudad De México 06040, México.","$2,750,000 MXN",1975,regular
+108.0,108.0,3,2,2,"Fuentes De Tepepan, Tlalpan, Ciudad De México 14643, México.","$4,499,000 MXN",2016,regular
+80.0,85.0,2,2,1,"Lomas De Tarango, Alvaro Obregón, Ciudad De México 01620, México.","$2,500,000 MXN",2004,regular
+254.0,244.0,5,3,1,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$13,000,000 MXN",1974,regular
+75.0,75.0,2,2,2,"Xoco, Benito Juárez, Ciudad De México 03330, México.","$4,389,000 MXN",2019,Madera
+66.0,66.0,2,2,2,"Del Gas Amp, Azcapotzalco, Ciudad De México 02970, México.","$2,900,000 MXN",2020,departamento
+150.0,99.0,3,2,4,"Desarrollo Urbano Quetzalcóatl, Iztapalapa, Ciudad De México 09700, México.","$2,260,000 MXN",1983,regular
+602.0,602.0,4,3,4,"Fuentes Del Pedregal, Tlalpan, Ciudad De México 14140, México.","$15,800,000 MXN",1994,penthouse
+991.3,772.8,4,4,4,"Parque San Andrés, Coyoacán, Ciudad De México 04040, México.","$31,200,000 MXN",1956,regular
+213.0,316.0,1,2,1,"Villa De Cortes, Benito Juárez, Ciudad De México 03530, México.","$8,100,000 MXN",2016,casa
+540.0,602.0,5,4,5,"Pedregal De San Francisco, Coyoacán, Ciudad De México 04320, México.","$28,000,000 MXN",50,regular
+198.0,246.0,5,3,3,"Niño Jesús, Coyoacán, Ciudad De México 04330, México.","$6,600,000 MXN",18,regular
+225.0,221.0,5,2,2,"Los Cedros, Coyoacán, Ciudad De México 04800, México.","$9,459,000 MXN",2014,casa
+73.4,73.4,2,1,0,"Jardín Balbuena, Venustiano Carranza, Ciudad De México 15900, México.","$2,500,000 MXN",1994,regular
+37.1,37.1,1,1,1,"Granada Amp, Miguel Hidalgo, Ciudad De México 11529, México.","$3,288,083 MXN / $170,950 USD",2024,departamento
+122.0,209.0,3,2,1,"Lindavista, Gustavo A. Madero, Ciudad De México 07300, México.","$10,990,000 MXN",20,regular
+156.7,200.8,4,2,0,"Tizapán, Alvaro Obregón, Ciudad De México 01090, México.","$5,500,000 MXN",1991,casa
+206.7,352.6,4,4,2,"Viaducto Piedad, Iztacalco, Ciudad De México 08200, México.","$6,900,000 MXN",1969,regular
+157.0,542.0,8,5,2,"Agrícola Oriental, Iztacalco, Ciudad De México 08500, México.","$9,950,000 MXN",40,Porcelanato
+152.0,152.0,3,2,2,"Polanco Chapultepec, Miguel Hidalgo, Ciudad De México 11560, México.","$17,000,000 MXN",,Lozetas
+163.0,177.0,5,3,3,"San Miguel, Iztacalco, Ciudad De México 08650, México.","$3,850,000 MXN",1995,casa
+154.0,154.0,3,3,2,"Del Valle Norte, Benito Juárez, Ciudad De México 03103, México.","$9,100,000 MXN",,departamento
+78.0,78.0,2,2,2,"San Pedro Xalpa, Azcapotzalco, Ciudad De México 02710, México.","$2,800,000 MXN",2009,departamento
+211.4,146.7,,,0,"Clavería, Azcapotzalco, Ciudad De México 02080, México.","$5,400,000 MXN",1960,casa
+220.0,282.0,3,2,4,"San Mateo Tlaltenango, Cuajimalpa De Morelos, Ciudad De México 05600, México.","$5,400,000 MXN",1999,regular
+168.0,168.0,3,3,2,"Del Valle Norte, Benito Juárez, Ciudad De México 03103, México.","$9,490,000 MXN",,departamento
+154.0,154.0,3,3,2,"Del Valle Norte, Benito Juárez, Ciudad De México 03103, México.","$8,990,000 MXN",,departamento
+320.0,320.0,3,3,3,"Polanco III Sección, Miguel Hidalgo, Ciudad De México 11591, México.","$29,812,976 MXN / $1,550,000 USD",1993,irregular
+160.0,250.0,4,3,3,"La Pradera, Gustavo A. Madero, Ciudad De México 07500, México.","$4,990,000 MXN",20,regular
+124.0,240.0,4,2,2,"Colonial Iztapalapa, Iztapalapa, Ciudad De México 09270, México.","$6,300,000 MXN",39,Loseta
+149.0,294.0,5,4,3,"La Joya, Gustavo A. Madero, Ciudad De México 07890, México.","$5,400,000 MXN",1970,regular
+117.6,117.6,2,2,2,"El Contadero, Cuajimalpa De Morelos, Ciudad De México 05500, México.","$6,900,000 MXN",,Lozetas
+71.0,71.0,2,1,0,"Nonoalco Tlatelolco, Cuauhtémoc, Ciudad De México 06900, México.","$1,790,000 MXN",1965,regular
+218.0,420.0,3,2,0,"Campestre Aragón, Gustavo A. Madero, Ciudad De México 07530, México.","$4,650,000 MXN",1982,casa
+140.0,361.0,5,3,0,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$9,000,000 MXN",1954,casa
+45.0,45.0,2,1,0,"Paraje Zacatepec, Iztapalapa, Ciudad De México 09560, México.","$990,000 MXN",27,loseta
+45.0,45.0,2,1,0,"San Lorenzo Tlaltenango, Miguel Hidalgo, Ciudad De México 11210, México.","$1,800,000 MXN",,departamento
+551.0,340.0,9,8,8,"Campestre, Alvaro Obregón, Ciudad De México 01040, México.","$17,000,000 MXN",1957,irregular
+95.5,83.5,2,2,1,"Centro De La Ciudad De México Area 1, Cuauhtémoc, Ciudad De México 06000, México.","$3,975,000 MXN",2007,regular
+70.0,70.0,2,1,1,"Chinampac De Juárez, Iztapalapa, Ciudad De México 09208, México.","$1,560,000 MXN",1998,departamento
+"1,331.9",911.0,4,5,4,"Santa Catarina, Coyoacán, Ciudad De México 04010, México.",A consultar,1912,regular
+73.0,54.0,2,2,1,"Lorenzo Boturini, Venustiano Carranza, Ciudad De México 15820, México.","$2,600,000 MXN",2008,regular
+289.0,565.0,12,,4,"Ticoman, Gustavo A. Madero, Ciudad De México 07330, México.","$6,900,000 MXN",1997,regular
+160.0,160.0,2,2,2,"Polanco IV Sección, Miguel Hidalgo, Ciudad De México 11591, México.","$13,000,000 MXN",18,regular
+209.0,277.0,4,2,1,"Nonoalco, Benito Juárez, Ciudad De México 03700, México.","$8,560,000 MXN",50,Laminado
+64.0,64.0,,,0,"Pedregal de Santa Ursula, Coyoacán, Ciudad De México 04600, México.","$2,940,000 MXN",2019,departamento
+251.0,302.0,4,2,4,"Viaducto Piedad, Iztacalco, Ciudad De México 08200, México.","$5,990,000 MXN",1973,regular
+63.0,63.0,3,1,0,"Lomas De Plateros, Alvaro Obregón, Ciudad De México 01480, México.","$1,499,000 MXN",1979,cerámico
+174.8,174.8,2,2,3,"Polanco V Sección, Miguel Hidalgo, Ciudad De México 11560, México.","$22,400,000 MXN",2023,departamento
+996.2,390.0,4,2,6,"La Concepción, La Magdalena Contreras, Ciudad De México 10830, México.","$11,900,000 MXN",1983,regular
+532.0,452.0,6,3,2,"Santo Tomás Ajusco, Tlalpan, Ciudad De México 14710, México.","$6,000,000 MXN",1984,casa
+292.0,363.0,4,3,6,"Polanco Chapultepec, Miguel Hidalgo, Ciudad De México 11560, México.","$29,950,000 MXN",1972,regular
+770.0,566.1,5,5,5,"San Angel, Alvaro Obregón, Ciudad De México 01000, México.","$38,500,000 MXN",60,casa
+51.0,68.0,2,1,1,"Magisterial, Tlalpan, Ciudad De México 14360, México.","$1,995,000 MXN",1990,departamento
+"1,888.0",250.0,2,3,5,"San Andrés Totoltepec, Tlalpan, Ciudad De México 14400, México.","$6,000,000 MXN",2002,irregular
+194.0,269.0,3,3,3,"Cafetales, Coyoacán, Ciudad De México 04918, México.","$6,900,000 MXN",1991,casa
+262.0,249.0,4,2,3,"Lindavista, Gustavo A. Madero, Ciudad De México 07300, México.","$9,500,000 MXN",1979,Loseta
+99.0,206.0,3,2,1,"Desarrollo Urbano Quetzalcóatl, Iztapalapa, Ciudad De México 09700, México.","$2,000,000 MXN",2000,regular
+109.0,109.0,2,2,1,"Actipan, Benito Juárez, Ciudad De México 03230, México.","$4,250,000 MXN",2006,departamento
+229.2,229.2,3,3,2,"Anáhuac I Secc., Miguel Hidalgo, Ciudad De México 11320, México.","$9,400,000 MXN",2023,departamento
+89.6,84.7,3,2,1,"Anáhuac I Secc., Miguel Hidalgo, Ciudad De México 11320, México.","$4,650,000 MXN",2023,departamento
+96.0,96.0,3,2,1,"Anáhuac I Secc., Miguel Hidalgo, Ciudad De México 11320, México.","$4,890,000 MXN",2023,departamento
+87.1,141.2,2,2,2,"Anáhuac I Secc., Miguel Hidalgo, Ciudad De México 11320, México.","$5,633,250 MXN",2023,departamento
+93.7,144.6,2,2,2,"Anáhuac I Secc., Miguel Hidalgo, Ciudad De México 11320, México.","$5,814,900 MXN",2023,departamento
+141.8,101.5,2,2,2,"Anáhuac I Secc., Miguel Hidalgo, Ciudad De México 11320, México.","$5,885,250 MXN",2023,departamento
+141.9,93.7,3,2,1,"Anáhuac I Secc., Miguel Hidalgo, Ciudad De México 11320, México.","$5,516,240 MXN",2023,departamento
+445.0,596.0,4,4,1,"Los Morales Secc. Palmas, Miguel Hidalgo, Ciudad De México 11540, México.","$90,000,000 MXN",1960,casa
+100.0,180.0,3,1,2,"El Coyol, Gustavo A. Madero, Ciudad De México 07420, México.","$5,000,000 MXN",2005,casa
+498.0,438.0,4,4,0,"San Jerónimo Lídice, La Magdalena Contreras, Ciudad De México 10200, México.","$18,000,000 MXN",1999,casa-en-condominio
+128.0,131.0,3,,4,"Legaría, Miguel Hidalgo, Ciudad De México 11410, México.","$3,095,000 MXN",1978,casa
+100.0,400.0,3,2,3,"Sifón, Iztapalapa, Ciudad De México 09400, México.","$7,200,000 MXN",2015,casa
+504.0,685.0,3,3,6,"Cumbres de Sta. Fe, Cuajimalpa De Morelos, Ciudad De México 05600, México.","$49,950,000 MXN",2017,casa-en-condominio
+112.0,112.0,2,2,2,"Pedregal De Carrasco, Coyoacán, Ciudad De México 04700, México.","$5,550,000 MXN",5,regular
+234.0,162.0,3,3,2,"San José Insurgentes, Benito Juárez, Ciudad De México 03900, México.","$14,800,000 MXN",2024,departamento
+170.0,131.0,2,2,2,"San José Insurgentes, Benito Juárez, Ciudad De México 03900, México.","$11,300,000 MXN",2024,departamento
+182.0,162.0,3,3,2,"San José Insurgentes, Benito Juárez, Ciudad De México 03900, México.","$13,950,000 MXN",2024,departamento
+86.0,76.3,3,1,1,"San Lucas Xochimanca, Xochimilco, Ciudad De México 16300, México.","$1,850,000 MXN",2002,regular
+478.0,299.0,4,2,2,"Santa María Tepepan, Xochimilco, Ciudad De México 16020, México.","$6,000,000 MXN",1973,irregular
+58.9,58.9,2,2,2,"Nicolás Bravo, Venustiano Carranza, Ciudad De México 15220, México.","$1,950,000 MXN",2014,departamento
+65.0,65.0,2,2,1,"Anáhuac I Secc., Miguel Hidalgo, Ciudad De México 11320, México.","$2,850,000 MXN",2013,regular
+29.0,99.0,2,1,0,"Nonoalco Tlatelolco, Cuauhtémoc, Ciudad De México 06900, México.","$2,000,000 MXN",53,regular
+144.0,467.0,3,1,0,"Narvarte, Benito Juárez, Ciudad De México 03020, México.","$15,600,000 MXN",1979,irregular
+181.0,183.0,3,3,3,"Cuajimalpa, Cuajimalpa De Morelos, Ciudad De México 05000, México.","$4,950,000 MXN",29,casa
+94.0,94.0,2,2,2,"Bosques De Tarango, Alvaro Obregón, Ciudad De México 01580, México.","$3,100,000 MXN",1992,Parquet
+159.0,289.0,4,2,3,"Lindavista, Gustavo A. Madero, Ciudad De México 07300, México.","$8,490,000 MXN",1970,regular
+290.0,293.0,2,2,3,"Narvarte, Benito Juárez, Ciudad De México 03020, México.","$11,900,000 MXN",1984,regular
+95.0,95.0,2,2,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$7,557,786 MXN",,departamento
+140.0,140.0,3,2,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$11,291,108 MXN",,departamento
+150.0,150.0,3,2,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$12,556,789 MXN",,departamento
+50.6,50.6,2,1,1,"San Nicolás Tetelco, Tláhuac, Ciudad De México 13700, México.","$1,200,000 MXN",1998,departamento
+160.0,224.0,4,1,0,"Ciudad Jardín, Coyoacán, Ciudad De México 04370, México.","$7,150,000 MXN",,casa
+65.0,65.0,2,1,1,"Coltongo, Azcapotzalco, Ciudad De México 02630, México.","$2,527,000 MXN",2,regular
+378.9,485.0,6,5,0,"Pedregal De San Francisco, Coyoacán, Ciudad De México 04320, México.","$16,500,000 MXN",1985,regular
+265.4,253.4,3,4,3,"Adolfo López Mateos, Cuajimalpa De Morelos, Ciudad De México 05280, México.","$7,400,000 MXN",1998,casa
+30.0,165.0,3,3,2,"Actipan, Benito Juárez, Ciudad De México 03230, México.","$7,200,000 MXN",1999,regular
+130.0,196.0,4,3,4,"Gabriel Hernández, Gustavo A. Madero, Ciudad De México 07080, México.","$3,370,000 MXN",45,regular
+106.0,214.0,3,3,2,"Bosque Residencial Del Sur, Xochimilco, Ciudad De México 16010, México.","$4,990,000 MXN",1995,Loseta
+227.0,354.0,5,6,2,"Insurgentes Mixcoac, Benito Juárez, Ciudad De México 03920, México.","$12,900,000 MXN",69,regular
+50.0,50.0,2,1,0,"Guerrero, Cuauhtémoc, Ciudad De México 06300, México.","$1,580,000 MXN",1930,"Madera, Linolium en cocina y ceramico"
+139.0,286.0,3,3,2,"Nativitas, Benito Juárez, Ciudad De México 03500, México.","$7,990,000 MXN",50,Madera
+223.8,403.1,4,2,3,"Valle Escondido, Tlalpan, Ciudad De México 14600, México.","$7,800,000 MXN",2003,casa
+86.5,86.5,2,1,0,"Cuauhtémoc, Cuauhtémoc, Ciudad De México 06500, México.","$4,940,000 MXN",,departamento
+163.5,163.5,,3,1,"Cuauhtémoc, Cuauhtémoc, Ciudad De México 06500, México.","$8,390,000 MXN",,departamento
+201.5,271.0,4,2,2,"Iztaccíhuatl, Benito Juárez, Ciudad De México 03520, México.","$9,800,000 MXN",37,Mosaico
+116.5,116.5,,1,1,"Cuauhtémoc, Cuauhtémoc, Ciudad De México 06500, México.","$6,690,000 MXN",,departamento
+200.0,200.0,3,3,2,"La Loma Sta. Fe, Alvaro Obregón, Ciudad De México 01376, México.","$12,900,000 MXN",16,departamento
+184.0,180.0,4,3,1,"Prados Del Rosario, Azcapotzalco, Ciudad De México 02410, México.","$5,200,000 MXN",1968,casa
+165.0,340.0,3,4,3,"Alcantarilla, Alvaro Obregón, Ciudad De México 01729, México.","$10,800,000 MXN",2010,casa-en-condominio
+110.0,110.0,2,2,2,"Nochebuena, Benito Juárez, Ciudad De México 03720, México.","$6,390,000 MXN",2010,departamento
+502.0,383.0,4,4,8,"Hacienda De Coyoacán, Coyoacán, Ciudad De México 04970, México.","$11,000,000 MXN",1992,azulejo
+444.0,732.0,7,3,4,"Del Carmen, Coyoacán, Ciudad De México 04100, México.","$39,000,000 MXN",2010,casa
+295.0,400.0,3,4,1,"Barrio Santa Catarina, Coyoacán, Ciudad De México 04331, México.","$19,500,000 MXN",2011,casa
+103.4,103.4,2,2,1,"Insurgentes Cuicuilco, Coyoacán, Ciudad De México 04530, México.","$6,700,000 MXN",2013,departamento
+224.0,152.0,4,2,0,"Tlazintla, Iztacalco, Ciudad De México 08710, México.","$4,200,000 MXN",1982,Loseta
+56.0,56.0,1,1,1,"Granjas México, Iztacalco, Ciudad De México 08400, México.","$2,100,000 MXN",2024,departamento
+145.0,250.0,5,3,2,"Estrella, Gustavo A. Madero, Ciudad De México 07810, México.","$6,100,000 MXN",1984,"Loseta, alfombrado y laminado"
+"1,211.7",820.7,5,4,3,"Barrio Santa Catarina, Coyoacán, Ciudad De México 04331, México.","$75,000,000 MXN",1965,casa
+352.0,352.0,1,,0,"Nápoles Amp, Benito Juárez, Ciudad De México 03840, México.","$16,800,000 MXN",2018,departamento
+286.0,286.0,3,3,3,"Parque Del Pedregal, Tlalpan, Ciudad De México 14010, México.","$11,490,000 MXN",2008,departamento
+275.0,275.0,3,2,2,"Polanco Chapultepec, Miguel Hidalgo, Ciudad De México 11560, México.","$21,300,000 MXN",2003,departamento
+144.4,144.4,3,2,3,"Ampliación Fuentes del Pedregal, Tlalpan, Ciudad De México 14201, México.","$21,765,660 MXN",2020,regular
+"4,229.0",919.0,3,3,2,"Tlalpuente, Tlalpan, Ciudad De México 14460, México.","$39,900,000 MXN",1987,casa
+69.5,69.5,2,2,2,"La Rosita, Cuajimalpa De Morelos, Ciudad De México 05340, México.","$3,766,422 MXN",2022,departamento
+156.0,156.0,3,4,1,"San Miguel Chapultepec, Miguel Hidalgo, Ciudad De México 11850, México.","$8,450,000 MXN",1961,Madera
+68.0,235.0,3,1,2,"Roma Sur, Cuauhtémoc, Ciudad De México 06760, México.","$9,100,000 MXN",2008,Loseta y Mármol
+246.8,246.8,3,3,1,"Condesa, Cuauhtémoc, Ciudad De México 06140, México.","$11,780,000 MXN",1962,Madera
+68.0,68.0,2,2,1,"Carola, Alvaro Obregón, Ciudad De México 01180, México.","$4,780,000 MXN",2021,Madera
+251.0,250.0,6,4,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$14,490,000 MXN",1973,irregular
+197.0,197.0,3,3,3,"San Jerónimo Aculco, La Magdalena Contreras, Ciudad De México 10400, México.","$6,500,000 MXN",1997,casa
+"1,270.0",430.0,3,3,4,"San Bartolo Ameyalco, Alvaro Obregón, Ciudad De México 01800, México.","$30,000,000 MXN",1992,Madera y alfombra
+408.0,407.0,4,2,3,"Coyoacán Centro, Coyoacán, Ciudad De México 04000, México.","$10,900,000 MXN",1938,casa
+450.0,314.0,3,4,3,"Lomas Del Pedregal Framboyanes, Tlalpan, Ciudad De México 14150, México.","$19,500,000 MXN",2015,departamento
+25.0,118.0,2,2,1,"Santa María La Ribera, Cuauhtémoc, Ciudad De México 06400, México.","$3,930,000 MXN",2020,Mármol
+735.0,367.0,4,4,6,"Barrio San Antonio Culhuacán, Iztapalapa, Ciudad De México 09800, México.","$10,500,000 MXN",1983,casa
+444.0,400.0,3,4,0,"Guadalupe Inn, Alvaro Obregón, Ciudad De México 01020, México.","$15,500,000 MXN",1952,Lozeta y aluminio
+600.0,419.0,3,2,2,"Lomas De Las Aguilas, Alvaro Obregón, Ciudad De México 01730, México.","$13,450,000 MXN",1994,Mármol traventino
+"1,247.0",767.0,4,7,6,"Jardines Del Pedregal, Alvaro Obregón, Ciudad De México 01900, México.","$50,000,000 MXN",2022,Mármol
+100.0,100.0,2,2,1,"Plenitud, Azcapotzalco, Ciudad De México 02780, México.","$3,950,000 MXN",2023,"loseta o laminado, a escoger"
+100.0,150.0,3,3,1,"Plenitud, Azcapotzalco, Ciudad De México 02780, México.","$5,190,000 MXN",2023,departamento
+160.0,226.0,5,2,2,"Torre Blanca, Miguel Hidalgo, Ciudad De México 11280, México.","$4,900,000 MXN",1971,casa
+187.0,250.0,3,3,2,"Las Aguilas, Alvaro Obregón, Ciudad De México 01710, México.","$9,550,000 MXN",1961,Porcelanato y Madera
+63.0,63.0,3,1,0,"El Coyol, Gustavo A. Madero, Ciudad De México 07420, México.","$1,500,000 MXN",1986,departamento
+"2,470.0","1,341.0",3,3,4,"Barrio Santa Catarina, Coyoacán, Ciudad De México 04331, México.","$200,035,451 MXN / $10,400,000 USD",2022,casa
+904.0,637.0,5,4,4,"Bosques De Las Lomas, Miguel Hidalgo, Ciudad De México 11700, México.","$36,544,938 MXN / $1,900,000 USD",1980,regular
+100.0,150.0,3,3,1,"Plenitud, Azcapotzalco, Ciudad De México 02780, México.","$5,190,000 MXN",2023,departamento
+63.0,63.0,2,2,1,"Niños Héroes, Benito Juárez, Ciudad De México 03501, México.","$3,195,000 MXN",2021,Loseta
+75.9,75.9,2,1,0,"Moctezuma 1a Secc., Venustiano Carranza, Ciudad De México 15500, México.","$1,890,000 MXN",1978,Azulejo
+509.0,509.0,3,4,3,"Polanco Chapultepec, Miguel Hidalgo, Ciudad De México 11560, México.","$96,170,890 MXN / $5,000,000 USD",2013,departamento
+367.0,560.0,4,3,4,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$22,000,000 MXN",40,Mármol y Madera
+140.0,140.0,3,2,2,"Tizapán, Alvaro Obregón, Ciudad De México 01090, México.","$5,700,000 MXN",2013,departamento
+939.0,394.0,8,2,0,"Xaltocan, Xochimilco, Ciudad De México 16090, México.","$10,000,000 MXN",1981,casa
+68.1,68.1,2,1,1,"Lomas Altas, Miguel Hidalgo, Ciudad De México 11950, México.","$2,950,000 MXN",2009,departamento
+93.0,93.0,3,2,1,"Lomas De Memetla, Cuajimalpa De Morelos, Ciudad De México 05330, México.","$3,380,000 MXN",2005,Duela
+71.0,125.0,3,1,0,"Agrícola Oriental, Iztacalco, Ciudad De México 08500, México.","$2,600,000 MXN",1983,Cerámica
+397.0,600.0,5,3,4,"Leyes De Reforma, Iztapalapa, Ciudad De México 09310, México.","$10,800,000 MXN",1992,Mármol
+77.0,77.0,2,2,2,"San Pedro De Los Pinos, Benito Juárez, Ciudad De México 03800, México.","$4,532,000 MXN",2022,departamento
+227.0,405.0,4,4,4,"Lomas De Las Aguilas, Alvaro Obregón, Ciudad De México 01730, México.","$10,300,000 MXN",1992,casa
+33.6,33.6,1,1,0,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$3,500,000 MXN",2022,departamento
+202.0,250.0,3,2,2,"Jardines Del Sur, Xochimilco, Ciudad De México 16050, México.","$5,900,000 MXN",1973,casa
+645.1,428.1,4,5,4,"Florida, Alvaro Obregón, Ciudad De México 01030, México.","$37,900,000 MXN",2019,casa
+152.0,363.1,4,4,3,"Viaducto Piedad, Iztacalco, Ciudad De México 08200, México.","$8,950,000 MXN",2004,Loseta
+354.0,380.0,3,2,3,"Arenal De Guadalupe, Tlalpan, Ciudad De México 14389, México.","$8,700,000 MXN",1992,Cerámica
+280.0,350.0,4,4,4,"Las Aguilas, Alvaro Obregón, Ciudad De México 01710, México.","$15,700,000 MXN",2007,regular
+"1,354.0",900.0,1,2,10,"San Pablo Oztotepec, Milpa Alta, Ciudad De México 12400, México.","$3,190,000 MXN",1982,irregular
+324.0,493.0,4,3,3,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$14,500,000 MXN",1966,Duela y Laminado
+70.0,70.0,2,2,2,"Residencial Zacatenco, Gustavo A. Madero, Ciudad De México 07369, México.","$3,550,000 MXN",2021,Piso de Ingeniería
+540.0,510.0,4,5,6,"Lomas De Chapultepec, Miguel Hidalgo, Ciudad De México 11000, México.","$39,000,000 MXN",1972,LOSETAS Y MADERA
+250.0,250.0,4,4,3,"Miguel Hidalgo, Tlalpan, Ciudad De México 14260, México.","$9,500,000 MXN",40,regular
+441.0,441.0,3,3,4,"Bosques De Las Lomas, Cuajimalpa De Morelos, Ciudad De México 05120, México.","$27,312,533 MXN / $1,420,000 USD",2010,Madera y mármol
+78.0,300.0,4,3,1,"Guerrero, Cuauhtémoc, Ciudad De México 06300, México.","$6,400,000 MXN",1997,regular
+110.0,110.0,3,2,2,"Anáhuac I Secc., Miguel Hidalgo, Ciudad De México 11320, México.","$8,980,000 MXN",2018,departamento
+144.0,144.0,3,3,1,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$5,790,000 MXN",39,Madera
+75.0,75.0,2,1,0,"Departamento del Distrito Federal, Cuauhtémoc, Ciudad De México 06002, México.","$4,974,000 MXN",2017,departamento
+160.0,250.0,3,3,2,"Residencial Cafetales, Coyoacán, Ciudad De México 04930, México.","$7,000,000 MXN",1988,"Loseta, Alfombra"
+"2,809.8",600.0,4,3,15,"San Miguel Ajusco, Tlalpan, Ciudad De México 14700, México.","$8,500,000 MXN",1980,casa
+177.0,177.0,2,2,0,"San José Insurgentes, Benito Juárez, Ciudad De México 03900, México.","$7,780,000 MXN",1976,departamento
+52.0,52.0,1,1,0,"Alamos, Benito Juárez, Ciudad De México 03400, México.","$2,400,000 MXN",2011,Cerámica
+63.0,63.0,2,1,1,"Federal, Venustiano Carranza, Ciudad De México 15700, México.","$2,405,000 MXN",2021,regular
+63.0,63.0,2,1,0,"Federal, Venustiano Carranza, Ciudad De México 15700, México.","$2,490,000 MXN",2021,departamento
+63.0,63.0,2,1,1,"Federal, Venustiano Carranza, Ciudad De México 15700, México.","$2,490,000 MXN",2021,regular
+63.0,63.0,2,1,1,"Federal, Venustiano Carranza, Ciudad De México 15700, México.","$2,470,000 MXN",2021,regular
+61.0,61.0,2,1,1,"Federal, Venustiano Carranza, Ciudad De México 15700, México.","$2,465,000 MXN",2021,regular
+53.0,53.0,2,1,1,"Federal, Venustiano Carranza, Ciudad De México 15700, México.","$2,185,000 MXN",2021,regular
+52.0,52.0,2,1,1,"Federal, Venustiano Carranza, Ciudad De México 15700, México.","$2,165,000 MXN",2021,regular
+149.0,149.0,3,3,1,"Jardín Balbuena, Venustiano Carranza, Ciudad De México 15900, México.","$7,250,000 MXN",2021,regular
+134.9,86.5,3,2,1,"Escandón, Miguel Hidalgo, Ciudad De México 11800, México.","$5,250,000 MXN",2021,departamento
+386.0,228.0,3,2,1,"Michoacana Amp, Venustiano Carranza, Ciudad De México 15250, México.","$6,490,000 MXN",1962,Loseta
+158.0,292.0,3,4,3,"Olivar De Los Padres, Alvaro Obregón, Ciudad De México 01780, México.","$8,900,000 MXN",2000,Cerámica
+160.8,160.8,3,2,2,"Parque San Andrés, Coyoacán, Ciudad De México 04040, México.","$9,500,000 MXN",2016,Loseta cerámica
+151.0,400.0,7,7,1,"Nativitas, Xochimilco, Ciudad De México 16450, México.","$3,315,000 MXN",1992,Loseta
+"1,500.0",180.0,3,2,8,"San Miguel Topilejo, Tlalpan, Ciudad De México 14500, México.","$2,800,000 MXN",1991,regular
+106.2,373.0,3,3,3,"Villa Coyoacán, Coyoacán, Ciudad De México 04000, México.","$15,550,000 MXN",2023,Mármol
+176.6,433.8,4,4,4,"Villa Coyoacán, Coyoacán, Ciudad De México 04000, México.","$18,115,000 MXN",2023,Mármol
+367.9,256.1,3,3,3,"Condesa, Cuauhtémoc, Ciudad De México 06140, México.","$25,860,000 MXN",,regular
+"1,178.0",350.0,3,2,15,"San Felipe De Jesús, Xochimilco, Ciudad De México 16770, México.","$7,000,000 MXN",1994,Cemento
+262.0,398.0,,,0,"Pensador Mexicano, Venustiano Carranza, Ciudad De México 15510, México.",A consultar,1967,regular
+120.0,120.0,2,2,2,"Nápoles, Benito Juárez, Ciudad De México 03810, México.","$6,100,000 MXN",16,departamento
+93.0,93.0,2,2,1,"Lomas De Memetla, Cuajimalpa De Morelos, Ciudad De México 05330, México.","$3,350,000 MXN",2005,Duela
+69.0,69.0,2,1,1,"Villas Del Pedregal, Coyoacán, Ciudad De México 04719, México.","$2,590,000 MXN",1970,departamento
+336.0,566.0,3,4,4,"Jardines Del Pedregal, Alvaro Obregón, Ciudad De México 01900, México.","$34,000,000 MXN",2016,regular
+150.0,259.4,4,2,1,"Nueva Tenochtitlan, Gustavo A. Madero, Ciudad De México 07890, México.","$3,900,000 MXN",1952,casa
+435.0,480.0,4,5,5,"Axotla, Alvaro Obregón, Ciudad De México 01030, México.","$23,500,000 MXN",1998,Marmol
+82.1,82.1,3,2,1,"Lomas De Sotelo, Miguel Hidalgo, Ciudad De México 11200, México.","$4,750,000 MXN",1998,Cerámica
+48.6,48.6,2,1,0,"Santiago Atzacoalco, Gustavo A. Madero, Ciudad De México 07040, México.","$1,530,000 MXN",2023,Loseta Cerámica
+172.0,295.0,5,3,2,"Alamos, Benito Juárez, Ciudad De México 03400, México.","$7,750,000 MXN",59,regular
+305.0,495.0,3,3,2,"Reforma Social, Miguel Hidalgo, Ciudad De México 11650, México.","$21,450,000 MXN",1990,Madera mármol
+534.0,390.0,7,4,11,"Guadalupe Inn, Alvaro Obregón, Ciudad De México 01020, México.","$26,000,000 MXN",1972,Porcelanato y Alfombra
+165.0,165.0,2,2,2,"Polanco V Sección, Miguel Hidalgo, Ciudad De México 11591, México.","$18,996,828 MXN / $987,660 USD",2022,departamento
+211.0,211.0,,,2,"Polanco V Sección, Miguel Hidalgo, Ciudad De México 11591, México.","$22,538,610 MXN / $1,171,800 USD",2022,departamento
+169.0,169.0,2,2,2,"Polanco V Sección, Miguel Hidalgo, Ciudad De México 11591, México.","$16,626,697 MXN / $864,435 USD",2022,departamento
+176.0,176.0,2,2,2,"Polanco V Sección, Miguel Hidalgo, Ciudad De México 11591, México.","$17,315,376 MXN / $900,240 USD",2022,departamento
+199.0,199.0,2,2,2,"Polanco V Sección, Miguel Hidalgo, Ciudad De México 11591, México.","$23,137,851 MXN / $1,202,955 USD",2022,departamento
+200.0,417.0,3,4,2,"Oxtopulco Universidad, Coyoacán, Ciudad De México 04318, México.","$25,200,000 MXN",27,"Madera Hikon, Porcelanato, laminado"
+167.0,167.0,3,3,1,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$6,800,000 MXN",1993,Laminado
+85.0,178.2,,2,3,"San José Insurgentes, Benito Juárez, Ciudad De México 03900, México.","$8,200,000 MXN",2005,departamento
+408.0,652.0,4,3,5,"Chimalistac, Alvaro Obregón, Ciudad De México 01070, México.","$21,500,000 MXN",1973,casa
+700.0,720.0,4,4,5,"Club De Golf México, Tlalpan, Ciudad De México 14620, México.","$21,500,000 MXN",1984,Loseta
+130.0,110.0,2,2,2,"Ampliación Fuentes del Pedregal, Tlalpan, Ciudad De México 14201, México.",A consultar,2020,regular
+213.0,186.0,3,3,3,"Ampliación Fuentes del Pedregal, Tlalpan, Ciudad De México 14201, México.",A consultar,2020,regular
+233.0,205.0,3,3,3,"Ampliación Fuentes del Pedregal, Tlalpan, Ciudad De México 14201, México.",A consultar,2020,regular
+125.0,107.0,2,2,2,"El Contadero, Cuajimalpa De Morelos, Ciudad De México 05500, México.","$8,120,000 MXN",2020,departamento
+158.0,141.0,3,3,2,"El Contadero, Cuajimalpa De Morelos, Ciudad De México 05500, México.","$9,480,000 MXN",2020,departamento
+79.5,221.0,6,,0,"Cuauhtémoc, Cuauhtémoc, Ciudad De México 06500, México.","$9,000,000 MXN",1972,casa
+126.0,130.0,2,2,2,"Escuadrón 201, Iztapalapa, Ciudad De México 09060, México.","$3,500,000 MXN",1995,casa
+191.0,287.0,4,4,3,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$18,950,000 MXN",1982,Loseta
+241.0,241.0,3,5,3,"Ciudad De Los Deportes, Benito Juárez, Ciudad De México 03710, México.","$11,900,000 MXN",2011,Porcelanato
+66.0,66.0,2,1,0,"Legaría, Miguel Hidalgo, Ciudad De México 11410, México.","$1,900,000 MXN",2014,departamento
+58.0,58.0,2,1,1,"Atlampa, Cuauhtémoc, Ciudad De México 06450, México.","$1,700,000 MXN",2002,departamento
+157.5,191.0,,,0,"San Jerónimo Lídice, La Magdalena Contreras, Ciudad De México 10200, México.","$5,880,000 MXN",1984,casa-en-condominio
+305.0,414.0,,,4,"Florida, Alvaro Obregón, Ciudad De México 01030, México.","$21,400,000 MXN",2002,casa-en-condominio
+54.7,54.7,2,1,0,"Emilio Carranza, Venustiano Carranza, Ciudad De México 15230, México.","$1,583,000 MXN",2020,loseta
+84.0,84.0,2,2,1,"Industrial, Gustavo A. Madero, Ciudad De México 07800, México.","$4,096,327 MXN",2022,departamento
+85.0,85.0,2,2,1,"Industrial, Gustavo A. Madero, Ciudad De México 07800, México.","$4,351,830 MXN",2022,departamento
+82.8,82.8,2,2,1,"Industrial, Gustavo A. Madero, Ciudad De México 07800, México.","$4,237,146 MXN",2022,departamento
+85.0,85.0,2,2,2,"Industrial, Gustavo A. Madero, Ciudad De México 07800, México.","$4,576,107 MXN",2023,departamento
+"1,636.0",992.0,7,6,3,"Barrio Santa Catarina, Coyoacán, Ciudad De México 04331, México.","$67,319,623 MXN / $3,500,000 USD",1995,casa
+187.0,187.0,4,4,8,"Puebla, Venustiano Carranza, Ciudad De México 15020, México.","$10,000,000 MXN",1973,casa
+64.0,222.0,3,2,2,"El Recreo, Azcapotzalco, Ciudad De México 02070, México.","$6,200,000 MXN",2019,casa
+193.0,170.0,3,2,1,"Narvarte Poniente, Benito Juárez, Ciudad De México 03020, México.","$7,200,000 MXN",1963,regular
+159.0,159.0,3,2,2,"Del Valle Norte, Benito Juárez, Ciudad De México 03103, México.","$6,245,000 MXN",2012,Firme
+74.0,70.0,2,1,1,"Nueva Industrial Vallejo, Gustavo A. Madero, Ciudad De México 07700, México.","$2,200,000 MXN",2010,regular
+54.0,54.0,2,1,0,"Lomas De Plateros, Alvaro Obregón, Ciudad De México 01480, México.","$1,540,000 MXN",1981,departamento
+"3,859.0","1,180.0",4,6,12,"Rancho San Francisco, Alvaro Obregón, Ciudad De México 01807, México.","$63,000,000 MXN",2011,irregular
+"3,859.0","1,180.0",4,6,12,"Rancho San Francisco, Alvaro Obregón, Ciudad De México 01807, México.","$63,000,000 MXN",2011,irregular
+496.0,346.0,4,4,4,"Jardines Del Ajusco, Tlalpan, Ciudad De México 14200, México.","$10,950,000 MXN",1993,regular
+152.4,80.3,2,2,2,"Ciudad Jardín, Coyoacán, Ciudad De México 04370, México.","$4,990,000 MXN",2022,departamento
+423.0,550.0,3,3,4,"Crédito Constructor, Benito Juárez, Ciudad De México 03940, México.","$32,000,000 MXN",1975,irregular
+68.0,68.0,,2,0,"Carola, Alvaro Obregón, Ciudad De México 01180, México.","$3,850,000 MXN",2019,regular
+61.0,61.0,1,1,1,"Santa Cruz De Las Salinas, Azcapotzalco, Ciudad De México 02340, México.","$2,650,000 MXN",1,Piso porcelanico tipo marmol
+90.0,90.0,2,1,2,"San Pedro Xalpa, Azcapotzalco, Ciudad De México 02710, México.","$3,700,000 MXN",5,regular
+59.0,59.0,2,1,1,"San Francisco Tetecala, Azcapotzalco, Ciudad De México 02730, México.","$2,780,000 MXN",1,departamento
+91.0,91.0,2,2,0,"Granjas México, Iztacalco, Ciudad De México 08400, México.","$1,990,000 MXN",1977,regular
+200.0,320.0,10,4,2,"Ex Hipódromo De Peralvillo, Cuauhtémoc, Ciudad De México 06250, México.","$6,370,000 MXN",1973,casa
+40.0,120.0,1,1,0,"Juan Escutia, Iztapalapa, Ciudad De México 09100, México.","$1,550,000 MXN",1997,casa
+605.0,818.0,3,3,6,"Paseos De Taxqueña, Coyoacán, Ciudad De México 04250, México.","$21,950,000 MXN",30,Loseta
+94.0,94.0,3,2,1,"Alamos, Benito Juárez, Ciudad De México 03400, México.","$4,250,000 MXN",2013,departamento
+957.0,350.0,4,3,6,"San Juan Tepepan, Xochimilco, Ciudad De México 16020, México.","$10,600,000 MXN",1987,irregular
+742.0,458.0,4,4,4,"San Jerónimo Lídice, La Magdalena Contreras, Ciudad De México 10200, México.","$16,640,000 MXN",30,Mármol
+60.0,60.0,,,0,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$5,140,000 MXN",1,departamento
+90.0,90.0,,,0,"Condesa, Cuauhtémoc, Ciudad De México 06140, México.","$6,300,000 MXN",1,departamento
+66.0,66.0,,,0,"Del Valle Sur, Benito Juárez, Ciudad De México 03001, México.","$4,890,000 MXN",1,departamento
+200.0,200.0,3,3,2,"El Yaqui, Cuajimalpa De Morelos, Ciudad De México 05320, México.","$7,953,000 MXN",2000,departamento
+732.9,457.2,,,0,"San Angel, Alvaro Obregón, Ciudad De México 01000, México.","$34,000,000 MXN",1995,casa
+90.0,201.0,3,4,1,"El Parque, Coyoacán, Ciudad De México 04899, México.","$6,950,000 MXN",2003,regular
+360.0,659.0,3,4,3,"Residencial Acoxpa, Tlalpan, Ciudad De México 14300, México.","$16,000,000 MXN",1988,"Alfombra, loseta"
+"7,671.0",396.0,4,4,10,"Tlalpuente, Tlalpan, Ciudad De México 14460, México.","$22,000,000 MXN",1993,irregular
+75.0,75.0,2,2,2,"Insurgentes Mixcoac, Benito Juárez, Ciudad De México 03920, México.","$5,850,000 MXN",4,departamento
+154.0,126.0,2,2,2,"Lomas Quebradas, La Magdalena Contreras, Ciudad De México 10000, México.","$5,350,000 MXN",2009,departamento
+75.0,75.0,2,2,2,"Santa Cruz Atoyac, Benito Juárez, Ciudad De México 03310, México.","$4,950,000 MXN",2019,regular
+514.9,479.1,3,4,4,"Jardines Del Ajusco, Tlalpan, Ciudad De México 14200, México.","$12,500,000 MXN",1993,"loseta italiana, madera ,escaleras de cantera."
+146.0,240.0,3,2,1,"Gabriel Hernández, Gustavo A. Madero, Ciudad De México 07080, México.","$3,400,000 MXN",1983,casa
+35.5,35.5,,,0,"Guerrero, Cuauhtémoc, Ciudad De México 06300, México.","$941,000 MXN",40,departamento
+138.6,138.6,3,2,2,"Manzanastitla, Cuajimalpa De Morelos, Ciudad De México 05270, México.","$3,800,000 MXN",2006,casa
+685.0,782.0,4,5,3,"Lomas Altas, Miguel Hidalgo, Ciudad De México 11950, México.","$26,500,000 MXN",1978,irregular
+140.0,140.0,2,2,0,"Condesa, Cuauhtémoc, Ciudad De México 06140, México.","$6,800,000 MXN",2000,regular
+143.0,238.0,3,2,2,"Granjas México, Iztacalco, Ciudad De México 08400, México.","$3,500,000 MXN",45,Ceramica
+100.0,100.0,2,2,2,"Anáhuac I Secc., Miguel Hidalgo, Ciudad De México 11320, México.","$7,000,000 MXN",2011,penthouse
+616.0,247.0,1,2,3,"San Diego Churubusco, Coyoacán, Ciudad De México 04120, México.","$32,500,000 MXN",1978,casa
+265.0,317.0,4,3,4,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$12,200,000 MXN",1976,Marmol
+58.0,210.0,4,4,0,"Cuauhtémoc, La Magdalena Contreras, Ciudad De México 10020, México.","$4,800,000 MXN",1983,irregular
+230.0,230.0,3,2,1,"Polanco I Sección, Miguel Hidalgo, Ciudad De México 11591, México.","$7,500,000 MXN",1975,regular
+130.0,240.0,5,3,0,"Lomas De La Estancia, Iztapalapa, Ciudad De México 09640, México.","$3,100,000 MXN",1998,casa
+243.0,316.0,4,4,3,"Escandón, Miguel Hidalgo, Ciudad De México 11800, México.","$14,800,000 MXN",1960,Loseta
+223.7,141.6,2,2,2,"Nápoles, Benito Juárez, Ciudad De México 03810, México.","$14,500,000 MXN",2,departamento
+132.0,322.0,3,,4,"Estrella, Gustavo A. Madero, Ciudad De México 07810, México.","$6,400,000 MXN",2000,Cemento
+120.0,280.0,6,4,2,"Manzanastitla, Cuajimalpa De Morelos, Ciudad De México 05270, México.","$6,550,000 MXN",2016,casa
+160.0,389.0,5,4,3,"Residencial Acueducto de Guadalupe, Gustavo A. Madero, Ciudad De México 07201, México.","$5,750,000 MXN",1985,regular
+83.0,83.0,2,1,0,"Nonoalco Tlatelolco, Cuauhtémoc, Ciudad De México 06900, México.","$2,050,000 MXN",55,Loseta
+"1,080.0",984.0,12,12,10,"Del Carmen, Coyoacán, Ciudad De México 04100, México.","$65,000,000 MXN",1993,casa
+125.0,153.0,3,2,3,"Lomas De La Estancia, Iztapalapa, Ciudad De México 09640, México.","$2,450,000 MXN",18,Lozeta
+58.0,58.0,2,2,1,"Santiago Ahuizotla, Azcapotzalco, Ciudad De México 02750, México.","$2,246,000 MXN",2017,departamento
+674.0,568.0,4,6,6,"Del Carmen, Coyoacán, Ciudad De México 04100, México.","$27,900,000 MXN",1983,casa
+140.0,140.0,3,2,1,"Juárez, Cuauhtémoc, Ciudad De México 06600, México.","$5,550,000 MXN",10,Madera de Encino
+283.0,104.0,2,2,6,"Martín Carrera, Gustavo A. Madero, Ciudad De México 07070, México.","$75,013,294 MXN / $3,900,000 USD",1982,Cerámico
+882.0,700.0,3,3,4,"Zacayucan Peña Pobre, Tlalpan, Ciudad De México 14266, México.","$69,000,000 MXN",5,casa
+494.0,195.0,3,2,0,"San Diego Churubusco, Coyoacán, Ciudad De México 04120, México.","$15,000,000 MXN",1973,casa
+242.0,370.0,3,2,3,"Agrícola Pantitlan, Iztacalco, Ciudad De México 08100, México.","$6,500,000 MXN",1998,Loseta
+81.0,81.0,2,2,2,"San Agustín del Pueblo Tetelpan, Alvaro Obregón, Ciudad De México 01001, México.","$3,420,000 MXN",2017,departamento
+79.2,79.2,2,2,2,"El Contadero, Cuajimalpa De Morelos, Ciudad De México 05500, México.","$3,500,000 MXN",2020,departamento
+150.0,150.0,3,3,3,"Santa Fe Cuajimalpa, Cuajimalpa De Morelos, Ciudad De México 05348, México.","$6,990,000 MXN",1,departamento
+209.6,286.5,4,3,2,"Liberación, Azcapotzalco, Ciudad De México 02930, México.","$5,600,000 MXN",1973,casa
+109.0,190.0,3,3,3,"Parque San Andrés, Coyoacán, Ciudad De México 04040, México.","$9,500,000 MXN",2008,casa-en-condominio
+191.0,450.0,5,3,3,"Santiago Acahualtepec 2a Amp, Iztapalapa, Ciudad De México 09609, México.","$3,250,000 MXN",1983,regular
+45.0,45.0,1,1,0,"Centro De La Ciudad De México Area 3, Cuauhtémoc, Ciudad De México 06020, México.","$1,100,000 MXN",1980,departamento
+393.0,360.0,3,5,2,"Tetelpan, Alvaro Obregón, Ciudad De México 01700, México.","$9,700,000 MXN",1972,"Laminado, loseta cerámica y madera."
+393.0,360.0,3,5,2,"Tetelpan, Alvaro Obregón, Ciudad De México 01700, México.","$9,700,000 MXN",1972,"Laminado, loseta cerámica y madera."
+72.0,86.6,2,2,1,"Miguel Hidalgo 4a Secc. Amp, Tlalpan, Ciudad De México 14250, México.","$1,949,000 MXN",2010,departamento
+189.0,307.0,4,5,3,"Lomas De Tarango, Alvaro Obregón, Ciudad De México 01620, México.","$7,990,000 MXN",2005,regular
+54.0,54.0,3,1,0,"Anahuac, Miguel Hidalgo, Ciudad De México 11320, México.","$1,950,000 MXN",2005,departamento
+84.0,84.0,2,2,2,"Pedregal De Carrasco, Coyoacán, Ciudad De México 04700, México.","$4,900,000 MXN",2020,departamento
+87.0,87.0,2,1,1,"Ampliación Miguel Hidalgo, Tlalpan, Ciudad De México 14410, México.","$2,600,000 MXN",1992,departamento
+288.0,288.0,3,3,2,"Polanco I Sección, Miguel Hidalgo, Ciudad De México 11591, México.","$11,000,000 MXN",1977,departamento
+94.5,94.5,3,2,2,"Manzanastitla, Cuajimalpa De Morelos, Ciudad De México 05270, México.","$2,980,000 MXN",2008,departamento
+94.0,94.0,2,2,2,"Rinconada Coapa 2a Secc., Tlalpan, Ciudad De México 14325, México.","$6,390,000 MXN",2014,departamento
+357.0,417.0,3,6,4,"Romero De Terreros, Coyoacán, Ciudad De México 04310, México.","$18,000,000 MXN",1981,casa
+110.0,220.0,2,2,0,"Clavería, Azcapotzalco, Ciudad De México 02080, México.","$2,990,000 MXN",19,regular
+299.0,256.0,3,2,9,"San Pedro Xalpa, Azcapotzalco, Ciudad De México 02710, México.","$5,300,000 MXN",1993,Cerámico
+"1,244.3","1,100.0",8,8,20,"Jardines Del Pedregal, Alvaro Obregón, Ciudad De México 01900, México.","$37,900,000 MXN",20,casa
+900.0,472.7,4,6,6,"Lomas Quebradas, La Magdalena Contreras, Ciudad De México 10000, México.","$20,000,000 MXN",15,casa
+194.0,194.0,3,2,2,"Narvarte Oriente, Benito Juárez, Ciudad De México 03023, México.","$7,250,000 MXN",2020,departamento
+519.8,924.0,,3,0,"Ex-Hacienda de Guadalupe Chimalistac, Alvaro Obregón, Ciudad De México 01001, México.","$29,900,000 MXN",40,casa
+87.0,192.0,2,2,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$11,200,000 MXN",2005,casa-en-condominio
+607.8,401.0,7,5,6,"Las Aguilas, Alvaro Obregón, Ciudad De México 01710, México.","$14,980,000 MXN",1970,casa
+63.6,63.6,2,2,2,"Portales Norte, Benito Juárez, Ciudad De México 03303, México.","$3,500,750 MXN",2023,regular
+63.6,63.6,2,2,2,"Portales Norte, Benito Juárez, Ciudad De México 03303, México.","$4,085,675 MXN",2023,regular
+63.6,63.6,2,2,2,"Portales Norte, Benito Juárez, Ciudad De México 03303, México.","$6,099,225 MXN",2023,regular
+220.0,220.0,3,2,2,"Los Alpes, Alvaro Obregón, Ciudad De México 01010, México.","$8,500,000 MXN",1996,departamento
+866.0,313.0,4,4,3,"Santa Cecilia Tepetlapa, Xochimilco, Ciudad De México 16880, México.","$6,000,000 MXN",1981,casa
+189.0,230.0,4,2,2,"Florida, Alvaro Obregón, Ciudad De México 01030, México.","$10,400,000 MXN",1954,Loseta
+42.0,42.0,2,1,0,"Doctores, Cuauhtémoc, Ciudad De México 06720, México.","$890,000 MXN",1993,departamento
+150.0,300.0,4,4,2,"Miguel De La Madrid Hurtado, Iztapalapa, Ciudad De México 09698, México.","$3,600,000 MXN",2011,Loseta
+68.0,68.0,2,1,1,"Santa Cruz Atoyac, Benito Juárez, Ciudad De México 03310, México.","$3,050,000 MXN",1995,departamento
+60.3,60.3,2,1,1,"DM Nacional, Gustavo A. Madero, Ciudad De México 07450, México.","$2,200,000 MXN",2007,regular
+183.0,183.0,2,2,2,"Florida, Alvaro Obregón, Ciudad De México 01030, México.","$8,000,000 MXN",1993,regular
+83.0,283.0,4,2,0,"El Reloj, Coyoacán, Ciudad De México 04640, México.","$4,000,000 MXN",1963,casa
+200.0,360.0,3,3,4,"Ampliación Miguel Hidalgo, Tlalpan, Ciudad De México 14410, México.","$5,750,000 MXN",2022,casa
+500.0,180.8,3,2,1,"La Magdalena Contreras, La Magdalena Contreras, Ciudad De México 10910, México.","$7,150,000 MXN",2002,penthouse
+229.0,302.0,5,4,4,"Viaducto Piedad, Iztacalco, Ciudad De México 08200, México.","$9,300,000 MXN",40,Porcelanato
+99.0,99.0,2,2,1,"Cuauhtémoc, Cuauhtémoc, Ciudad De México 06500, México.","$5,200,000 MXN",2004,departamento
+279.0,273.0,3,3,2,"La Carbonera, La Magdalena Contreras, Ciudad De México 10640, México.","$4,950,000 MXN",29,casa
+156.0,216.1,5,3,1,"Valle Del Tepeyac, Gustavo A. Madero, Ciudad De México 07740, México.","$7,000,000 MXN",1984,regular
+38.9,38.9,1,1,0,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$4,236,000 MXN",2023,regular
+127.0,127.0,3,3,0,"Acacias, Benito Juárez, Ciudad De México 03240, México.","$4,600,000 MXN",38,departamento
+101.0,185.0,3,3,1,"San Bartolo El Chico, Tlalpan, Ciudad De México 14380, México.","$5,500,000 MXN",2002,"Tipo mármol, duela en sala comedor y parquet en recamaras."
+391.0,419.0,15,5,6,"Victoria De Las Democracias, Azcapotzalco, Ciudad De México 02810, México.","$9,725,000 MXN",1967,Porcelanato
+138.0,138.0,3,2,1,"Ignacio Zaragoza, Venustiano Carranza, Ciudad De México 15000, México.","$3,800,000 MXN",1995,departamento
+91.0,91.0,3,2,1,"Ignacio Zaragoza, Venustiano Carranza, Ciudad De México 15000, México.","$2,700,000 MXN",1995,departamento
+91.0,91.0,3,1,1,"Ignacio Zaragoza, Venustiano Carranza, Ciudad De México 15000, México.","$2,700,000 MXN",1995,departamento
+114.0,183.0,2,2,1,"Santa María Aztahuacán, Iztapalapa, Ciudad De México 09500, México.","$2,700,000 MXN",20,irregular
+143.7,143.7,3,2,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$14,656,625 MXN",,departamento
+62.0,62.0,2,2,2,"San Pedro De Los Pinos, Alvaro Obregón, Ciudad De México 01180, México.","$3,100,000 MXN",2016,Loseta
+83.0,83.0,2,1,0,"Centro De La Ciudad De México Area 9, Cuauhtémoc, Ciudad De México 06090, México.","$2,900,000 MXN",1958,departamento
+129.5,129.5,2,2,2,"San José Insurgentes, Benito Juárez, Ciudad De México 03900, México.","$8,900,000 MXN",2012,departamento
+"1,016.0",286.0,3,3,2,"Santa Ursula Xitla, Tlalpan, Ciudad De México 14420, México.","$15,500,000 MXN",42,regular
+225.0,355.0,4,2,2,"Vergel De Coyoacán, Tlalpan, Ciudad De México 14340, México.","$8,999,999 MXN",1986,regular
+34.0,34.0,1,1,0,"Guadalupe Inn, Alvaro Obregón, Ciudad De México 01020, México.","$2,835,918 MXN",2023,departamento
+75.0,75.0,2,1,1,"Culhuacán CTM Obrero Secc. 8, Coyoacán, Ciudad De México 04909, México.","$1,900,000 MXN",1988,Loseta cerámica
+174.0,315.0,3,5,5,"Granjas Coapa, Tlalpan, Ciudad De México 14330, México.","$8,000,000 MXN",2008,Mármol y duela de madera
+206.0,249.0,3,2,2,"Justo Sierra Maestro, Iztapalapa, Ciudad De México 09460, México.","$5,700,000 MXN",1963,regular
+50.0,50.0,1,1,1,"Miravalle, Benito Juárez, Ciudad De México 03580, México.","$2,910,000 MXN",2024,Porcelanato
+64.0,64.0,2,2,1,"Miravalle, Benito Juárez, Ciudad De México 03580, México.","$3,420,000 MXN",2023,Porcelanato
+63.0,57.0,2,2,1,"Miravalle, Benito Juárez, Ciudad De México 03580, México.","$3,260,000 MXN",2024,Porcelanato
+65.0,65.0,2,1,1,"Agrícola Oriental, Iztacalco, Ciudad De México 08500, México.","$2,150,000 MXN",2016,departamento
+85.0,85.0,3,1,1,"Tenorios, Tlalpan, Ciudad De México 14326, México.","$2,600,000 MXN",1973,Loseta
+285.0,558.0,3,5,4,"Colinas Del Bosque, Tlalpan, Ciudad De México 14608, México.","$19,500,000 MXN",2002,casa
+200.0,480.0,4,4,8,"Campestre Coyoacán, Coyoacán, Ciudad De México 04938, México.","$15,000,000 MXN",1988,regular
+123.0,269.0,4,3,2,"San Jerónimo Lídice, La Magdalena Contreras, Ciudad De México 10200, México.","$7,600,000 MXN",2005,regular
+106.0,106.0,2,2,1,"Santa Fe, Alvaro Obregón, Ciudad De México 01210, México.","$4,500,000 MXN",2008,regular
+691.0,400.0,5,5,5,"San Miguel Topilejo, Tlalpan, Ciudad De México 14500, México.","$4,800,000 MXN",1983,casa
+52.8,52.8,1,1,1,"Lomas Del Chamizal, Cuajimalpa De Morelos, Ciudad De México 05129, México.","$3,300,000 MXN",2023,regular
+84.9,84.9,2,2,1,"Lomas Del Chamizal, Cuajimalpa De Morelos, Ciudad De México 05129, México.","$4,551,750 MXN",2023,regular
+64.9,64.9,1,1,1,"Lomas Del Chamizal, Cuajimalpa De Morelos, Ciudad De México 05129, México.","$3,774,000 MXN",2022,regular
+51.0,51.0,1,1,1,"Lomas Del Chamizal, Cuajimalpa De Morelos, Ciudad De México 05129, México.","$3,260,000 MXN",2022,regular
+130.6,130.6,2,2,2,"Del Valle, Benito Juárez, Ciudad De México 03100, México.","$10,608,099 MXN",2023,departamento
+84.2,84.2,1,1,0,"Lomas Del Chamizal, Cuajimalpa De Morelos, Ciudad De México 05129, México.","$4,653,750 MXN",2022,regular
+"1,175.0",222.0,3,2,8,"Ampliación Miguel Hidalgo, Tlalpan, Ciudad De México 14410, México.","$13,500,000 MXN",2003,casa
+936.0,649.0,9,5,10,"Selene Amp, Tláhuac, Ciudad De México 13430, México.","$11,400,000 MXN",1993,casa
+120.0,300.0,3,1,0,"Prado Churubusco, Coyoacán, Ciudad De México 04230, México.","$9,100,000 MXN",2000,casa
+103.0,93.0,3,2,2,"Santa Cruz Atoyac, Benito Juárez, Ciudad De México 03310, México.","$7,100,000 MXN",2011,Formato grande de Porcelanato
+103.0,93.0,3,2,2,"Santa Cruz Atoyac, Benito Juárez, Ciudad De México 03310, México.","$7,100,000 MXN",2011,Formato grande de Porcelanato
+247.0,322.0,,,0,"Santa Ursula Coapa, Coyoacán, Ciudad De México 04650, México.","$6,000,000 MXN",1986,regular
+909.0,"1,305.0",4,7,13,"San Diego Churubusco, Coyoacán, Ciudad De México 04120, México.","$44,500,000 MXN",1968,casa
+83.0,83.0,2,2,2,"Granada Amp, Miguel Hidalgo, Ciudad De México 11529, México.","$5,790,000 MXN",2012,departamento
+194.0,97.0,3,2,2,"La Joya, Tlalpan, Ciudad De México 14090, México.","$4,650,000 MXN",2007,Loseta Porcelanizada
+800.0,800.0,4,4,0,"Exhacienda Coapa, Tlalpan, Ciudad De México 04980, México.","$16,900,000 MXN",1983,regular
+300.0,300.0,3,3,3,"Lomas Del Pedregal Framboyanes, Tlalpan, Ciudad De México 14150, México.","$19,660,000 MXN",2023,departamento
+365.0,366.0,4,3,3,"Jardines En La Montaña, Tlalpan, Ciudad De México 14210, México.","$12,500,000 MXN",1992,Madera y Loseta
+103.0,103.0,2,2,2,"Anáhuac I Secc., Miguel Hidalgo, Ciudad De México 11320, México.","$6,750,000 MXN",2015,departamento
+600.0,679.1,5,5,3,"Bosques De Las Lomas, Cuajimalpa De Morelos, Ciudad De México 05120, México.","$20,000,000 MXN",1993,regular
+110.0,110.0,2,2,1,"Cuauhtémoc, Cuauhtémoc, Ciudad De México 06500, México.","$6,440,000 MXN",2013,departamento
+84.9,84.9,,2,2,"Santa Cruz Atoyac, Benito Juárez, Ciudad De México 03310, México.","$4,950,000 MXN",2013,departamento
+680.0,200.0,,,0,"Popotla, Miguel Hidalgo, Ciudad De México 11400, México.","$19,800,000 MXN",1992,regular
+"1,000.0",320.0,3,3,8,"Héroes De Padierna, Tlalpan, Ciudad De México 14200, México.","$11,500,000 MXN",1983,Laminado
+93.5,93.5,2,2,2,"Roma Norte, Cuauhtémoc, Ciudad De México 06700, México.","$8,602,000 MXN",2023,regular
+63.0,63.0,1,1,0,"Granada Amp, Miguel Hidalgo, Ciudad De México 11529, México.","$6,000,000 MXN",2021,regular
+56.0,56.0,2,1,1,"Agrícola Oriental, Iztacalco, Ciudad De México 08500, México.","$1,899,000 MXN",2021,departamento
+144.0,144.0,3,2,2,"El Yaqui, Cuajimalpa De Morelos, Ciudad De México 05320, México.","$6,300,000 MXN",2013,departamento
+136.0,233.0,4,3,1,"Anzures, Miguel Hidalgo, Ciudad De México 11590, México.","$14,450,000 MXN",1998,regular
+84.2,84.2,2,2,2,"Residencial Zacatenco, Gustavo A. Madero, Ciudad De México 07369, México.","$4,190,000 MXN",2021,Porcelanato y Cerámica
+88.0,88.0,3,2,2,"Residencial Zacatenco, Gustavo A. Madero, Ciudad De México 07369, México.","$4,300,000 MXN",2021,Piso de Ingeniería
+215.0,475.0,4,4,3,"San Miguel, Iztapalapa, Ciudad De México 09360, México.","$5,600,000 MXN",1987,Cerámica y azulejo en baños
+41.0,41.0,2,1,0,"Portales Norte, Benito Juárez, Ciudad De México 03303, México.","$1,800,000 MXN",1992,departamento
+57.0,57.0,1,1,1,"El Yaqui, Cuajimalpa De Morelos, Ciudad De México 05320, México.","$3,100,000 MXN",2017,regular
+83.0,83.0,2,2,2,"Nonoalco, Benito Juárez, Ciudad De México 03700, México.","$5,025,000 MXN",2022,departamento
+83.0,83.0,2,2,2,"Nonoalco, Benito Juárez, Ciudad De México 03700, México.","$4,835,000 MXN",2022,departamento
+83.0,83.0,2,2,1,"Nonoalco, Benito Juárez, Ciudad De México 03700, México.","$4,120,000 MXN",2022,departamento
+83.0,83.0,2,2,1,"Nonoalco, Benito Juárez, Ciudad De México 03700, México.","$4,035,000 MXN",2022,departamento
+105.1,76.8,2,2,1,"Cuauhtémoc, Cuauhtémoc, Ciudad De México 06500, México.","$6,200,000 MXN",2022,departamento
+495.0,525.0,6,6,6,"Ajusco, Coyoacán, Ciudad De México 04300, México.","$12,000,000 MXN",2007,casa
+96.8,96.8,2,2,1,"Postal, Benito Juárez, Ciudad De México 03410, México.","$3,950,000 MXN",2022,penthouse
+108.7,108.7,3,2,1,"Postal, Benito Juárez, Ciudad De México 03410, México.","$4,100,000 MXN",2022,penthouse
+500.0,670.0,4,4,6,"Cumbres de Sta. Fe, Cuajimalpa De Morelos, Ciudad De México 05600, México.","$46,800,000 MXN",2018,regular
+300.0,300.0,3,3,3,"Bosques De Las Lomas, Cuajimalpa De Morelos, Ciudad De México 05120, México.","$18,753,324 MXN / $975,000 USD",2012,departamento
+111.0,328.0,3,3,4,"Barrio De Caramagüey, Tlalpan, Ciudad De México 14267, México.","$12,000,000 MXN",2021,casa
+111.0,328.0,3,3,4,"Barrio De Caramagüey, Tlalpan, Ciudad De México 14267, México.","$12,000,000 MXN",2021,casa
+133.1,133.1,3,3,1,"Independencia, Benito Juárez, Ciudad De México 03630, México.","$5,767,339 MXN",2021,departamento
+133.1,133.1,3,3,1,"Independencia, Benito Juárez, Ciudad De México 03630, México.","$5,751,691 MXN",2021,departamento
+93.3,93.3,3,2,1,"Independencia, Benito Juárez, Ciudad De México 03630, México.","$4,878,163 MXN",2021,departamento
+137.0,183.0,3,3,3,"Adolfo López Mateos, Cuajimalpa De Morelos, Ciudad De México 05280, México.","$5,550,000 MXN",2011,regular
+"1,285.0",539.0,3,3,6,"San Miguel Topilejo, Tlalpan, Ciudad De México 14500, México.","$7,100,000 MXN",1989,casa
+125.0,244.0,3,3,2,"Lomas De Las Aguilas, Alvaro Obregón, Ciudad De México 01730, México.","$5,100,000 MXN",1985,irregular
+188.0,155.0,3,2,2,"Fuentes Del Pedregal, Tlalpan, Ciudad De México 14140, México.","$4,690,000 MXN",1981,departamento
+70.0,70.0,2,1,1,"Ex-Hipódromo de Peralvillo, Cuauhtémoc, Ciudad De México 06401, México.","$1,650,000 MXN",1998,departamento
+336.8,"2,269.0",,,0,"Nápoles, Benito Juárez, Ciudad De México 03810, México.","$82,000,000 MXN",1960,departamento
+161.0,368.0,5,4,2,"Estrella, Gustavo A. Madero, Ciudad De México 07810, México.","$7,800,000 MXN",1970,Mármol y duela
+200.0,255.0,3,2,4,"San José Del Olivar, Alvaro Obregón, Ciudad De México 01770, México.","$6,500,000 MXN",2006,casa
+62.0,62.0,1,1,2,"Guadalupe Inn, Alvaro Obregón, Ciudad De México 01020, México.","$4,300,000 MXN",2014,departamento
+422.0,422.0,3,3,3,"Polanco Chapultepec, Miguel Hidalgo, Ciudad De México 11560, México.","$67,000,000 MXN",1990,regular
+170.0,528.0,3,2,2,"Panamericana, Gustavo A. Madero, Ciudad De México 07770, México.","$3,185,000 MXN",1988,regular
